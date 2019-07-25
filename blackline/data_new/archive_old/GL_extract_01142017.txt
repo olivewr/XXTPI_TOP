@@ -1,0 +1,1654 @@
+72	101100									Petty Cash		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+35	101100									Petty Cash		A	Asset	TRUE	FALSE		TRY	12/31/2016			17760.44
+30	101100									Petty Cash		A	Asset	TRUE	FALSE		TRY	12/31/2016			18574.98
+74	101100									Petty Cash		A	Asset	TRUE	FALSE		CNY	12/31/2016			5988.92
+11	101100									Petty Cash		A	Asset	TRUE	FALSE		USD	12/31/2016			1500
+40	101100									Petty Cash		A	Asset	TRUE	FALSE		MXN	12/31/2016			10332
+13	101100									Petty Cash		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+15	101100									Petty Cash		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	101100									Petty Cash		A	Asset	TRUE	FALSE		USD	12/31/2016			167.66
+41	101100									Petty Cash		A	Asset	TRUE	FALSE		USD	12/31/2016			377.8
+40	101150									Petty Cash-pesos		A	Asset	TRUE	FALSE		MXN	12/31/2016			10000
+41	101150									Petty Cash-pesos		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+20	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	12/31/2016			517.05
+12	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	12/31/2016			-159462.57
+15	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	12/31/2016			618201.08
+13	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+14	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	12/31/2016			1977174.09
+71	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	12/31/2016			29636130.39
+30	101211									Sekerbank TL deposit		A	Asset	TRUE	FALSE		TRY	12/31/2016			156288
+30	101212									Sekerbank USD deposit		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+11	101213									Cash in Bank - USD (Bank of America)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	101214									Cash in Bank - USD (Comerica)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	101214									Cash in Bank - USD (Comerica)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	101217									Cash in Bank - USD Settlement Account(ABC Bank)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+72	101218									Cash in Bank - USD Capital Account (ABC Bank)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+72	101219									Cash in Bank - CNY Warranty Account (BOC Bank)		A	Asset	TRUE	FALSE		CNY	12/31/2016			493534.91
+72	101220									Cash in Bank - RMB Settlement Account (ABC Bank)		A	Asset	TRUE	FALSE		CNY	12/31/2016			82054.4
+72	101221									Cash in Bank - USD Pending Account (ABC Bank)		A	Asset	TRUE	FALSE		CNY	12/31/2016			14296453.03
+72	101222									Cash in Bank - RMB Settlement Account (BOC Bank)		A	Asset	TRUE	FALSE		CNY	12/31/2016			28838660.17
+72	101223									Cash in Bank - USD Settlement Account (BOC Bank)		A	Asset	TRUE	FALSE		CNY	12/31/2016			125665.21
+30	101226									Cash in Bank - MXN (Bancomer manual)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	101227									Cash in Bank TRY (Sekerbank)		A	Asset	TRUE	FALSE		TRY	12/31/2016			9854.42
+30	101228									Cash in Bank Euro (Sekerbank)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	101229									Cash in Bank USD (Sekerbank)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	101230									Cash in Bank - EUR		A	Asset	TRUE	FALSE		TRY	12/31/2016			221385.17
+30	101231									Cash in Bank - TKY (YKB)		A	Asset	TRUE	FALSE		TRY	12/31/2016			79386.52
+35	101231									Cash in Bank - TKY (YKB)		A	Asset	TRUE	FALSE		TRY	12/31/2016			6186.29
+30	101232									Cash in Bank - USD (YKB)		A	Asset	TRUE	FALSE		TRY	12/31/2016			13672.8
+35	101232									Cash in Bank - USD (YKB)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	101233									Cash in Bank - EUR (YKB)		A	Asset	TRUE	FALSE		TRY	12/31/2016			239081.31
+35	101233									Cash in Bank - EUR (YKB)		A	Asset	TRUE	FALSE		TRY	12/31/2016			43.78
+30	101234									Salary Payment (YKB)		A	Asset	TRUE	FALSE		TRY	12/31/2016			27029.14
+30	101235									Cash in Bank - GBP (Sekerbank)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	101236									Cash in Bank - TRY (GARANTI BANKASI Bank)		A	Asset	TRUE	FALSE		TRY	12/31/2016			18277.73
+30	101237									Cash in Bank - EUR (GARANTI BANKASI Bank)		A	Asset	TRUE	FALSE		TRY	12/31/2016			16888.61
+30	101238									Cash in Bank - USD (GARANTI BANKASI Bank)		A	Asset	TRUE	FALSE		TRY	12/31/2016			3553.02
+72	101239									Cash in Bank - EUR (BOC Bank)		A	Asset	TRUE	FALSE		CNY	12/31/2016			1062974.92
+30	101240									Cash in Bank - TRY (2nd TRY Account in GARANTI Bank)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	101241									Cash in Bank - USD (2nd USD Account in GARANTI Bank)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	101242									Cash in Bank - GBP (GARANTI BANKASI Bank)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	101243									Cash in Bank-TRY-OdeaBank		A	Asset	TRUE	FALSE		TRY	12/31/2016			1381367.76
+35	101243									Cash in Bank-TRY-OdeaBank		A	Asset	TRUE	FALSE		TRY	12/31/2016			90008.43
+35	101244									Cash in Bank-USD-OdeaBank		A	Asset	TRUE	FALSE		TRY	12/31/2016			6894.29
+30	101244									Cash in Bank-USD-OdeaBank		A	Asset	TRUE	FALSE		TRY	12/31/2016			194532.97
+35	101245									Odea EUR		A	Asset	TRUE	FALSE		TRY	12/31/2016			2101333.03
+30	101245									Odea EUR		A	Asset	TRUE	FALSE		TRY	12/31/2016			4282823.34
+30	101246									Cash in Bank-GBP-OdeaBank		A	Asset	TRUE	FALSE		TRY	12/31/2016			2.25
+35	101246									Cash in Bank-GBP-OdeaBank		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	101247									YKB EUR-43146573		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	101250									Cash in Bank - MXN (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+40	101250									Cash in Bank - MXN (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+41	101250									Cash in Bank - MXN (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	101251									Cash in Bank - USD (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+41	101251									Cash in Bank - USD (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	101252									Cash in Bank - USD (Sovereign Bank)		A	Asset	TRUE	FALSE		USD	12/31/2016			2012851.78
+49	101252									Cash in Bank - USD (Sovereign Bank)		A	Asset	TRUE	FALSE		USD	12/31/2016			1059847.36
+72	101260									Cash In Bank-RMB(Basis Settlement DFRC Bank)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+74	101260									Cash In Bank-RMB(Basis Settlement DFRC Bank)		A	Asset	TRUE	FALSE		CNY	12/31/2016			17605137.84
+74	101265									Cash in Bank - USD Settlement Account (DFR)		A	Asset	TRUE	FALSE		CNY	12/31/2016			9872986.19
+74	101266									Cash in Bank - USD Inspection Account (DFR)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+44	101267									Cash in Bank - MXN Bancomer		A	Asset	TRUE	FALSE		MXN	12/31/2016			126806.51
+40	101267									Cash in Bank - MXN Bancomer		A	Asset	TRUE	FALSE		MXN	12/31/2016			8633083.49
+40	101268									Cash in Bank - USD Bancomer		A	Asset	TRUE	FALSE		MXN	12/31/2016			1416295.89
+44	101268									Cash in Bank - USD Bancomer		A	Asset	TRUE	FALSE		MXN	12/31/2016			4326434.29
+74	101269									Cash in bank-DKK in DFR		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+74	101270									Cash in bank-GBP in DFR		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+74	101271									Cash in bank-EUR in DFR		A	Asset	TRUE	FALSE		CNY	12/31/2016			2.19
+74	101272									Cash in bank-RMB Settlement Account (BOC DF)		A	Asset	TRUE	FALSE		CNY	12/31/2016			2266.65
+43	101273									Cash in Bank - MXN Bancomer		A	Asset	TRUE	FALSE		MXN	12/31/2016			3382378.25
+46	101273									Cash in Bank - MXN Bancomer		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+35	101274									Cash in Bank - USD Bancomer		A	Asset	TRUE	FALSE		TRY	12/31/2016			171562.8
+46	101274									Cash in Bank - USD Bancomer		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+43	101274									Cash in Bank - USD Bancomer		A	Asset	TRUE	FALSE		MXN	12/31/2016			525428.07
+47	101275									Cash in Bank - USD Santander		A	Asset	TRUE	FALSE		USD	12/31/2016			429998.4
+35	101275									Cash in Bank - USD Santander		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+72	101276									Cash in bank - RMB Settlement Account (CCB TC)		A	Asset	TRUE	FALSE		CNY	12/31/2016			1512132.01
+72	101277									Cash in bank - USD Settlement Account (CCB TC)		A	Asset	TRUE	FALSE		CNY	12/31/2016			11061977.58
+72	101279									Cash in bank - China Citic Bank - Credit Card		A	Asset	TRUE	FALSE		CNY	12/31/2016			800
+12	101280									Cash in Bank (Wells Fargo)		A	Asset	TRUE	FALSE		USD	12/31/2016			67490625
+46	101281									Cash in Bank - MXN Bancomer(0107692080)		A	Asset	TRUE	FALSE		MXN	12/31/2016			551886.65
+46	101282									Cash in Bank - USD Bancomer(0107692250)		A	Asset	TRUE	FALSE		MXN	12/31/2016			183531.24
+13	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+43	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+30	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		TRY	12/31/2016			.03
+14	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+35	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+72	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+12	101400									Investments - Short Term		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	101910									Restricted Cash - USD		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	101910									Restricted Cash - USD		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+11	101910									Restricted Cash - USD		A	Asset	TRUE	FALSE		USD	12/31/2016			294771.47
+12	101910									Restricted Cash - USD		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	101910									Restricted Cash - USD		A	Asset	TRUE	FALSE		USD	12/31/2016			2063658.21
+72	101930									Restricted Cash - EUR		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+72	101940									Restricted Cash - RMB		A	Asset	TRUE	FALSE		CNY	12/31/2016			1050000
+74	101940									Restricted Cash - RMB		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+35	101950									Restricted Cash - TK		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	101950									Restricted Cash - TK		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+72	102100									Cash Equivalents (Short Term) Investment		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+30	102100									Cash Equivalents (Short Term) Investment		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+72	102200									Entrust Loan - Lend to Dafeng		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+49	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	12/31/2016			2012487.25
+47	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	12/31/2016			3397448.18
+14	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	12/31/2016			5032027.65
+15	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	12/31/2016			1150062.1
+11	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	12/31/2016			5612317.15
+20	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+35	111100									AR - Trade		A	Asset	TRUE	FALSE		TRY	12/31/2016			8580380.62
+44	111100									AR - Trade		A	Asset	TRUE	FALSE		MXN	12/31/2016			305051.89
+30	111100									AR - Trade		A	Asset	TRUE	FALSE		TRY	12/31/2016			56844611.62
+12	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	12/31/2016			11149150.67
+41	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	12/31/2016			8259780.45
+71	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	12/31/2016			19106089.24
+72	111100									AR - Trade		A	Asset	TRUE	FALSE		CNY	12/31/2016			98179030.5
+74	111100									AR - Trade		A	Asset	TRUE	FALSE		CNY	12/31/2016			10964602.69
+74	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+13	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	12/31/2016			-11149150.67
+11	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	12/31/2016			-4108666.46
+30	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+72	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+71	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	12/31/2016			-293980.5
+15	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	12/31/2016			-1372672.46
+12	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	111112									AR - Trade Customer Deposits Not Paid		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	111120									AR - Trade Revenue Recognition Contra		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+15	111150									AR- Trade Allowance for Uncollectible		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+71	111150									AR- Trade Allowance for Uncollectible		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	111150									AR- Trade Allowance for Uncollectible		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+35	111200									AR - Employee Advances		A	Asset	TRUE	FALSE		TRY	12/31/2016			1750
+71	111200									AR - Employee Advances		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	111200									AR - Employee Advances		A	Asset	TRUE	FALSE		USD	12/31/2016			5621.31
+13	111200									AR - Employee Advances		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	111200									AR - Employee Advances		A	Asset	TRUE	FALSE		TRY	12/31/2016			51413.41
+11	111200									AR - Employee Advances		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	111300									AR - Tax Refunds		A	Asset	TRUE	FALSE		TRY	12/31/2016			386240.05
+72	111300									AR - Tax Refunds		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+15	111300									AR - Tax Refunds		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	111300									AR - Tax Refunds		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+12	111300									AR - Tax Refunds		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	111400									AR - Other		A	Asset	TRUE	FALSE		CNY	12/31/2016			4710.42
+30	111400									AR - Other		A	Asset	TRUE	FALSE		TRY	12/31/2016			45931.32
+35	111400									AR - Other		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+41	111400									AR - Other		A	Asset	TRUE	FALSE		USD	12/31/2016			6436.09
+14	111400									AR - Other		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	111400									AR - Other		A	Asset	TRUE	FALSE		USD	12/31/2016			69186.44
+15	111400									AR - Other		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	111400									AR - Other		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+12	111400									AR - Other		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	111400									AR - Other		A	Asset	TRUE	FALSE		USD	12/31/2016			610.15
+20	111400									AR - Other		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	111405									AR - Other Accounts Receivable - Dafeng		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+74	111405									AR - Other Accounts Receivable - Dafeng		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+72	111800									AR - Clearing		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+11	111800									AR - Clearing		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	111800									AR - Clearing		A	Asset	TRUE	FALSE		TRY	12/31/2016			202.06
+30	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		TRY	12/31/2016			2628934.99
+72	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+71	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+15	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	12/31/2016			6362412.08
+11	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	12/31/2016			192763.7
+13	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	12/31/2016			386045.71
+14	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	12/31/2016			1261.4
+11	111905									AR - Intercompany (TPI-TECH)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	111905									AR - Intercompany (TPI-TECH)		A	Asset	TRUE	FALSE		USD	12/31/2016			-5149144.75
+15	111905									AR - Intercompany (TPI-TECH)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	111905									AR - Intercompany (TPI-TECH)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	111910									AR - Intercompany (TPI-OH)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	111910									AR - Intercompany (TPI-OH)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	111910									AR - Intercompany (TPI-OH)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	111910									AR - Intercompany (TPI-OH)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+71	111910									AR - Intercompany (TPI-OH)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		USD	12/31/2016			-1415304.78
+15	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		USD	12/31/2016			-11558118.61
+71	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		CNY	12/31/2016			174145628.39
+72	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+47	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	12/31/2016			32350.72
+13	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+35	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+14	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	12/31/2016			1099.16
+15	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	12/31/2016			4917638.39
+12	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+71	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	12/31/2016			88317.47
+30	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		TRY	12/31/2016			82940.19
+14	111923									AR - Intercompany (TPI-Dafeng)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+15	111923									AR - Intercompany (TPI-Dafeng)		A	Asset	TRUE	FALSE		USD	12/31/2016			3183579
+11	111923									AR - Intercompany (TPI-Dafeng)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	111923									AR - Intercompany (TPI-Dafeng)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+71	111923									AR - Intercompany (TPI-Dafeng)		A	Asset	TRUE	FALSE		USD	12/31/2016			1305000
+13	111923									AR - Intercompany (TPI-Dafeng)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	111923									AR - Intercompany (TPI-Dafeng)		A	Asset	TRUE	FALSE		CNY	12/31/2016			51608255.61
+11	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		USD	12/31/2016			158542.2
+71	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+13	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		USD	12/31/2016			1564019.83
+12	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		USD	12/31/2016			22145000
+30	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+72	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+41	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		USD	12/31/2016			461664.83
+41	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		USD	12/31/2016			13379.17
+71	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		USD	12/31/2016			-267000
+14	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		USD	12/31/2016			33736.53
+12	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		USD	12/31/2016			114266929.98
+11	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		USD	12/31/2016			363690.07
+72	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+30	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		TRY	12/31/2016			13624337.93
+13	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+32	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+14	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+35	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		TRY	12/31/2016			39417
+74	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+72	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		CNY	12/31/2016			1540.43
+12	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		USD	12/31/2016			1197686.1
+13	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		USD	12/31/2016			-2858545.45
+11	111941									AR - Intercompany (TPI-TK LLC)		A	Asset	TRUE	FALSE		USD	12/31/2016			6053252
+12	111941									AR - Intercompany (TPI-TK LLC)		A	Asset	TRUE	FALSE		USD	12/31/2016			.73
+13	111941									AR - Intercompany (TPI-TK LLC)		A	Asset	TRUE	FALSE		USD	12/31/2016			17000000
+72	111942									AR - Intercompany (TPI-TK2)		A	Asset	TRUE	FALSE		CNY	12/31/2016			34685000
+37	111942									AR - Intercompany (TPI-TK2)		A	Asset	TRUE	FALSE		USD	12/31/2016			226043.95
+35	111942									AR - Intercompany (TPI-TK2)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	111942									AR - Intercompany (TPI-TK2)		A	Asset	TRUE	FALSE		TRY	12/31/2016			614613.48
+74	111942									AR - Intercompany (TPI-TK2)		A	Asset	TRUE	FALSE		CNY	12/31/2016			120438.95
+95	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	12/31/2016			-1494847.14
+49	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	12/31/2016			1850000
+47	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	12/31/2016			1532413.04
+43	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+41	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	12/31/2016			68786544.1
+94	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	12/31/2016			-68786543.86
+11	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	12/31/2016			2159852.76
+12	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	12/31/2016			19505002
+74	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+40	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+72	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		CNY	12/31/2016			26915560
+30	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		TRY	12/31/2016			382.82
+14	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	12/31/2016			4870.02
+13	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	12/31/2016			1762242.16
+41	111946									AR - Intercompany (TPI-MX MXN)		A	Asset	TRUE	FALSE		USD	12/31/2016			2827964.75
+94	111946									AR - Intercompany (TPI-MX MXN)		A	Asset	TRUE	FALSE		USD	12/31/2016			-2894853.13
+46	111946									AR - Intercompany (TPI-MX MXN)		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+40	111946									AR - Intercompany (TPI-MX MXN)		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+44	111946									AR - Intercompany (TPI-MX MXN)		A	Asset	TRUE	FALSE		MXN	12/31/2016			1382180.8
+95	111948									AR-Intercompany MX2		A	Asset	TRUE	FALSE		USD	12/31/2016			-3508441.09
+43	111948									AR-Intercompany MX2		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+40	111948									AR-Intercompany MX2		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+12	111948									AR-Intercompany MX2		A	Asset	TRUE	FALSE		USD	12/31/2016			7410468
+13	111948									AR-Intercompany MX2		A	Asset	TRUE	FALSE		USD	12/31/2016			681046.38
+47	111948									AR-Intercompany MX2		A	Asset	TRUE	FALSE		USD	12/31/2016			3508440.86
+49	111948									AR-Intercompany MX2		A	Asset	TRUE	FALSE		USD	12/31/2016			1767579.7
+41	111948									AR-Intercompany MX2		A	Asset	TRUE	FALSE		USD	12/31/2016			5749166.9
+46	111949									AR - Intercompany (MX3)		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+41	111949									AR - Intercompany (MX3)		A	Asset	TRUE	FALSE		USD	12/31/2016			3716122.24
+49	111949									AR - Intercompany (MX3)		A	Asset	TRUE	FALSE		USD	12/31/2016			390007.06
+47	111949									AR - Intercompany (MX3)		A	Asset	TRUE	FALSE		USD	12/31/2016			218283.3
+12	111949									AR - Intercompany (MX3)		A	Asset	TRUE	FALSE		USD	12/31/2016			1864500
+13	111949									AR - Intercompany (MX3)		A	Asset	TRUE	FALSE		USD	12/31/2016			190905.2
+32	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	12/31/2016			-22108062
+72	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+71	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	12/31/2016			13361136.08
+41	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	12/31/2016			6255851.15
+15	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	12/31/2016			16004108.22
+14	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	12/31/2016			-4544.83
+13	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	12/31/2016			-98524633.04
+13	111955									AR - VienTek Intercompany (USA)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	111955									AR - VienTek Intercompany (USA)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	111955									AR - VienTek Intercompany (USA)		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+14	111957									AR - VienTek Intercompany (MX)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	111957									AR - VienTek Intercompany (MX)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	111960									AR - On Account Payments		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+11	111960									AR - On Account Payments		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+71	111960									AR - On Account Payments		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+47	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	12/31/2016			-247901.74
+15	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+35	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+72	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+40	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+30	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		TRY	12/31/2016			-119.55
+74	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+71	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	12/31/2016			-589456.52
+49	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+20	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	12/31/2016			-8848.82
+44	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+44	111980									AR - Unidentified Receipts		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+72	111980									AR - Unidentified Receipts		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+13	111980									AR - Unidentified Receipts		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	111980									AR - Unidentified Receipts		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+11	111980									AR - Unidentified Receipts		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	111980									AR - Unidentified Receipts		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+94	121100									Notes Receivable - Employees		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	121100									Notes Receivable - Employees		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	121100									Notes Receivable - Employees		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+12	121100									Notes Receivable - Employees		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	121118									16% IVA acreditable		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+40	121126									11% IVA acreditable		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+41	121126									11% IVA acreditable		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+46	121126									11% IVA acreditable		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+43	121128									VAT to be paid		A	Asset	TRUE	FALSE		MXN	12/31/2016			3395715.06
+46	121128									VAT to be paid		A	Asset	TRUE	FALSE		MXN	12/31/2016			326682.41
+44	121128									VAT to be paid		A	Asset	TRUE	FALSE		MXN	12/31/2016			75540.4
+41	121128									VAT to be paid		A	Asset	TRUE	FALSE		USD	12/31/2016			79640.2
+40	121128									VAT to be paid		A	Asset	TRUE	FALSE		MXN	12/31/2016			-1721225.46
+47	121128									VAT to be paid		A	Asset	TRUE	FALSE		USD	12/31/2016			-164330
+49	121128									VAT to be paid		A	Asset	TRUE	FALSE		USD	12/31/2016			-15809.26
+43	121129									VAT paid		A	Asset	TRUE	FALSE		MXN	12/31/2016			8099873
+47	121129									VAT paid		A	Asset	TRUE	FALSE		USD	12/31/2016			-391979.92
+41	121129									VAT paid		A	Asset	TRUE	FALSE		USD	12/31/2016			-739642.83
+49	121129									VAT paid		A	Asset	TRUE	FALSE		USD	12/31/2016			-45035.96
+40	121129									VAT paid		A	Asset	TRUE	FALSE		MXN	12/31/2016			15283979.25
+46	121129									VAT paid		A	Asset	TRUE	FALSE		MXN	12/31/2016			930623
+41	121130									VAT for Pedimentos		A	Asset	TRUE	FALSE		USD	12/31/2016			-7439.5
+49	121130									VAT for Pedimentos		A	Asset	TRUE	FALSE		USD	12/31/2016			-9121.32
+47	121130									VAT for Pedimentos		A	Asset	TRUE	FALSE		USD	12/31/2016			-33215.4
+46	121130									VAT for Pedimentos		A	Asset	TRUE	FALSE		MXN	12/31/2016			188483
+40	121130									VAT for Pedimentos		A	Asset	TRUE	FALSE		MXN	12/31/2016			149825
+44	121130									VAT for Pedimentos		A	Asset	TRUE	FALSE		MXN	12/31/2016			3905
+43	121130									VAT for Pedimentos		A	Asset	TRUE	FALSE		MXN	12/31/2016			686363
+40	121132									IVA Por Acreditar		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+46	121175									Employment subsidy		A	Asset	TRUE	FALSE		MXN	12/31/2016			7647.18
+40	121175									Employment subsidy		A	Asset	TRUE	FALSE		MXN	12/31/2016			51165.83
+43	121175									Employment subsidy		A	Asset	TRUE	FALSE		MXN	12/31/2016			46220.67
+41	121175									Employment subsidy		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	121200									Interest Receivable		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	121300									Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		USD	12/31/2016			273185.49
+72	121300									Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		CNY	12/31/2016			1145469.03
+74	121300									Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		CNY	12/31/2016			2736836.78
+40	121305									Sundry debtors -MXN		A	Asset	TRUE	FALSE		MXN	12/31/2016			499069.67
+43	121305									Sundry debtors -MXN		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+46	121305									Sundry debtors -MXN		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+41	121305									Sundry debtors -MXN		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+43	121307									Sundry debtors -USD		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+46	121307									Sundry debtors -USD		A	Asset	TRUE	FALSE		MXN	12/31/2016			4401.43
+41	121307									Sundry debtors -USD		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	121307									Sundry debtors -USD		A	Asset	TRUE	FALSE		MXN	12/31/2016			213340.3
+94	121324									Favorable Income Tax-Prior Per		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	121324									Favorable Income Tax-Prior Per		A	Asset	TRUE	FALSE		MXN	12/31/2016			2061577
+41	121324									Favorable Income Tax-Prior Per		A	Asset	TRUE	FALSE		USD	12/31/2016			118892.9
+14	121400									Unbilled Revenue		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	121955									Note Receivable - VienTek (US)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	121956									Note Receivable - China (72 & 73)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+11	131500									Finished Goods		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	131500									Finished Goods		A	Asset	TRUE	FALSE		USD	12/31/2016			490290.42
+41	131500									Finished Goods		A	Asset	TRUE	FALSE		USD	12/31/2016			384236.71
+44	131500									Finished Goods		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+30	131500									Finished Goods		A	Asset	TRUE	FALSE		TRY	12/31/2016			1970808.4
+74	131500									Finished Goods		A	Asset	TRUE	FALSE		CNY	12/31/2016			8456420.84
+40	131500									Finished Goods		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+35	131500									Finished Goods		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+72	131500									Finished Goods		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+47	131500									Finished Goods		A	Asset	TRUE	FALSE		USD	12/31/2016			.03
+30	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		TRY	12/31/2016			58795423.98
+72	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		CNY	12/31/2016			105016719.49
+11	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	12/31/2016			1838589.15
+41	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	12/31/2016			392616.23
+71	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	12/31/2016			17265942
+74	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+47	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	12/31/2016			192584.53
+14	131515									Finished Goods (GAAP) - Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			13664
+47	131515									Finished Goods (GAAP) - Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			171039
+72	131515									Finished Goods (GAAP) - Valuation		A	Asset	TRUE	FALSE		CNY	12/31/2016			-464521
+30	131515									Finished Goods (GAAP) - Valuation		A	Asset	TRUE	FALSE		TRY	12/31/2016			1353325
+41	131515									Finished Goods (GAAP) - Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			1783
+72	131520									Finished Goods - Prior Year Bill & Hold		A	Asset	TRUE	FALSE		CNY	12/31/2016			-1727002.91
+14	131525									Finished Goods - Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			3644
+74	131525									Finished Goods - Valuation		A	Asset	TRUE	FALSE		CNY	12/31/2016			-138094.19
+30	131525									Finished Goods - Valuation		A	Asset	TRUE	FALSE		TRY	12/31/2016			58605
+41	131525									Finished Goods - Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			5984
+47	131525									Finished Goods - Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	131525									Finished Goods - Valuation		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+47	131530									Inventory Reserve ? NRV ? FG		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	131530									Inventory Reserve ? NRV ? FG		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+47	131540									Inventory Reserve ? NRV ? B&H		A	Asset	TRUE	FALSE		USD	12/31/2016			-134181
+14	131540									Inventory Reserve ? NRV ? B&H		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	131550									Finished Goods - Obsolesence		A	Asset	TRUE	FALSE		USD	12/31/2016			-5389.29
+30	131550									Finished Goods - Obsolesence		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+71	132100									Raw Material		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	132100									Raw Material		A	Asset	TRUE	FALSE		CNY	12/31/2016			36620896.21
+43	132100									Raw Material		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+47	132100									Raw Material		A	Asset	TRUE	FALSE		USD	12/31/2016			1354304.01
+35	132100									Raw Material		A	Asset	TRUE	FALSE		TRY	12/31/2016			9120057.3
+14	132100									Raw Material		A	Asset	TRUE	FALSE		USD	12/31/2016			2379772.88
+11	132100									Raw Material		A	Asset	TRUE	FALSE		USD	12/31/2016			683284.72
+30	132100									Raw Material		A	Asset	TRUE	FALSE		TRY	12/31/2016			15999647.55
+41	132100									Raw Material		A	Asset	TRUE	FALSE		USD	12/31/2016			6679093.27
+72	132100									Raw Material		A	Asset	TRUE	FALSE		CNY	12/31/2016			23617106.41
+20	132100									Raw Material		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	132100									Raw Material		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+74	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+12	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+14	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	12/31/2016			115672.26
+47	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	12/31/2016			1120
+11	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	12/31/2016			127492.99
+30	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		TRY	12/31/2016			109951.96
+41	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	12/31/2016			106809.9
+35	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		TRY	12/31/2016			357402.14
+74	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+14	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+35	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		TRY	12/31/2016			632249
+72	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+30	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		TRY	12/31/2016			893104
+72	132150									Raw Material - Obsolesence		A	Asset	TRUE	FALSE		CNY	12/31/2016			-435835.19
+30	132150									Raw Material - Obsolesence		A	Asset	TRUE	FALSE		TRY	12/31/2016			-189485.74
+41	132150									Raw Material - Obsolesence		A	Asset	TRUE	FALSE		USD	12/31/2016			-35247.01
+74	132150									Raw Material - Obsolesence		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+11	132150									Raw Material - Obsolesence		A	Asset	TRUE	FALSE		USD	12/31/2016			-56219.92
+14	132150									Raw Material - Obsolesence		A	Asset	TRUE	FALSE		USD	12/31/2016			-92388.32
+30	132200									WIP-Material Overhead		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+14	132200									WIP-Material Overhead		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	132200									WIP-Material Overhead		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+30	132300									WIP-Overhead		A	Asset	TRUE	FALSE		TRY	12/31/2016			3211138.24
+41	132300									WIP-Overhead		A	Asset	TRUE	FALSE		USD	12/31/2016			202411.38
+47	132300									WIP-Overhead		A	Asset	TRUE	FALSE		USD	12/31/2016			82401.37
+35	132300									WIP-Overhead		A	Asset	TRUE	FALSE		TRY	12/31/2016			2868058.42
+14	132300									WIP-Overhead		A	Asset	TRUE	FALSE		USD	12/31/2016			446571.45
+11	132300									WIP-Overhead		A	Asset	TRUE	FALSE		USD	12/31/2016			73341.69
+72	132300									WIP-Overhead		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+11	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	12/31/2016			71390.92
+47	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	12/31/2016			28562
+30	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		TRY	12/31/2016			1760038.85
+72	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+35	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		TRY	12/31/2016			-180470.05
+14	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	12/31/2016			521000.55
+72	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+47	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	12/31/2016			127859.74
+30	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		TRY	12/31/2016			56592.36
+35	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+41	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	12/31/2016			12592.73
+11	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+35	132600									Intransit Inventory		A	Asset	TRUE	FALSE		TRY	12/31/2016			1855150.93
+72	132600									Intransit Inventory		A	Asset	TRUE	FALSE		CNY	12/31/2016			3216325.11
+30	132600									Intransit Inventory		A	Asset	TRUE	FALSE		TRY	12/31/2016			3062675.74
+14	132600									Intransit Inventory		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	132600									Intransit Inventory		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+47	133100									WIP-Control		A	Asset	TRUE	FALSE		USD	12/31/2016			509748.37
+35	133100									WIP-Control		A	Asset	TRUE	FALSE		TRY	12/31/2016			395617.4
+74	133100									WIP-Control		A	Asset	TRUE	FALSE		CNY	12/31/2016			32043553.82
+41	133100									WIP-Control		A	Asset	TRUE	FALSE		USD	12/31/2016			1574817.08
+20	133100									WIP-Control		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	133100									WIP-Control		A	Asset	TRUE	FALSE		USD	12/31/2016			1230517.89
+11	133100									WIP-Control		A	Asset	TRUE	FALSE		USD	12/31/2016			1727715.38
+72	133100									WIP-Control		A	Asset	TRUE	FALSE		CNY	12/31/2016			27686081.54
+30	133100									WIP-Control		A	Asset	TRUE	FALSE		TRY	12/31/2016			11803519.07
+47	133125									WIP-Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			513118
+30	133125									WIP-Valuation		A	Asset	TRUE	FALSE		TRY	12/31/2016			279681
+41	133125									WIP-Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			28424.01
+14	133125									WIP-Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			18218
+72	133125									WIP-Valuation		A	Asset	TRUE	FALSE		CNY	12/31/2016			-154840
+11	133125									WIP-Valuation		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+35	133125									WIP-Valuation		A	Asset	TRUE	FALSE		TRY	12/31/2016			130169
+74	133125									WIP-Valuation		A	Asset	TRUE	FALSE		CNY	12/31/2016			860361.19
+41	133150									WIP Obsolesence-DM		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	133150									WIP Obsolesence-DM		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+30	133150									WIP Obsolesence-DM		A	Asset	TRUE	FALSE		TRY	12/31/2016			-1678829.17
+14	133150									WIP Obsolesence-DM		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	133150									WIP Obsolesence-DM		A	Asset	TRUE	FALSE		USD	12/31/2016			-725471.99
+35	133150									WIP Obsolesence-DM		A	Asset	TRUE	FALSE		TRY	12/31/2016			-267553
+14	133175									WIP Obsolesence-DL/OH		A	Asset	TRUE	FALSE		USD	12/31/2016			-3610.43
+35	133175									WIP Obsolesence-DL/OH		A	Asset	TRUE	FALSE		TRY	12/31/2016			-160314
+30	133175									WIP Obsolesence-DL/OH		A	Asset	TRUE	FALSE		TRY	12/31/2016			-433177.8
+72	133900									WIP - Tooling MFG Expense		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+74	133900									WIP - Tooling MFG Expense		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+20	134100									MRB Material		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	134100									MRB Material		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+43	134100									MRB Material		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+14	134100									MRB Material		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+35	134100									MRB Material		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+49	134100									MRB Material		A	Asset	TRUE	FALSE		USD	12/31/2016			283814.2
+41	134100									MRB Material		A	Asset	TRUE	FALSE		USD	12/31/2016			83466.22
+47	134100									MRB Material		A	Asset	TRUE	FALSE		USD	12/31/2016			934942.02
+71	134100									MRB Material		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	134100									MRB Material		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+72	134100									MRB Material		A	Asset	TRUE	FALSE		CNY	12/31/2016			-9635.55
+40	134100									MRB Material		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+74	134100									MRB Material		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+14	134500									MRB Outside Processing		A	Asset	TRUE	FALSE		USD	12/31/2016			12977.88
+30	134500									MRB Outside Processing		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+47	134530									Inventory Reserve ? NRV ? WIP		A	Asset	TRUE	FALSE		USD	12/31/2016			-402542
+30	134600									Inventory Supplies		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+14	134600									Inventory Supplies		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	12/31/2016			394958.89
+72	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		CNY	12/31/2016			523350.91
+14	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	12/31/2016			122482.19
+71	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+15	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		TRY	12/31/2016			400586.4
+11	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	141112									Medical insurance		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	141112									Medical insurance		A	Asset	TRUE	FALSE		MXN	12/31/2016			685176.27
+40	141114									Life insurance		A	Asset	TRUE	FALSE		MXN	12/31/2016			281468.49
+41	141114									Life insurance		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	141115									Vehicles insurance		A	Asset	TRUE	FALSE		MXN	12/31/2016			30564.19
+41	141115									Vehicles insurance		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	141116									Foreign vehicles insurance		A	Asset	TRUE	FALSE		MXN	12/31/2016			5362.36
+41	141118									Building insurance		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	141118									Building insurance		A	Asset	TRUE	FALSE		MXN	12/31/2016			348968.33
+35	141150									Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+14	141150									Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		USD	12/31/2016			.12
+30	141150									Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		TRY	12/31/2016			59052.67
+41	141150									Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		USD	12/31/2016			-.03
+13	141150									Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	141200									Prepaid Rent		A	Asset	TRUE	FALSE		CNY	12/31/2016			119050.03
+11	141200									Prepaid Rent		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	141200									Prepaid Rent		A	Asset	TRUE	FALSE		CNY	12/31/2016			3590000
+13	141200									Prepaid Rent		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	141200									Prepaid Rent		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+14	141200									Prepaid Rent		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	141310									Prepaid Taxes - Property		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	141310									Prepaid Taxes - Property		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+72	141310									Prepaid Taxes - Property		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+12	141310									Prepaid Taxes - Property		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	141310									Prepaid Taxes - Property		A	Asset	TRUE	FALSE		USD	12/31/2016			936.46
+11	141320									Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	141320									Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+20	141320									Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	12/31/2016			500
+41	141320									Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	141320									Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	141330									Prepaid Taxes - State Income		A	Asset	TRUE	FALSE		TRY	12/31/2016			4603436.31
+41	141330									Prepaid Taxes - State Income		A	Asset	TRUE	FALSE		USD	12/31/2016			-113878.02
+35	141330									Prepaid Taxes - State Income		A	Asset	TRUE	FALSE		TRY	12/31/2016			7721.98
+12	141330									Prepaid Taxes - State Income		A	Asset	TRUE	FALSE		USD	12/31/2016			253220.96
+74	141400									Prepaid Duty Charges		A	Asset	TRUE	FALSE		CNY	12/31/2016			1829037.68
+74	141415									Prepaid Raw Materials		A	Asset	TRUE	FALSE		CNY	12/31/2016			3674282.74
+11	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		USD	12/31/2016			1335847.09
+35	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		TRY	12/31/2016			52337.39
+74	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+30	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		TRY	12/31/2016			959891.45
+47	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		USD	12/31/2016			1088222.37
+49	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		USD	12/31/2016			2660485.62
+12	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		CNY	12/31/2016			15721641.62
+71	141505									Deposit in Gaurantee of Rent		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	141509									Other deposit in Guarantee		A	Asset	TRUE	FALSE		CNY	12/31/2016			55668131.42
+72	141509									Other deposit in Guarantee		A	Asset	TRUE	FALSE		CNY	12/31/2016			3442399.4
+40	141509									Other deposit in Guarantee		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+35	141600									Prepaid - Rebate Due		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+41	141600									Prepaid - Rebate Due		A	Asset	TRUE	FALSE		USD	12/31/2016			176681.32
+30	141600									Prepaid - Rebate Due		A	Asset	TRUE	FALSE		TRY	12/31/2016			351398.29
+11	141600									Prepaid - Rebate Due		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	141600									Prepaid - Rebate Due		A	Asset	TRUE	FALSE		USD	12/31/2016			244924.4
+13	141700									Prepaid - Pre-IPO Related Activities		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	141800									Intercompany Clearing		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+14	141800									Intercompany Clearing		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	141800									Intercompany Clearing		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	141800									Intercompany Clearing		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+47	141850									Intercompany - Prepaid deposits		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	141850									Intercompany - Prepaid deposits		A	Asset	TRUE	FALSE		USD	12/31/2016			-42017.85
+49	141850									Intercompany - Prepaid deposits		A	Asset	TRUE	FALSE		USD	12/31/2016			1641849.06
+14	141850									Intercompany - Prepaid deposits		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		TRY	12/31/2016			5083439.57
+74	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		CNY	12/31/2016			2398898.28
+46	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		MXN	12/31/2016			31424.57
+43	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		MXN	12/31/2016			153269.64
+71	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			-152221.95
+47	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			601409.49
+49	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			308688.86
+11	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			51808.47
+12	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			15893.95
+14	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			308289.95
+20	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			500
+13	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			1020120.77
+15	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		CNY	12/31/2016			477781.14
+35	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		TRY	12/31/2016			1239316.73
+40	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		MXN	12/31/2016			350639.34
+74	141901									Deferred profit sharing		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+40	141901									Deferred profit sharing		A	Asset	TRUE	FALSE		MXN	12/31/2016			2089390
+13	141901									Deferred profit sharing		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	141901									Deferred profit sharing		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+94	141901									Deferred profit sharing		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	141902									Deferred income tax		A	Asset	TRUE	FALSE		USD	12/31/2016			-51540.24
+40	141902									Deferred income tax		A	Asset	TRUE	FALSE		MXN	12/31/2016			6605717
+94	141902									Deferred income tax		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	141903									Other Prepaid Expenses		A	Asset	TRUE	FALSE		USD	12/31/2016			52298
+74	141903									Other Prepaid Expenses		A	Asset	TRUE	FALSE		CNY	12/31/2016			1515293.27
+11	141903									Other Prepaid Expenses		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	141950									Dr Acct ? Deferred Financing Fee (Current)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	151110									Deferred Tax Benefits - Federal		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	151110									Deferred Tax Benefits - Federal		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	151120									Deferred Tax Benefits - State		A	Asset	TRUE	FALSE		CNY	12/31/2016			1.6
+12	151120									Deferred Tax Benefits - State		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	151120									Deferred Tax Benefits - State		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+30	151130									Deferred Tax Benefits - VAT		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+41	151135									Deferred Tax Asset		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	151135									Deferred Tax Asset		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+74	151140									Deductible VAT (TK)		A	Asset	TRUE	FALSE		CNY	12/31/2016			8234803.58
+47	151140									Deductible VAT (TK)		A	Asset	TRUE	FALSE		USD	12/31/2016			589525.32
+49	151140									Deductible VAT (TK)		A	Asset	TRUE	FALSE		USD	12/31/2016			69966.54
+41	151140									Deductible VAT (TK)		A	Asset	TRUE	FALSE		USD	12/31/2016			667442.13
+71	151140									Deductible VAT (TK)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	151140									Deductible VAT (TK)		A	Asset	TRUE	FALSE		CNY	12/31/2016			1482636.94
+30	151140									Deductible VAT (TK)		A	Asset	TRUE	FALSE		TRY	12/31/2016			8800868.2
+35	151140									Deductible VAT (TK)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+72	151900									Other Current Assets		A	Asset	TRUE	FALSE		CNY	12/31/2016			2464952.74
+74	151900									Other Current Assets		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+40	151900									Other Current Assets		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+14	151900									Other Current Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	151901									Other Assets (GAAP)		A	Asset	TRUE	FALSE		CNY	12/31/2016			4238310.81
+71	151901									Other Assets (GAAP)		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	151901									Other Assets (GAAP)		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+13	151910									Deferred Expenses EMEA		A	Asset	TRUE	FALSE		USD	12/31/2016			304058.44
+12	151910									Deferred Expenses EMEA		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	151920									Deferred Expenses IPO		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	161110									Land		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+72	161111									Land Improvements		A	Asset	TRUE	FALSE		CNY	12/31/2016			1513411
+41	161200									Installation costs		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	161200									Installation costs		A	Asset	TRUE	FALSE		MXN	12/31/2016			23387362.95
+71	161300									Buildings		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	161300									Buildings		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+72	161300									Buildings		A	Asset	TRUE	FALSE		CNY	12/31/2016			91779942.32
+14	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		USD	12/31/2016			5476000.83
+47	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		USD	12/31/2016			81.75
+30	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		TRY	12/31/2016			19266103.19
+13	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		USD	12/31/2016			644593.73
+72	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		CNY	12/31/2016			2316858.22
+35	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		TRY	12/31/2016			645436.7
+11	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		USD	12/31/2016			1028930.21
+40	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		MXN	12/31/2016			55740965.36
+41	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	12/31/2016			20963.28
+11	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	12/31/2016			75817.4
+14	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	12/31/2016			4145484.99
+13	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	12/31/2016			310989.26
+74	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		CNY	12/31/2016			57084045.4
+30	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		TRY	12/31/2016			9650489.36
+35	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		TRY	12/31/2016			.22
+40	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		MXN	12/31/2016			3318609.53
+72	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		CNY	12/31/2016			1492462.29
+40	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		MXN	12/31/2016			18401837.97
+30	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		TRY	12/31/2016			23186015.07
+74	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		CNY	12/31/2016			57105587.22
+13	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		USD	12/31/2016			124360.49
+72	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		CNY	12/31/2016			58645068.86
+11	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		USD	12/31/2016			4722892.68
+41	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		USD	12/31/2016			9132188.9
+35	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		TRY	12/31/2016			47051171.36
+14	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		USD	12/31/2016			12059640.33
+71	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		USD	12/31/2016			17829.95
+47	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		USD	12/31/2016			7602977.39
+41	161700									Vehicles		A	Asset	TRUE	FALSE		USD	12/31/2016			142246.91
+30	161700									Vehicles		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+14	161700									Vehicles		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	161700									Vehicles		A	Asset	TRUE	FALSE		MXN	12/31/2016			778335.25
+11	161700									Vehicles		A	Asset	TRUE	FALSE		USD	12/31/2016			61968.08
+72	161700									Vehicles		A	Asset	TRUE	FALSE		CNY	12/31/2016			645140.12
+41	161800									Computers		A	Asset	TRUE	FALSE		USD	12/31/2016			307388.16
+40	161800									Computers		A	Asset	TRUE	FALSE		MXN	12/31/2016			3927645.76
+11	161800									Computers		A	Asset	TRUE	FALSE		USD	12/31/2016			1359579.74
+14	161800									Computers		A	Asset	TRUE	FALSE		USD	12/31/2016			414272.92
+13	161800									Computers		A	Asset	TRUE	FALSE		USD	12/31/2016			2795530.95
+47	161800									Computers		A	Asset	TRUE	FALSE		USD	12/31/2016			16626.52
+30	161800									Computers		A	Asset	TRUE	FALSE		TRY	12/31/2016			875007.8
+72	161800									Computers		A	Asset	TRUE	FALSE		CNY	12/31/2016			2496277.56
+35	161800									Computers		A	Asset	TRUE	FALSE		TRY	12/31/2016			318364.32
+74	161800									Computers		A	Asset	TRUE	FALSE		CNY	12/31/2016			3082187.49
+71	161800									Computers		A	Asset	TRUE	FALSE		USD	12/31/2016			45077.23
+72	161801									Computers - Licenses		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+35	161801									Computers - Licenses		A	Asset	TRUE	FALSE		TRY	12/31/2016			114483.83
+13	161801									Computers - Licenses		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	161801									Computers - Licenses		A	Asset	TRUE	FALSE		TRY	12/31/2016			201810.04
+40	161900									Construction in Process		A	Asset	TRUE	FALSE		MXN	12/31/2016			3915778.32
+46	161900									Construction in Process		A	Asset	TRUE	FALSE		MXN	12/31/2016			7415262.42
+30	161900									Construction in Process		A	Asset	TRUE	FALSE		TRY	12/31/2016			204044
+35	161900									Construction in Process		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+47	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	12/31/2016			2102649.78
+74	161900									Construction in Process		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+72	161900									Construction in Process		A	Asset	TRUE	FALSE		CNY	12/31/2016			261200
+14	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	12/31/2016			15055.92
+11	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	12/31/2016			769234.02
+13	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	12/31/2016			1793527.56
+41	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	12/31/2016			356533.34
+43	161900									Construction in Process		A	Asset	TRUE	FALSE		MXN	12/31/2016			42792301.74
+49	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	12/31/2016			224068.91
+71	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+74	161950									Construction in Process-Other		A	Asset	TRUE	FALSE		CNY	12/31/2016			3169011.48
+72	161950									Construction in Process-Other		A	Asset	TRUE	FALSE		CNY	12/31/2016			826570
+72	171200									Accum.Depr. - Land Improvements		A	Asset	TRUE	FALSE		CNY	12/31/2016			-700039.08
+72	171300									Accum.Depr. - Buildings		A	Asset	TRUE	FALSE		CNY	12/31/2016			-30045667.99
+94	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+35	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		TRY	12/31/2016			-4920.12
+11	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	12/31/2016			-640377.2
+40	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		MXN	12/31/2016			-15898016.61
+41	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		TRY	12/31/2016			-4724560.64
+13	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	12/31/2016			-69496.39
+72	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		CNY	12/31/2016			-1246486.96
+14	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	12/31/2016			-2325358.46
+30	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		TRY	12/31/2016			-4912595.53
+14	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	12/31/2016			-1777416.76
+40	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		MXN	12/31/2016			-290894.75
+13	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	12/31/2016			-57617.88
+11	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	12/31/2016			-75817.4
+74	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		CNY	12/31/2016			-13251564.67
+35	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		TRY	12/31/2016			-.01
+72	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		CNY	12/31/2016			-684573.87
+41	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	12/31/2016			-5810.78
+35	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		TRY	12/31/2016			-383940.43
+74	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		CNY	12/31/2016			-15814382.16
+11	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	12/31/2016			-3373052.77
+13	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	12/31/2016			-19246.24
+14	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	12/31/2016			-8510358.76
+40	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		MXN	12/31/2016			-2090564.46
+47	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	12/31/2016			-167742.06
+41	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	12/31/2016			-3099115.93
+71	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	12/31/2016			-17829.95
+72	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		CNY	12/31/2016			-32028441.58
+30	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		TRY	12/31/2016			-9083234.41
+13	171700									Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+40	171700									Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		MXN	12/31/2016			-168991.24
+11	171700									Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		USD	12/31/2016			-49123.7
+72	171700									Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		CNY	12/31/2016			-466758.7
+41	171700									Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		USD	12/31/2016			-63625.76
+71	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	12/31/2016			-45077.23
+41	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	12/31/2016			-185323.47
+35	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		TRY	12/31/2016			-22257.47
+72	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		CNY	12/31/2016			-2065027.43
+74	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		CNY	12/31/2016			-1386099.22
+11	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	12/31/2016			-1344766.32
+30	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		TRY	12/31/2016			-584202.23
+47	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	12/31/2016			-923.6
+13	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	12/31/2016			-566195.09
+14	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	12/31/2016			-379238.94
+40	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		MXN	12/31/2016			-676535.52
+13	171850									Accum.Depr - Licenses Computer		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	180500									land rights usage		A	Asset	TRUE	FALSE		CNY	12/31/2016			11434221.48
+15	181000									Goodwill		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	181000									Goodwill		A	Asset	TRUE	FALSE		USD	12/31/2016			2807371.47
+30	181000									Goodwill		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+32	181100									Customer Relationships		A	Asset	TRUE	FALSE		USD	12/31/2016			2327582
+11	181100									Customer Relationships		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+32	181150									Accum.Amort.-Customer Relationships		A	Asset	TRUE	FALSE		USD	12/31/2016			-2327582
+30	181150									Accum.Amort.-Customer Relationships		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+11	181150									Accum.Amort.-Customer Relationships		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+15	181200									Trademarks		A	Asset	TRUE	FALSE		USD	12/31/2016			150000
+15	181300									Patents		A	Asset	TRUE	FALSE		USD	12/31/2016			1999999.92
+15	181350									Accum.Amort.-Patents		A	Asset	TRUE	FALSE		USD	12/31/2016			-1884613.55
+15	181400									License Agreements		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+15	181450									Accum.Amort.-License Agreements		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	181500									Computer Software		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+35	181500									Computer Software		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+30	181500									Computer Software		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+74	181500									Computer Software		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+72	181550									Accum.Amort.-Computer Software		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+74	181550									Accum.Amort.-Computer Software		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+72	191135									Dr Acct ? Deferred Tax Asset (LT-Portion)		A	Asset	TRUE	FALSE		CNY	12/31/2016			10393716.5
+74	191135									Dr Acct ? Deferred Tax Asset (LT-Portion)		A	Asset	TRUE	FALSE		CNY	12/31/2016			-.05
+11	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		USD	12/31/2016			13368.57
+13	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		USD	12/31/2016			145000
+43	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		MXN	12/31/2016			8529231.76
+12	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		USD	12/31/2016			1187500
+72	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		CNY	12/31/2016			1031490
+40	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		MXN	12/31/2016			8289706.21
+71	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+41	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		USD	12/31/2016			22946.74
+41	191510									Noncurrent Deferred Taxes - Federal		A	Asset	TRUE	FALSE		USD	12/31/2016			293776.13
+11	191510									Noncurrent Deferred Taxes - Federal		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+13	191520									Noncurrent Deferred Taxes - State		A	Asset	TRUE	FALSE		USD	12/31/2016			50
+12	191520									Noncurrent Deferred Taxes - State		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	191571									Other Long Term - Highbridge		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	191572									Other Long-Term - Subordinated Debt		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	191600									CIP Clearing		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+30	191600									CIP Clearing		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+74	191600									CIP Clearing		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+72	191600									CIP Clearing		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+72	191610									Cash Equivalents (Long Term) Investment		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+74	191700									Asset Clearing		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+35	191700									Asset Clearing		A	Asset	TRUE	FALSE		TRY	12/31/2016			-.26
+72	191700									Asset Clearing		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+72	191800									Projects Clearing		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+14	191850									Restricted Cash ? Long Term		A	Asset	TRUE	FALSE		USD	12/31/2016			475000
+49	191850									Restricted Cash ? Long Term		A	Asset	TRUE	FALSE		USD	12/31/2016			3000000
+41	191850									Restricted Cash ? Long Term		A	Asset	TRUE	FALSE		USD	12/31/2016			2062856
+47	191850									Restricted Cash ? Long Term		A	Asset	TRUE	FALSE		USD	12/31/2016			3000000
+41	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+72	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		CNY	12/31/2016			0
+40	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		MXN	12/31/2016			0
+74	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		CNY	12/31/2016			15166.04
+13	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	191902									Investment in Subsidiary - TPI-RI		A	Asset	TRUE	FALSE		USD	12/31/2016			5598703
+12	191905									Investment in Subsidiary - TPI-TECH		A	Asset	TRUE	FALSE		USD	12/31/2016			1021634
+11	191910									Investment in Subsidiary - TPI-OH		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	191915									Investment in Subsidiary - TPI-CN		A	Asset	TRUE	FALSE		USD	12/31/2016			2200000
+71	191920									Investment in Subsidiary - Taicang		A	Asset	TRUE	FALSE		USD	12/31/2016			5715359.27
+72	191921									Investment in Subsidiary - TPI-Dafeng		A	Asset	TRUE	FALSE		CNY	12/31/2016			20000000
+12	191925									Investment in Subsidiary - TPI-IA		A	Asset	TRUE	FALSE		USD	12/31/2016			6500000
+12	191955									Investment in Partnership - VienTek LLC		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	191955									Investment in Partnership - VienTek LLC		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+11	191960									Investment in Partnership - Armored Chariots, LLC		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+12	191961									Investment in Partnership - Turkey		A	Asset	TRUE	FALSE		USD	12/31/2016			5450000
+37	191961									Investment in Partnership - Turkey		A	Asset	TRUE	FALSE		USD	12/31/2016			-226043.95
+11	191961									Investment in Partnership - Turkey		A	Asset	TRUE	FALSE		USD	12/31/2016			0
+32	191961									Investment in Partnership - Turkey		A	Asset	TRUE	FALSE		USD	12/31/2016			36494720.73
+30	199000									Organizational Costs		A	Asset	TRUE	FALSE		TRY	12/31/2016			0
+20	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	12/31/2016			-15023
+71	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	12/31/2016			-101669.57
+74	201100									AP - Trade		A	Liability	TRUE	FALSE		CNY	12/31/2016			-119923361.46
+49	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	12/31/2016			-331242.95
+41	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	12/31/2016			-9546476.31
+47	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	12/31/2016			-1713849.04
+13	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	12/31/2016			-2185451.51
+43	201100									AP - Trade		A	Liability	TRUE	FALSE		MXN	12/31/2016			-10971949.75
+72	201100									AP - Trade		A	Liability	TRUE	FALSE		CNY	12/31/2016			-49884310.75
+44	201100									AP - Trade		A	Liability	TRUE	FALSE		MXN	12/31/2016			-552843.26
+40	201100									AP - Trade		A	Liability	TRUE	FALSE		MXN	12/31/2016			-16936687.48
+46	201100									AP - Trade		A	Liability	TRUE	FALSE		MXN	12/31/2016			-3823746.2
+30	201100									AP - Trade		A	Liability	TRUE	FALSE		TRY	12/31/2016			-34836375.32
+14	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	12/31/2016			-10628126.04
+12	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	12/31/2016			-1696851.04
+35	201100									AP - Trade		A	Liability	TRUE	FALSE		TRY	12/31/2016			-16150009.62
+15	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+11	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	12/31/2016			611752.25
+74	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+71	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+12	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+15	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	12/31/2016			20798.25
+13	201115									AP - Credit Card Reimburse		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	201115									AP - Credit Card Reimburse		A	Liability	TRUE	FALSE		USD	12/31/2016			-199517.5
+11	201115									AP - Credit Card Reimburse		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	201120									AP - Employee Reimburse		A	Liability	TRUE	FALSE		TRY	12/31/2016			-119.24
+74	201120									AP - Employee Reimburse		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+11	201120									AP - Employee Reimburse		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	201120									AP - Employee Reimburse		A	Liability	TRUE	FALSE		USD	12/31/2016			-9271
+35	201120									AP - Employee Reimburse		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+72	201120									AP - Employee Reimburse		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+41	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-97542.54
+72	201200									AP - Accrual		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+30	201200									AP - Accrual		A	Liability	TRUE	FALSE		TRY	12/31/2016			-240483.14
+47	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-196775.15
+35	201200									AP - Accrual		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+94	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	201200									AP - Accrual		A	Liability	TRUE	FALSE		MXN	12/31/2016			-2827316.19
+71	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+49	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-84285.45
+14	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-2
+11	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+74	201200									AP - Accrual		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+43	201200									AP - Accrual		A	Liability	TRUE	FALSE		MXN	12/31/2016			-1662936.64
+35	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+72	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		CNY	12/31/2016			-30275657.43
+40	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		MXN	12/31/2016			-2861.39
+74	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		CNY	12/31/2016			-41086167.96
+11	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-915779.22
+14	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-26953.76
+13	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+20	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+43	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		MXN	12/31/2016			-566541.86
+47	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-241482.68
+41	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-1277739.27
+30	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+14	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-111548.69
+72	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		CNY	12/31/2016			-4109289.45
+13	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-949978.96
+41	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-341666
+12	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-202.43
+15	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+20	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-239095.86
+47	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-5620
+40	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+74	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		CNY	12/31/2016			-10754362.21
+71	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	12/31/2016			-5816.98
+11	201250									AP - Vendor Returns		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+15	201300									AP - Clearing		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	201300									AP - Clearing		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	201300									AP - Clearing		A	Liability	TRUE	FALSE		USD	12/31/2016			-900
+72	201300									AP - Clearing		A	Liability	TRUE	FALSE		CNY	12/31/2016			-269525.87
+20	201300									AP - Clearing		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	201305									Sundry creditors -USD		A	Liability	TRUE	FALSE		MXN	12/31/2016			-74.56
+43	201305									Sundry creditors -USD		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+43	201307									Sundry creditors -MXN		A	Liability	TRUE	FALSE		MXN	12/31/2016			-1972.8
+40	201307									Sundry creditors -MXN		A	Liability	TRUE	FALSE		MXN	12/31/2016			-155162.65
+74	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+15	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	12/31/2016			-1971255.17
+30	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		TRY	12/31/2016			-4211729.64
+14	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	12/31/2016			-158542.2
+47	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+71	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+49	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	12/31/2016			-2157155.51
+12	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	12/31/2016			-6255851.1
+13	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	12/31/2016			-363690.07
+41	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	12/31/2016			-2696.41
+32	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	12/31/2016			-6053252
+74	201905									AP - Intercompany (TPI-TECH)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-22084487.52
+11	201905									AP - Intercompany (TPI-TECH)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+71	201905									AP - Intercompany (TPI-TECH)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+15	201905									AP - Intercompany (TPI-TECH)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	201905									AP - Intercompany (TPI-TECH)		A	Liability	TRUE	FALSE		USD	12/31/2016			-10854963.75
+72	201905									AP - Intercompany (TPI-TECH)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-34113653.46
+11	201910									AP - Intercompany (TPI-OH)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	201910									AP - Intercompany (TPI-OH)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	201910									AP - Intercompany (TPI-OH)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-612658.29
+14	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+71	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		USD	12/31/2016			-1129964.02
+30	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+11	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+74	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-9052785
+74	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-51608255.61
+71	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+35	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		TRY	12/31/2016			-17501677.17
+13	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		TRY	12/31/2016			-781.47
+41	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		USD	12/31/2016			-3880000
+11	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	201921									AP - Intercompany (TPI-Dafeng)		A	Liability	TRUE	FALSE		USD	12/31/2016			-.2
+72	201921									AP - Intercompany (TPI-Dafeng)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+35	201921									AP - Intercompany (TPI-Dafeng)		A	Liability	TRUE	FALSE		TRY	12/31/2016			-61099.72
+30	201921									AP - Intercompany (TPI-Dafeng)		A	Liability	TRUE	FALSE		TRY	12/31/2016			-.07
+71	201921									AP - Intercompany (TPI-Dafeng)		A	Liability	TRUE	FALSE		USD	12/31/2016			-25103882.62
+41	201921									AP - Intercompany (TPI-Dafeng)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+15	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	12/31/2016			-1261.4
+13	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	12/31/2016			-33736.52
+71	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-7624.87
+74	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		CNY	12/31/2016			1.39
+41	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	12/31/2016			-4870.02
+30	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+13	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+20	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	12/31/2016			-15737751.96
+15	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	12/31/2016			-1564019.33
+11	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	12/31/2016			-386045.71
+71	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	12/31/2016			-342695.22
+74	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+30	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+41	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	12/31/2016			-1760517.69
+47	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	12/31/2016			-681046.38
+49	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	12/31/2016			-190905.2
+32	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	12/31/2016			-17000000
+72	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+41	201940									AP - Intercompany (TPI-TK)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	201940									AP - Intercompany (TPI-TK)		A	Liability	TRUE	FALSE		USD	12/31/2016			-1007591.95
+72	201940									AP - Intercompany (TPI-TK)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-163490.59
+35	201940									AP - Intercompany (TPI-TK)		A	Liability	TRUE	FALSE		TRY	12/31/2016			-614611.56
+74	201940									AP - Intercompany (TPI-TK)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+11	201940									AP - Intercompany (TPI-TK)		A	Liability	TRUE	FALSE		USD	12/31/2016			-747026.32
+47	201940									AP - Intercompany (TPI-TK)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	201940									AP - Intercompany (TPI-TK)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	201941									AP - Intercompany (TPI-TK LLC)		A	Liability	TRUE	FALSE		USD	12/31/2016			22108061
+30	201941									AP - Intercompany (TPI-TK LLC)		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+72	201942									AP - Intercompany (TPI-TK2)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-185927.9
+30	201942									AP - Intercompany (TPI-TK2)		A	Liability	TRUE	FALSE		TRY	12/31/2016			-39417
+35	201944									AP - Intercompany (TPI-TK2 LLC)		A	Liability	TRUE	FALSE		TRY	12/31/2016			-795493.87
+12	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		USD	12/31/2016			-2000000
+11	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		USD	12/31/2016			-461664.83
+13	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		USD	12/31/2016			-13379.17
+72	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+94	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		USD	12/31/2016			66888988.79
+49	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		USD	12/31/2016			-5566122.25
+41	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		USD	12/31/2016			-66888988.79
+47	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		USD	12/31/2016			-5751067.33
+41	201946									AP - Intercompany (TPI-MX MXN)		A	Liability	TRUE	FALSE		USD	12/31/2016			-363352.19
+47	201946									AP - Intercompany (TPI-MX MXN)		A	Liability	TRUE	FALSE		USD	12/31/2016			-22.32
+44	201946									AP - Intercompany (TPI-MX MXN)		A	Liability	TRUE	FALSE		MXN	12/31/2016			-4762845.36
+94	201946									AP - Intercompany (TPI-MX MXN)		A	Liability	TRUE	FALSE		USD	12/31/2016			4792408.2
+40	201946									AP - Intercompany (TPI-MX MXN)		A	Liability	TRUE	FALSE		MXN	12/31/2016			-86755499.88
+43	201946									AP - Intercompany (TPI-MX MXN)		A	Liability	TRUE	FALSE		MXN	12/31/2016			-460807.63
+72	201948									AP - Intercompany MX2		A	Liability	TRUE	FALSE		CNY	12/31/2016			-224416.94
+95	201948									AP - Intercompany MX2		A	Liability	TRUE	FALSE		USD	12/31/2016			5003288.23
+47	201948									AP - Intercompany MX2		A	Liability	TRUE	FALSE		USD	12/31/2016			-2818840.35
+41	201948									AP - Intercompany MX2		A	Liability	TRUE	FALSE		USD	12/31/2016			-13365.51
+49	201948									AP - Intercompany MX2		A	Liability	TRUE	FALSE		USD	12/31/2016			-238577.09
+43	201948									AP - Intercompany MX2		A	Liability	TRUE	FALSE		MXN	12/31/2016			-45139435.35
+46	201949									AP - Intercompany (MX3)		A	Liability	TRUE	FALSE		MXN	12/31/2016			-5115909.38
+49	201949									AP - Intercompany (MX3)		A	Liability	TRUE	FALSE		USD	12/31/2016			-142431.4
+47	201949									AP - Intercompany (MX3)		A	Liability	TRUE	FALSE		USD	12/31/2016			-1747285.61
+41	201949									AP - Intercompany (MX3)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	12/31/2016			-6362412.08
+47	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	12/31/2016			-8410468
+32	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	12/31/2016			.27
+71	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	12/31/2016			1351946.55
+12	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	12/31/2016			-22145000
+15	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+30	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+74	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+41	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	12/31/2016			-13505002
+49	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	12/31/2016			-4864500
+11	201955									AP - VienTek Intercompany (USA)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	201955									AP - VienTek Intercompany (USA)		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+14	201957									AP - VienTek Intercompany (MX)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	12/31/2016			-199849.88
+14	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	12/31/2016			-858702.18
+71	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+35	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		TRY	12/31/2016			-50025.53
+11	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	12/31/2016			-378325.29
+43	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		MXN	12/31/2016			-185949.58
+30	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		TRY	12/31/2016			-29675.43
+40	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		MXN	12/31/2016			-118624.54
+74	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+41	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+20	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	12/31/2016			-58400
+46	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		MXN	12/31/2016			-5987.7
+71	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+74	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-5735202.27
+13	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-7815074.11
+40	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+72	211120									Accrued Salaries & Wages-Expatriates(CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	211130									Accrued Salaries & Wages-contract staff(CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+71	211300									Accrued Bonus		A	Liability	TRUE	FALSE		USD	12/31/2016			-33084
+41	211300									Accrued Bonus		A	Liability	TRUE	FALSE		USD	12/31/2016			-186050.59
+47	211300									Accrued Bonus		A	Liability	TRUE	FALSE		USD	12/31/2016			-28200
+13	211300									Accrued Bonus		A	Liability	TRUE	FALSE		USD	12/31/2016			-2142109.83
+11	211300									Accrued Bonus		A	Liability	TRUE	FALSE		USD	12/31/2016			-232055.52
+14	211300									Accrued Bonus		A	Liability	TRUE	FALSE		USD	12/31/2016			-305443
+30	211300									Accrued Bonus		A	Liability	TRUE	FALSE		TRY	12/31/2016			-1498729
+35	211300									Accrued Bonus		A	Liability	TRUE	FALSE		TRY	12/31/2016			-1167801.29
+74	211300									Accrued Bonus		A	Liability	TRUE	FALSE		CNY	12/31/2016			-4173389.81
+72	211300									Accrued Bonus		A	Liability	TRUE	FALSE		CNY	12/31/2016			-2311391.79
+40	211350									Accrued Profit Sharing		A	Liability	TRUE	FALSE		MXN	12/31/2016			-3113345.3
+41	211350									Accrued Profit Sharing		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+94	211350									Accrued Profit Sharing		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+43	211350									Accrued Profit Sharing		A	Liability	TRUE	FALSE		MXN	12/31/2016			-150857.67
+13	211370									Short Term - Accrued Compensation		A	Liability	TRUE	FALSE		USD	12/31/2016			-67239
+71	211370									Short Term - Accrued Compensation		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	211375									Accrued Christmans Bonus		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+41	211375									Accrued Christmans Bonus		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+43	211375									Accrued Christmans Bonus		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+46	211375									Accrued Christmans Bonus		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+46	211400									Accrued Vacation		A	Liability	TRUE	FALSE		MXN	12/31/2016			-88621.16
+30	211400									Accrued Vacation		A	Liability	TRUE	FALSE		TRY	12/31/2016			-1147856.66
+40	211400									Accrued Vacation		A	Liability	TRUE	FALSE		MXN	12/31/2016			-2430259.47
+74	211400									Accrued Vacation		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+13	211400									Accrued Vacation		A	Liability	TRUE	FALSE		USD	12/31/2016			-105271.41
+72	211400									Accrued Vacation		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+11	211400									Accrued Vacation		A	Liability	TRUE	FALSE		USD	12/31/2016			-46910.37
+41	211400									Accrued Vacation		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	211400									Accrued Vacation		A	Liability	TRUE	FALSE		USD	12/31/2016			-695646.48
+43	211400									Accrued Vacation		A	Liability	TRUE	FALSE		MXN	12/31/2016			-972530.11
+13	211450									Purchased Vacation		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	211450									Purchased Vacation		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	211450									Purchased Vacation		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	211500									Accrued Holiday		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	211500									Accrued Holiday		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+15	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+71	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		TRY	12/31/2016			-3029408.12
+11	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	12/31/2016			-18629.06
+12	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	12/31/2016			-250.01
+14	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	211901									AOB - Actuarial		A	Liability	TRUE	FALSE		TRY	12/31/2016			-442616
+41	211902									Accrued Savings Fund		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	211902									Accrued Savings Fund		A	Liability	TRUE	FALSE		MXN	12/31/2016			9984.73
+46	211902									Accrued Savings Fund		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+43	211902									Accrued Savings Fund		A	Liability	TRUE	FALSE		MXN	12/31/2016			-11314.05
+46	211904									Accrued Grocery bonus		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+40	211904									Accrued Grocery bonus		A	Liability	TRUE	FALSE		MXN	12/31/2016			1991
+43	211904									Accrued Grocery bonus		A	Liability	TRUE	FALSE		MXN	12/31/2016			-1991
+41	211904									Accrued Grocery bonus		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	211906									Accrual for outsourced HR expenses		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+41	221010									Social security - Employer		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+46	221010									Social security - Employer		A	Liability	TRUE	FALSE		MXN	12/31/2016			-260601.52
+30	221010									Social security - Employer		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+74	221010									Social security - Employer		A	Liability	TRUE	FALSE		CNY	12/31/2016			-30359.34
+40	221010									Social security - Employer		A	Liability	TRUE	FALSE		MXN	12/31/2016			-1261514.14
+72	221010									Social security - Employer		A	Liability	TRUE	FALSE		CNY	12/31/2016			-1253371.8
+43	221010									Social security - Employer		A	Liability	TRUE	FALSE		MXN	12/31/2016			-2695826.52
+43	221020									Social security retirement - E		A	Liability	TRUE	FALSE		MXN	12/31/2016			-324696.89
+41	221020									Social security retirement - E		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+46	221020									Social security retirement - E		A	Liability	TRUE	FALSE		MXN	12/31/2016			-29760.13
+40	221020									Social security retirement - E		A	Liability	TRUE	FALSE		MXN	12/31/2016			-387057.36
+40	221030									Housing Tax		A	Liability	TRUE	FALSE		MXN	12/31/2016			-1002949.64
+43	221030									Housing Tax		A	Liability	TRUE	FALSE		MXN	12/31/2016			-776438.66
+30	221030									Housing Tax		A	Liability	TRUE	FALSE		TRY	12/31/2016			-557854.34
+46	221030									Housing Tax		A	Liability	TRUE	FALSE		MXN	12/31/2016			-74398.07
+41	221030									Housing Tax		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+35	221030									Housing Tax		A	Liability	TRUE	FALSE		TRY	12/31/2016			-25244.67
+72	221030									Housing Tax		A	Liability	TRUE	FALSE		CNY	12/31/2016			-426536.1
+40	221040									Housing Tax - Infonavit - empleado		A	Liability	TRUE	FALSE		MXN	12/31/2016			-1457550.46
+46	221040									Housing Tax - Infonavit - empleado		A	Liability	TRUE	FALSE		MXN	12/31/2016			-119293.77
+41	221040									Housing Tax - Infonavit - empleado		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+43	221040									Housing Tax - Infonavit - empleado		A	Liability	TRUE	FALSE		MXN	12/31/2016			-1039453.96
+43	221060									Foreign Tax		A	Liability	TRUE	FALSE		MXN	12/31/2016			-475753.32
+40	221060									Foreign Tax		A	Liability	TRUE	FALSE		MXN	12/31/2016			159139.51
+40	221070									Income tax withheld to employee		A	Liability	TRUE	FALSE		MXN	12/31/2016			-957706.56
+43	221070									Income tax withheld to employee		A	Liability	TRUE	FALSE		MXN	12/31/2016			-2916056.71
+46	221070									Income tax withheld to employee		A	Liability	TRUE	FALSE		MXN	12/31/2016			-268590.38
+41	221070									Income tax withheld to employee		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+46	221100									Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		MXN	12/31/2016			-60920.56
+43	221100									Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		MXN	12/31/2016			-685325.52
+30	221100									Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		TRY	12/31/2016			-2049562.2
+41	221100									Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	221100									Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		USD	12/31/2016			-159618.31
+40	221100									Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		MXN	12/31/2016			-390910.08
+35	221100									Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		TRY	12/31/2016			-727846.65
+13	221150									Payroll Deduction Tax Withheld - Federal		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	221471									Accrued Interest Expense - Highbridge		A	Liability	TRUE	FALSE		USD	12/31/2016			-15910.7
+71	221900									Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	221900									Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	221900									Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	221900									Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	221910									Other Payable-Union funds		A	Liability	TRUE	FALSE		CNY	12/31/2016			-27406.65
+74	221910									Other Payable-Union funds		A	Liability	TRUE	FALSE		CNY	12/31/2016			-746304.82
+14	231010									Withheld Charitable Contribution		A	Liability	TRUE	FALSE		USD	12/31/2016			-3023.08
+74	231010									Withheld Charitable Contribution		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+11	231015									Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+71	231015									Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	231015									Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	231015									Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	231020									Misc W/H ? TAP		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	231020									Misc W/H ? TAP		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+71	231030									Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	231030									Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	231030									Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	231030									Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+74	231035									Withheld Personal Income Tax(CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-127283.36
+72	231035									Withheld Personal Income Tax(CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-263083.01
+13	231040									Withheld State Payroll Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	231040									Withheld State Payroll Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	231040									Withheld State Payroll Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	231050									Withheld Local Payroll Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	231050									Withheld Local Payroll Taxes		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	231060									Withheld Cafeteria - empleado		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+43	231060									Withheld Cafeteria - empleado		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+46	231060									Withheld Cafeteria - empleado		A	Liability	TRUE	FALSE		MXN	12/31/2016			-17704.59
+43	231062									Withheld Auto Insurance		A	Liability	TRUE	FALSE		MXN	12/31/2016			-.01
+46	231062									Withheld Auto Insurance		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+40	231062									Withheld Auto Insurance		A	Liability	TRUE	FALSE		MXN	12/31/2016			.01
+41	231062									Withheld Auto Insurance		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+43	231071									Withheld Wage Garnishment		A	Liability	TRUE	FALSE		MXN	12/31/2016			-1919.86
+46	231071									Withheld Wage Garnishment		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+40	231071									Withheld Wage Garnishment		A	Liability	TRUE	FALSE		MXN	12/31/2016			1257.63
+11	231071									Withheld Wage Garnishment		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	231071									Withheld Wage Garnishment		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	231071									Withheld Wage Garnishment		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	231072									Withheld Employee 401k Deferral		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	231072									Withheld Employee 401k Deferral		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+71	231072									Withheld Employee 401k Deferral		A	Liability	TRUE	FALSE		USD	12/31/2016			-36.46
+13	231073									Loan 401k		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	231073									Loan 401k		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+74	231075									Withheld Employee Pension (CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-99146.25
+72	231075									Withheld Employee Pension (CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-320843.15
+74	231080									Withheld Unemployment Insurance (CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-35013.37
+72	231080									Withheld Unemployment Insurance (CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-19944.87
+14	231080									Withheld Unemployment Insurance (CN)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	231085									Withheld Housing Fund(CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-408349.4
+74	231085									Withheld Housing Fund(CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-632971.24
+14	231091									Withheld Medical Insurance		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	231091									Withheld Medical Insurance		A	Liability	TRUE	FALSE		CNY	12/31/2016			-80943.6
+74	231091									Withheld Medical Insurance		A	Liability	TRUE	FALSE		CNY	12/31/2016			-67863.09
+14	231093									Withheld Dental Insurance		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	231093									Withheld Dental Insurance		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+14	231095									Other Payroll Withholdings		A	Liability	TRUE	FALSE		USD	12/31/2016			-13201.63
+40	231095									Other Payroll Withholdings		A	Liability	TRUE	FALSE		MXN	12/31/2016			-171574.48
+43	231095									Other Payroll Withholdings		A	Liability	TRUE	FALSE		MXN	12/31/2016			-125982.12
+46	231095									Other Payroll Withholdings		A	Liability	TRUE	FALSE		MXN	12/31/2016			-4217.5
+20	231105									State Sales Tax Payable - RI		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	231105									State Sales Tax Payable - RI		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	231110									State Sales Tax Payable - IA		A	Liability	TRUE	FALSE		USD	12/31/2016			-14041.01
+71	231110									State Sales Tax Payable - IA		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	231120									State Sales Tax Payable - AZ		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+15	231150									State Sales Tax Payable - DE		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+74	231160									Education Surtax Payable		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	231160									Education Surtax Payable		A	Liability	TRUE	FALSE		CNY	12/31/2016			-393565.94
+74	231165									Stamp Duty Tax Payable		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	231165									Stamp Duty Tax Payable		A	Liability	TRUE	FALSE		CNY	12/31/2016			-19742.8
+30	231165									Stamp Duty Tax Payable		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+72	231210									VAT - Input Tax		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+74	231210									VAT - Input Tax		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+30	231210									VAT - Input Tax		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+72	231220									VAT - Remitted Tax		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+35	231220									VAT - Remitted Tax		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+74	231220									VAT - Remitted Tax		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+30	231220									VAT - Remitted Tax		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+30	231230									VAT - Tax Reduction		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+74	231240									VAT - Output Tax		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	231240									VAT - Output Tax		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	231250									VAT - Export Reimbursement		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+74	231250									VAT - Export Reimbursement		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	231255									VAT - Import Review		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+74	231255									VAT - Import Review		A	Liability	TRUE	FALSE		CNY	12/31/2016			378099.2
+74	231260									VAT - Transfer from Input Tax		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	231260									VAT - Transfer from Input Tax		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	231270									VAT - Export Tax Reduction for Domestic Sales		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+74	231280									VAT - Overpayment Exchange		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	231280									VAT - Overpayment Exchange		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+14	231300									Real Estate and Property Tax Payable		A	Liability	TRUE	FALSE		USD	12/31/2016			-810503.26
+72	231300									Real Estate and Property Tax Payable		A	Liability	TRUE	FALSE		CNY	12/31/2016			-179514.87
+44	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+40	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+43	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+74	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		CNY	12/31/2016			-2360307.47
+71	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+49	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+47	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		CNY	12/31/2016			-66500
+74	231500									Business Tax Payable(CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	231500									Business Tax Payable(CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+11	232102									Federal Income Tax Payable		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	232102									Federal Income Tax Payable		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	232105									State Income Tax Payable - RI		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	232105									State Income Tax Payable - RI		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	232105									State Income Tax Payable - RI		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	232110									State Income Tax Payable - IA		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	232120									State Income Tax Payable - AZ		A	Liability	TRUE	FALSE		USD	12/31/2016			.42
+74	232140									State Income Tax Payable - SC		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+11	232140									State Income Tax Payable - SC		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+74	232200									Income Tax Payable(CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-2183572.56
+72	232200									Income Tax Payable(CN)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-11111930.85
+15	232200									Income Tax Payable(CN)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+46	232320									Income Tax Payable (MX)		A	Liability	TRUE	FALSE		MXN	12/31/2016			-61664
+43	232320									Income Tax Payable (MX)		A	Liability	TRUE	FALSE		MXN	12/31/2016			-1165252
+94	232320									Income Tax Payable (MX)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	232320									Income Tax Payable (MX)		A	Liability	TRUE	FALSE		USD	12/31/2016			41554.25
+40	232320									Income Tax Payable (MX)		A	Liability	TRUE	FALSE		MXN	12/31/2016			-31437
+74	241100									Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		CNY	12/31/2016			-536905.25
+11	241100									Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	241100									Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	241100									Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		USD	12/31/2016			-558742
+72	241100									Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		CNY	12/31/2016			-500000
+71	241100									Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	241110									Accrued Expenses - SOX		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	241110									Accrued Expenses - SOX		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+12	241110									Accrued Expenses - SOX		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+15	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+20	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	12/31/2016			-135402.87
+72	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+74	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		CNY	12/31/2016			-15552.08
+11	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	12/31/2016			-150547.72
+30	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		TRY	12/31/2016			-379338.99
+71	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	12/31/2016			-1969.5
+35	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+14	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	12/31/2016			-4355.81
+13	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	12/31/2016			-5102.83
+15	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	12/31/2016			-1666.8
+12	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+71	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+11	241310									Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+71	241310									Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	241310									Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	241310									Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+14	241310									Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	241310									Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	12/31/2016			-19208.4
+14	241330									Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	12/31/2016			-475398.27
+41	241330									Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	241330									Accrued Health Insurance		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+12	241330									Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	12/31/2016			30
+13	241330									Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	12/31/2016			-44597
+11	241330									Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	12/31/2016			-133088.05
+13	241340									Accrued Workers Comp Insurance AU		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	241340									Accrued Workers Comp Insurance AU		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	241340									Accrued Workers Comp Insurance AU		A	Liability	TRUE	FALSE		USD	12/31/2016			-362800
+14	241345									Accrued Workers Comp Insurance AIG		A	Liability	TRUE	FALSE		USD	12/31/2016			-2406800
+72	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		CNY	12/31/2016			-16997453.62
+30	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+71	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+32	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	12/31/2016			-72968.88
+74	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		CNY	12/31/2016			-4336082.25
+11	241425									Accrued Interest Expense - Sovereign (60month)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	241430									Accrued Interest Expense - Sovereign (revolver)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	241435									Accrued Interest Expense - ABC (mortgage)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	241437									Accrued Interest Expense - BOC (mortgage)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	241440									Accrued Interest Expense - ABC (working capital)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+74	241440									Accrued Interest Expense - ABC (working capital)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	241442									Accrued Interest Expense - BOC (working capital)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+11	241490									Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	241490									Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+12	241490									Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+74	241490									Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+41	241490									Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	241490									Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+11	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+15	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		CNY	12/31/2016			-1622404.91
+74	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+71	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+32	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+20	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+11	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	12/31/2016			-16920.81
+41	251210									VAT withheld		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	251210									VAT withheld		A	Liability	TRUE	FALSE		MXN	12/31/2016			-19860.03
+46	251210									VAT withheld		A	Liability	TRUE	FALSE		MXN	12/31/2016			-373.17
+43	251210									VAT withheld		A	Liability	TRUE	FALSE		MXN	12/31/2016			-37507.19
+44	251220									VAT payable		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+40	251220									VAT payable		A	Liability	TRUE	FALSE		MXN	12/31/2016			-83763.86
+41	251230									Income tax withheld from fee		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	251230									Income tax withheld from fee		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+71	251300									Unearned Revenue		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	251300									Unearned Revenue		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	251300									Unearned Revenue		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	251300									Unearned Revenue		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+74	251350									Customer Deposit		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+14	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	12/31/2016			-3959.13
+72	251350									Customer Deposit		A	Liability	TRUE	FALSE		CNY	12/31/2016			-26559318.59
+30	251350									Customer Deposit		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+71	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	12/31/2016			-579483.99
+35	251350									Customer Deposit		A	Liability	TRUE	FALSE		TRY	12/31/2016			-2725.25
+47	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	12/31/2016			-1125966.13
+41	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	12/31/2016			-14718.8
+11	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	12/31/2016			-238825.81
+49	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	12/31/2016			-1879774.7
+11	251351									Customer Deposits Not Paid		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	251352									Customer Deposits Not Paid Contra		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	251355									Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	12/31/2016			-1650706.03
+71	251355									Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	251355									Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	251355									Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	251355									Intercompany - Customer deposits		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+14	251400									Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	251400									Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+71	251400									Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	251400									Customer Advance - Current Portion		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+11	251400									Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	251410									Customer Advance-Discount-Current Portion		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+71	251410									Customer Advance-Discount-Current Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	251410									Customer Advance-Discount-Current Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+74	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		CNY	12/31/2016			-40933775.43
+30	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		TRY	12/31/2016			-18375796.43
+72	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		CNY	12/31/2016			-17019397.59
+40	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+90	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		CNY	12/31/2016			1434728.05
+35	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		TRY	12/31/2016			-257333.03
+71	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	12/31/2016			-4521793.22
+41	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	12/31/2016			-2435474.21
+11	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	12/31/2016			-1586576.83
+14	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	12/31/2016			-2564347.67
+47	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	12/31/2016			-20074.5
+11	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	12/31/2016			4461
+47	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	12/31/2016			2230.5
+74	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		CNY	12/31/2016			1191661.67
+71	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	12/31/2016			772218
+14	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	12/31/2016			19600.43
+30	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		TRY	12/31/2016			727059.98
+72	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-148492835.49
+15	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	12/31/2016			-610971
+47	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	12/31/2016			-223050
+30	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		TRY	12/31/2016			-69673141.08
+74	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+71	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	12/31/2016			-25740593.61
+14	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	12/31/2016			-1954495.26
+11	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	12/31/2016			-446100
+71	251810									Deferred Revenue-Current Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	251810									Deferred Revenue-Current Portion		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+14	251810									Deferred Revenue-Current Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	251810									Deferred Revenue-Current Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	251825									Deferred Rent - Short Term Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	251825									Deferred Rent - Short Term Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	251900									Deferred Tax Liability		A	Liability	TRUE	FALSE		TRY	12/31/2016			.26
+14	251900									Deferred Tax Liability		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	251950									Note Payable Short-Term LCSI		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+72	251970									Short Term Loan (W/C)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+40	251970									Short Term Loan (W/C)		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+74	251970									Short Term Loan (W/C)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+41	251970									Short Term Loan (W/C)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	251980									Payroll Suspense		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	251990									Suspense Account		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	251990									Suspense Account		A	Liability	TRUE	FALSE		CNY	12/31/2016			-1890
+12	251990									Suspense Account		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	251990									Suspense Account		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	251990									Suspense Account		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+35	251990									Suspense Account		A	Liability	TRUE	FALSE		TRY	12/31/2016			-.1
+13	251990									Suspense Account		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	251990									Suspense Account		A	Liability	TRUE	FALSE		USD	12/31/2016			.09
+30	251990									Suspense Account		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+11	261125									Current Portion Long Term Debt - Sovereign (60month)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	261130									Current Portion Long Term Debt - Sovereign (revolver)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	261135									Current Portion Long Term Debt - ABC (mortgage)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	261137									Current Portion Long Term Debt - BOC (mortgage)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+32	261137									Current Portion Long Term Debt - BOC (mortgage)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	261140									Current Portion Long Term Debt - ABC (working capital)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	261142									Current Portion Long Term Debt - BOC (working capital)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	261143									Current Portion - BOC Working Capital Loans (Entrust)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+74	261144									Current Portion - Jiangsu Dafeng Rural Cooperative Bank		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+30	261150									Current Portion Long Term Debt - Phase 1 Loan		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+30	261155									Current Portion Long Term Debt - Phase 2 Loan		A	Liability	TRUE	FALSE		TRY	12/31/2016			-16323560
+35	261155									Current Portion Long Term Debt - Phase 2 Loan		A	Liability	TRUE	FALSE		TRY	12/31/2016			-3273441.21
+30	261160									Current Portion Long Term Debt--Loan 3		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+35	261165									Current Portion Long Term Debt - Odea		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+30	261165									Current Portion Long Term Debt - Odea		A	Liability	TRUE	FALSE		TRY	12/31/2016			-.93
+30	261166									Current Portion Long Term Debt - YKB		A	Liability	TRUE	FALSE		TRY	12/31/2016			-53209658.61
+12	261170									Current Portion - Debt Discount (Contra)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	261171									Current Portion Long Term Debt - Highbridge		A	Liability	TRUE	FALSE		USD	12/31/2016			-3750000
+12	261175									Dr Acct - Term Loan Debt Discount (Contra)(Current)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	261176									Current Portion - Haohua Working Capital Loans		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+12	261177									Short Term Debt - Highbridge Revolver Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			-2820168.44
+11	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	12/31/2016			-3612.2
+13	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		TRY	12/31/2016			-3198601.01
+41	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+47	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	12/31/2016			-28040.76
+32	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	261211									Current Portion - Cap Lease - VARILEASE 1		A	Liability	TRUE	FALSE		USD	12/31/2016			-274937.99
+14	261212									Current Portion - Cap Lease - VARILEASE 2		A	Liability	TRUE	FALSE		USD	12/31/2016			-673626.81
+47	261213									Current Portion - Cap Lease - VARILEASE 3		A	Liability	TRUE	FALSE		USD	12/31/2016			-4649240.6
+14	261213									Current Portion - Cap Lease - VARILEASE 3		A	Liability	TRUE	FALSE		USD	12/31/2016			-466680.12
+14	261221									Current Portion - Cap Lease - WINMARK 1		A	Liability	TRUE	FALSE		USD	12/31/2016			-37542.77
+41	261221									Current Portion - Cap Lease - WINMARK 1		A	Liability	TRUE	FALSE		USD	12/31/2016			4706.67
+13	261221									Current Portion - Cap Lease - WINMARK 1		A	Liability	TRUE	FALSE		USD	12/31/2016			-5114.03
+13	261222									Current Portion - Cap Lease - WINMARK 2		A	Liability	TRUE	FALSE		USD	12/31/2016			-10817.7
+14	261222									Current Portion - Cap Lease - WINMARK 2		A	Liability	TRUE	FALSE		USD	12/31/2016			-11392.29
+14	261223									Current Portion - Cap Lease - WINMARK 3		A	Liability	TRUE	FALSE		USD	12/31/2016			-10265.34
+13	261223									Current Portion - Cap Lease - WINMARK 3		A	Liability	TRUE	FALSE		USD	12/31/2016			-4905.94
+14	261231									Current Portion - Cap Lease - WELLS FARGO 1		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	261232									Current Portion - Cap Lease-WELLS FARGO 2		A	Liability	TRUE	FALSE		USD	12/31/2016			-21210.37
+14	261900									Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	261900									Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	261900									Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	261900									Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	261900									Current Portion - Other Debt		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+41	261910									Debt Discount - Current Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			.21
+12	261910									Debt Discount - Current Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	261911									Debt Issuance Cost ? Highbridge Revolver Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			517500
+40	261920									Current portion Debt		A	Liability	TRUE	FALSE		MXN	12/31/2016			-1159560.32
+41	261920									Current portion Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	271100									Long-Term Debt - True North		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	271125									Long Term Debt - Sovereign (60month)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	271130									Long Term Debt - Sovereign (revolver)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	271135									Long Term Debt - ABC (mortgage)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+72	271137									Long Term Debt - BOC (mortgage)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+74	271140									Long Term Debt - ABC (working capital)		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+35	271155									Long Term Debt - Phase 2 Loan		A	Liability	TRUE	FALSE		TRY	12/31/2016			-52375058.79
+30	271155									Long Term Debt - Phase 2 Loan		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+30	271165									Long Term Debt - Garanti		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+30	271166									Long Term Debt - BOC Poland		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+32	271166									Long Term Debt - BOC Poland		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	271170									Long-Term Debt - Hercules		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	271171									Long-Term Debt - Highbridge		A	Liability	TRUE	FALSE		USD	12/31/2016			-71250000
+12	271172									Long-Term Debt ? Subordinated Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	271176									Long Term Debt - Haohua Microfinance		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+30	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		TRY	12/31/2016			-3479303.65
+11	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+32	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	271211									Long Term Portion - Cap Lease-VARILEASE 1		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	271212									Long Term Portion - Cap Lease-VARILEASE 2		A	Liability	TRUE	FALSE		USD	12/31/2016			-203573.25
+14	271213									Long Term Portion - Cap Lease-VARILEASE 3		A	Liability	TRUE	FALSE		USD	12/31/2016			-283296.3
+47	271213									Long Term Portion - Cap Lease-VARILEASE 3		A	Liability	TRUE	FALSE		USD	12/31/2016			-7584189.52
+13	271221									Long Term Portion - Cap Lease-WINMARK 1		A	Liability	TRUE	FALSE		USD	12/31/2016			-.25
+41	271221									Long Term Portion - Cap Lease-WINMARK 1		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	271221									Long Term Portion - Cap Lease-WINMARK 1		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	271222									Long Term Portion - Cap Lease-WINMARK 2		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	271222									Long Term Portion - Cap Lease-WINMARK 2		A	Liability	TRUE	FALSE		USD	12/31/2016			.28
+41	271222									Long Term Portion - Cap Lease-WINMARK 2		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	271223									Long Term Portion - Cap Lease-WINMARK 3		A	Liability	TRUE	FALSE		USD	12/31/2016			-9274.64
+13	271223									Long Term Portion - Cap Lease-WINMARK 3		A	Liability	TRUE	FALSE		USD	12/31/2016			-4351.18
+14	271231									Long Term Portion - Cap Lease-WELLS FARGO 1		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	271232									Long Term Portion - Cap Lease-WELLS FARGO 2		A	Liability	TRUE	FALSE		USD	12/31/2016			-.01
+12	271900									Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+47	271900									Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			4224201.21
+41	271900									Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	271900									Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	271900									Other Long-Term Debt		A	Liability	TRUE	FALSE		MXN	12/31/2016			-966000.67
+14	271900									Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	271910									Debt Discount - Long-Term Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			1500000
+41	271910									Debt Discount - Long-Term Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	271911									Debt Issuance Costs - Long-Term Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			2710507.03
+11	291100									Deferred Income		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+71	291100									Deferred Income		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	291100									Deferred Income		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	291110									Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	291110									Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+71	291110									Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	291110									Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	291110									Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+30	291350									Cr Acct - Deferred Tax Liability (LT-Portion)		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+74	291350									Cr Acct - Deferred Tax Liability (LT-Portion)		A	Liability	TRUE	FALSE		CNY	12/31/2016			-686246.44
+41	291400									Customer Advance - Long Term		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	291400									Customer Advance - Long Term		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	291400									Customer Advance - Long Term		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	291400									Customer Advance - Long Term		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+71	291400									Customer Advance - Long Term		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+14	291410									Customer Advance-Discount-LongTerm Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	291410									Customer Advance-Discount-LongTerm Portion		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+71	291410									Customer Advance-Discount-LongTerm Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	291410									Customer Advance-Discount-LongTerm Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+41	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+71	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		USD	12/31/2016			-1247030.54
+11	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+14	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		USD	12/31/2016			-144091.05
+14	291510									Other L/T Liabilities - Deferred Gain On Capex Buyback		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+35	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+41	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+72	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+74	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+40	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+90	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		CNY	12/31/2016			0
+71	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+14	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+30	291650									Warranty Reserve-Long Term (GAAP)		A	Liability	TRUE	FALSE		TRY	12/31/2016			0
+41	291650									Warranty Reserve-Long Term (GAAP)		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+11	291700									Distributions from joint venture in excess of investment		A	Liability	TRUE	FALSE		USD	12/31/2016			-1841837.93
+13	291825									Deferred Rent - Long Term Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			-618512.86
+14	291825									Deferred Rent - Long Term Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			-142256.8
+11	291825									Deferred Rent - Long Term Portion		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	291901									Accrued Compensation - Non Current		A	Liability	TRUE	FALSE		USD	12/31/2016			-70838
+71	291901									Accrued Compensation - Non Current		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+13	291950									Deferred Stock Compensation		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+40	291996									Accrual- seniority premium for termination		A	Liability	TRUE	FALSE		MXN	12/31/2016			-1339175
+40	291998									Accrual severance termination		A	Liability	TRUE	FALSE		MXN	12/31/2016			-16736139.04
+30	291999									Accrual retirement		A	Liability	TRUE	FALSE		TRY	12/31/2016			-21824.97
+40	291999									Accrual retirement		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+41	294997									Accrual -seniority premium retirement		A	Liability	TRUE	FALSE		USD	12/31/2016			58440
+40	294997									Accrual -seniority premium retirement		A	Liability	TRUE	FALSE		MXN	12/31/2016			0
+94	294997									Accrual -seniority premium retirement		A	Liability	TRUE	FALSE		USD	12/31/2016			0
+12	301000									Preferred Stock - Series A		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+12	301500									Preferred Stock - Series B		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+12	301525									Preferred Stock - Series B1		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+12	301550									Preferred Stock - Series C		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+11	301600									Senior Redeemable Preferred Stock		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+12	301600									Senior Redeemable Preferred Stock		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+12	301601									SSRPS Equity Discount ? Contra Acct		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+12	301650									Super Senior Redeemable Preferred Stock		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+13	301700									Cr Acct - Redeemable Preferred Share Warrants:		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+12	301700									Cr Acct - Redeemable Preferred Share Warrants:		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+11	302000									Common Stock		A	Equity	TRUE	FALSE		USD	12/31/2016			-100
+12	302000									Common Stock		A	Equity	TRUE	FALSE		USD	12/31/2016			-337378.63
+40	302000									Common Stock		A	Equity	TRUE	FALSE		MXN	12/31/2016			-50000
+44	302000									Common Stock		A	Equity	TRUE	FALSE		MXN	12/31/2016			-50000
+15	302000									Common Stock		A	Equity	TRUE	FALSE		USD	12/31/2016			-10
+35	302300									Registered Capital (CN)		A	Equity	TRUE	FALSE		TRY	12/31/2016			-15500000
+30	302300									Registered Capital (CN)		A	Equity	TRUE	FALSE		TRY	12/31/2016			-49663870.96
+72	302300									Registered Capital (CN)		A	Equity	TRUE	FALSE		CNY	12/31/2016			-76415415
+32	302300									Registered Capital (CN)		A	Equity	TRUE	FALSE		USD	12/31/2016			240711
+74	302300									Registered Capital (CN)		A	Equity	TRUE	FALSE		CNY	12/31/2016			-20000000
+30	302500									Member Interests		A	Equity	TRUE	FALSE		TRY	12/31/2016			-19096636.64
+11	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	12/31/2016			-5598703
+12	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	12/31/2016			-289689696.09
+14	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	12/31/2016			-6500000
+15	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	12/31/2016			-1021624
+13	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	12/31/2016			-4011914.76
+32	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	12/31/2016			3759432
+71	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	12/31/2016			-2200000
+30	303000									Paid In Surplus		A	Equity	TRUE	FALSE		TRY	12/31/2016			-1763555.91
+72	303000									Paid In Surplus		A	Equity	TRUE	FALSE		CNY	12/31/2016			0
+30	303100									ETI - Actuarial Diff		A	Equity	TRUE	FALSE		TRY	12/31/2016			442616
+13	303300									APIC - Stock Option Offset		A	Equity	TRUE	FALSE		USD	12/31/2016			-9741793
+30	309000									Year-to-Date Net Income (Loss)		A	Equity	TRUE	FALSE		TRY	12/31/2016			0
+72	309000									Year-to-Date Net Income (Loss)		A	Equity	TRUE	FALSE		CNY	12/31/2016			0
+74	309100									Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		CNY	12/31/2016			14173.25
+72	309100									Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		CNY	12/31/2016			56496.07
+41	309100									Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+30	309100									Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		TRY	12/31/2016			4637233.33
+90	309100									Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		CNY	12/31/2016			1817.15
+35	309100									Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		TRY	12/31/2016			2423386.39
+40	309200									Other Comprehensive Income		A	Equity	TRUE	FALSE		MXN	12/31/2016			8085924
+40	309210									Retained earning		A	Equity	TRUE	FALSE		MXN	12/31/2016			202682
+72	309800									Surplus Reserve		A	Equity	TRUE	FALSE		CNY	12/31/2016			-20706681.55
+74	309800									Surplus Reserve		A	Equity	TRUE	FALSE		CNY	12/31/2016			-10000000.01
+15	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	12/31/2016			-13378342.21
+30	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		TRY	12/31/2016			51269836.91
+20	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	12/31/2016			68882.09
+40	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		MXN	12/31/2016			-8810876.68
+11	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	12/31/2016			-5811079.58
+13	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	12/31/2016			62327266.09
+14	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	12/31/2016			37017874.29
+72	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		CNY	12/31/2016			-58372820.52
+74	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		CNY	12/31/2016			-38037833.47
+32	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	12/31/2016			4666462
+71	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	12/31/2016			-5973385.49
+41	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	12/31/2016			3492896.78
+90	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		CNY	12/31/2016			-1436545.2
+94	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+12	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	12/31/2016			117087844.46
+32	309991									Retained Earnings/ (Accumulated profit)		A	Equity	TRUE	FALSE		USD	12/31/2016			0
+30	309991									Retained Earnings/ (Accumulated profit)		A	Equity	TRUE	FALSE		TRY	12/31/2016			-.36

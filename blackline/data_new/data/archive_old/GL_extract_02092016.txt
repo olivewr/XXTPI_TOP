@@ -1,0 +1,1366 @@
+13	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		USD	01/31/2016			1620824.81
+11	111905									AR - Intercompany (TPI-TECH)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	151110									Deferred Tax Benefits - Federal		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		USD	01/31/2016			866826.68
+11	171700									Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		USD	01/31/2016			-45405.61
+11	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	01/31/2016			-5598703
+13	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	141800									Intercompany Clearing		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	133100									WIP-Control		A	Asset	TRUE	FALSE		USD	01/31/2016			687470.64
+11	231015									Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	01/31/2016			6055851.15
+11	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	01/31/2016			611752.25
+11	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	01/31/2016			-5600780
+14	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	01/31/2016			-9241618.3
+13	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	01/31/2016			-12269876
+11	133150									WIP Obsolesence-DM		A	Asset	TRUE	FALSE		USD	01/31/2016			-725471.99
+11	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	01/31/2016			-495363.19
+11	201910									AP - Intercompany (TPI-OH)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	01/31/2016			-4011914.8
+12	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		USD	01/31/2016			29395000
+13	231072									Withheld Employee 401k Deferral		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	191955									Investment in Partnership - VienTek LLC		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	131500									Finished Goods		A	Asset	TRUE	FALSE		USD	01/31/2016			603193.14
+11	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	241490									Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		USD	01/31/2016			-135165.32
+14	291410									Customer Advance-Discount-LongTerm Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	201300									AP - Clearing		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	151900									Other Current Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	191960									Investment in Partnership - Armored Chariots, LLC		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	01/31/2016			-2467343.2
+12	301600									Senior Redeemable Preferred Stock		A	Equity	TRUE	FALSE		USD	01/31/2016			-18362950
+10	101213									Cash in Bank - USD (Bank of America)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	141310									Prepaid Taxes - Property		A	Asset	TRUE	FALSE		USD	01/31/2016			28144
+10	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	141600									Prepaid - Rebate Due		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	261222									Current Portion - Cap Lease - WINMARK 2		A	Liability	TRUE	FALSE		USD	01/31/2016			-12688.34
+14	261223									Current Portion - Cap Lease - WINMARK 3		A	Liability	TRUE	FALSE		USD	01/31/2016			-9467.26
+14	271213									Long Term Portion - Cap Lease-VARILEASE 3		A	Liability	TRUE	FALSE		USD	01/31/2016			-234896.12
+14	261232									Current Portion - Cap Lease-WELLS FARGO 2		A	Liability	TRUE	FALSE		USD	01/31/2016			-41308
+15	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	01/31/2016			27906.85
+12	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	141850									Intercompany - Prepaid deposits		A	Asset	TRUE	FALSE		USD	01/31/2016			3227415.04
+15	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	271171									Long-Term Debt - Highbridge		A	Liability	TRUE	FALSE		USD	01/31/2016			-72527246
+11	232105									State Income Tax Payable - RI		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	151110									Deferred Tax Benefits - Federal		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	301700									Cr Acct - Redeemable Preferred Share Warrants:		A	Equity	TRUE	FALSE		USD	01/31/2016			-904705.73
+11	291700									Distributions from joint venture in excess of investment		A	Liability	TRUE	FALSE		USD	01/31/2016			-1840325.9
+14	291510									Other L/T Liabilities - Deferred Gain On Capex Buyback		A	Liability	TRUE	FALSE		USD	01/31/2016			-11799.98
+12	151920									Deferred Expenses IPO		A	Asset	TRUE	FALSE		USD	01/31/2016			2838008.47
+11	241340									Accrued Workers Comp Insurance AU		A	Liability	TRUE	FALSE		USD	01/31/2016			-242176.26
+11	111923									AR - Intercompany (TPI-Dafeng)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	101100									Petty Cash		A	Asset	TRUE	FALSE		USD	01/31/2016			560.53
+12	232102									Federal Income Tax Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			59.49
+12	232120									State Income Tax Payable - AZ		A	Liability	TRUE	FALSE		USD	01/31/2016			.42
+14	201940									AP - Intercompany (TPI-TK)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	111400									AR - Other		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	134600									Inventory Supplies		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	231093									Withheld Dental Insurance		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	231050									Withheld Local Payroll Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	302500									Member Interests		A	Equity	TRUE	FALSE		USD	01/31/2016			0
+10	134100									MRB Material		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	141800									Intercompany Clearing		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+15	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	01/31/2016			3269214.12
+15	302000									Common Stock		A	Equity	TRUE	FALSE		USD	01/31/2016			-10
+14	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	01/31/2016			-360259.41
+14	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	01/31/2016			36826295.5
+13	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	01/31/2016			-244612.86
+12	191915									Investment in Subsidiary - TPI-CN		A	Asset	TRUE	FALSE		USD	01/31/2016			2200000
+13	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	01/31/2016			-11943.1
+12	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	01/31/2016			15066056.7
+14	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	01/31/2016			35020.02
+15	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	111150									AR- Trade Allowance for Uncollectible		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	111941									AR - Intercompany (TPI-TK LLC)		A	Asset	TRUE	FALSE		USD	01/31/2016			6053252
+14	231040									Withheld State Payroll Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	132100									Raw Material		A	Asset	TRUE	FALSE		USD	01/31/2016			937652.24
+11	241100									Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	01/31/2016			-2520743.4
+14	141800									Intercompany Clearing		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	01/31/2016			-568505.21
+11	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	133125									WIP-Valuation		A	Asset	TRUE	FALSE		USD	01/31/2016			21086
+10	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	241110									Accrued Expenses - SOX		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	291100									Deferred Income		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	211400									Accrued Vacation		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	201115									AP - Credit Card Reimburse		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	251400									Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	251990									Suspense Account		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	301500									Preferred Stock - Series B		A	Equity	TRUE	FALSE		USD	01/31/2016			-19635161
+11	251825									Deferred Rent - Short Term Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	241310									Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	01/31/2016			-6876.62
+10	291825									Deferred Rent - Long Term Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	271900									Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	271900									Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	141600									Prepaid - Rebate Due		A	Asset	TRUE	FALSE		USD	01/31/2016			182778.3
+13	221150									Payroll Deduction Tax Withheld - Federal		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	291400									Customer Advance - Long Term		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	221900									Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	191961									Investment in Partnership - Turkey		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	232102									Federal Income Tax Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	141901									Deferred profit sharing		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	271170									Long-Term Debt - Hercules		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	271900									Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	111941									AR - Intercompany (TPI-TK LLC)		A	Asset	TRUE	FALSE		USD	01/31/2016			.73
+10	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	01/31/2016			-3689.18
+14	261231									Current Portion - Cap Lease - WELLS FARGO 1		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	271222									Long Term Portion - Cap Lease-WINMARK 2		A	Liability	TRUE	FALSE		USD	01/31/2016			-10290.95
+14	271232									Long Term Portion - Cap Lease-WELLS FARGO 2		A	Liability	TRUE	FALSE		USD	01/31/2016			-17705.01
+12	301650									Super Senior Redeemable Preferred Stock		A	Equity	TRUE	FALSE		USD	01/31/2016			-7000000
+14	201115									AP - Credit Card Reimburse		A	Liability	TRUE	FALSE		USD	01/31/2016			-281074.15
+12	141310									Prepaid Taxes - Property		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	261175									Dr Acct - Term Loan Debt Discount (Contra)(Current)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	01/31/2016			78892.18
+11	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	201115									AP - Credit Card Reimburse		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	271222									Long Term Portion - Cap Lease-WINMARK 2		A	Liability	TRUE	FALSE		USD	01/31/2016			-9870.63
+13	271223									Long Term Portion - Cap Lease-WINMARK 3		A	Liability	TRUE	FALSE		USD	01/31/2016			-8860.93
+10	201910									AP - Intercompany (TPI-OH)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	101910									Restricted Cash - USD		A	Asset	TRUE	FALSE		USD	01/31/2016			293825.96
+10	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	251990									Suspense Account		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		USD	01/31/2016			1196719.29
+11	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	01/31/2016			264237.92
+14	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	01/31/2016			4189154.01
+14	261900									Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	01/31/2016			-208270.4
+14	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	01/31/2016			-6500000
+12	111905									AR - Intercompany (TPI-TECH)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	132200									WIP-Material Overhead		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	231030									Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	211300									Accrued Bonus		A	Liability	TRUE	FALSE		USD	01/31/2016			-1221959.7
+11	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			57936.75
+11	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	01/31/2016			2184033.3
+11	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	01/31/2016			5907444.97
+11	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	01/31/2016			-369616.45
+14	134100									MRB Material		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	01/31/2016			78825.82
+12	111300									AR - Tax Refunds		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			-885292.42
+11	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	01/31/2016			-67847.81
+11	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		USD	01/31/2016			7475.2
+11	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	132150									Raw Material - Obsolesence		A	Asset	TRUE	FALSE		USD	01/31/2016			-117826.38
+11	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	01/31/2016			-6812412.1
+11	241425									Accrued Interest Expense - Sovereign (60month)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	231073									Loan 401k		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	01/31/2016			-9607.38
+10	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		USD	01/31/2016			89749031.1
+13	111910									AR - Intercompany (TPI-OH)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	201910									AP - Intercompany (TPI-OH)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	291950									Deferred Stock Compensation		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	01/31/2016			-15750.28
+14	291825									Deferred Rent - Long Term Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			-188880.6
+11	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	111905									AR - Intercompany (TPI-TECH)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	201910									AP - Intercompany (TPI-OH)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	291110									Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			-58690
+13	141700									Prepaid - Pre-IPO Related Activities		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	201957									AP - VienTek Intercompany (MX)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	111200									AR - Employee Advances		A	Asset	TRUE	FALSE		USD	01/31/2016			33200
+13	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	231010									Withheld Charitable Contribution		A	Liability	TRUE	FALSE		USD	01/31/2016			-1065.64
+13	231073									Loan 401k		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	101214									Cash in Bank - USD (Comerica)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	301550									Preferred Stock - Series C		A	Equity	TRUE	FALSE		USD	01/31/2016			-8913363.6
+10	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	211500									Accrued Holiday		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	211450									Purchased Vacation		A	Liability	TRUE	FALSE		USD	01/31/2016			-9018
+14	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	01/31/2016			-113553.37
+11	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	301600									Senior Redeemable Preferred Stock		A	Equity	TRUE	FALSE		USD	01/31/2016			0
+12	191961									Investment in Partnership - Turkey		A	Asset	TRUE	FALSE		USD	01/31/2016			5450000
+12	191572									Other Long-Term - Subordinated Debt		A	Asset	TRUE	FALSE		USD	01/31/2016			96400.43
+12	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	01/31/2016			22050502
+14	241345									Accrued Workers Comp Insurance AIG		A	Liability	TRUE	FALSE		USD	01/31/2016			-1615617
+13	101910									Restricted Cash - USD		A	Asset	TRUE	FALSE		USD	01/31/2016			1068397.31
+11	232140									State Income Tax Payable - SC		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	141200									Prepaid Rent		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	231030									Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	221100									Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	221900									Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	191800									Projects Clearing		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	132100									Raw Material		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	161700									Vehicles		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	111300									AR - Tax Refunds		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	01/31/2016			312810.82
+14	291400									Customer Advance - Long Term		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	101400									Investments - Short Term		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	01/31/2016			6812412.08
+12	302000									Common Stock		A	Equity	TRUE	FALSE		USD	01/31/2016			-10
+12	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	01/31/2016			-6620326
+13	111200									AR - Employee Advances		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		USD	01/31/2016			21000
+14	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	01/31/2016			-8429025
+14	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	01/31/2016			406.96
+13	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	231120									State Sales Tax Payable - AZ		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	01/31/2016			-7653008.5
+10	232102									Federal Income Tax Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	201300									AP - Clearing		A	Liability	TRUE	FALSE		USD	01/31/2016			-62420.8
+11	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			-21420
+11	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	01/31/2016			-35887.21
+11	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			-66685.43
+11	133125									WIP-Valuation		A	Asset	TRUE	FALSE		USD	01/31/2016			-72448.71
+11	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	01/31/2016			467743.88
+11	261900									Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	221100									Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		USD	01/31/2016			-179774.85
+11	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		USD	01/31/2016			13368.57
+11	161700									Vehicles		A	Asset	TRUE	FALSE		USD	01/31/2016			61968.08
+11	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	01/31/2016			-3335890.1
+11	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	01/31/2016			-75780.92
+11	201905									AP - Intercompany (TPI-TECH)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	01/31/2016			-2960.96
+13	241100									Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	111955									AR - VienTek Intercompany (USA)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	121300									Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		USD	01/31/2016			215492.56
+11	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	01/31/2016			-35020.02
+13	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		USD	01/31/2016			124360.49
+14	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	01/31/2016			-2729.87
+15	111150									AR- Trade Allowance for Uncollectible		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	01/31/2016			-151569.06
+13	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	231030									Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	01/31/2016			-29395000
+14	111910									AR - Intercompany (TPI-OH)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	01/31/2016			61770.4
+13	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	01/31/2016			-2385.19
+14	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		USD	01/31/2016			2385.2
+12	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	133150									WIP Obsolesence-DM		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+15	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	01/31/2016			10854963.5
+11	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	01/31/2016			157244.28
+13	101100									Petty Cash		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	211500									Accrued Holiday		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		USD	01/31/2016			-265388.01
+13	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	261211									Current Portion - Cap Lease - VARILEASE 1		A	Liability	TRUE	FALSE		USD	01/31/2016			-526781.24
+14	271221									Long Term Portion - Cap Lease-WINMARK 1		A	Liability	TRUE	FALSE		USD	01/31/2016			-31401.75
+11	111120									AR - Trade Revenue Recognition Contra		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	141320									Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	01/31/2016			200000
+11	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	271910									Debt Discount - Long-Term Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			2765713.69
+14	261213									Current Portion - Cap Lease - VARILEASE 3		A	Liability	TRUE	FALSE		USD	01/31/2016			-477125.16
+13	271221									Long Term Portion - Cap Lease-WINMARK 1		A	Liability	TRUE	FALSE		USD	01/31/2016			-4399.92
+14	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	01/31/2016			4076333.76
+12	232110									State Income Tax Payable - IA		A	Liability	TRUE	FALSE		USD	01/31/2016			-237234.49
+14	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		USD	01/31/2016			869.52
+10	133100									WIP-Control		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	191600									CIP Clearing		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	231015									Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	131525									Finished Goods - Valuation		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	01/31/2016			0
+10	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	101100									Petty Cash		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+15	181350									Accum.Amort.-Patents		A	Asset	TRUE	FALSE		USD	01/31/2016			-1743588.1
+14	141200									Prepaid Rent		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+15	181000									Goodwill		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	01/31/2016			256532.28
+13	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	01/31/2016			-10609.38
+14	231110									State Sales Tax Payable - IA		A	Liability	TRUE	FALSE		USD	01/31/2016			-34002.85
+14	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	01/31/2016			-712688.51
+14	231015									Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	141800									Intercompany Clearing		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	111910									AR - Intercompany (TPI-OH)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	132300									WIP-Overhead		A	Asset	TRUE	FALSE		USD	01/31/2016			115942.45
+15	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	191510									Noncurrent Deferred Taxes - Federal		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	191955									Investment in Partnership - VienTek LLC		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	181100									Customer Relationships		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	01/31/2016			-406.96
+11	231072									Withheld Employee 401k Deferral		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	01/31/2016			4163267.67
+11	231050									Withheld Local Payroll Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	231071									Withheld Wage Garnishment		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		USD	01/31/2016			-1883286.1
+12	261130									Current Portion Long Term Debt - Sovereign (revolver)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	201120									AP - Employee Reimburse		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	261125									Current Portion Long Term Debt - Sovereign (60month)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	01/31/2016			-133107.97
+13	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	01/31/2016			-8970.3
+14	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	01/31/2016			-3244214.1
+13	231050									Withheld Local Payroll Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	231040									Withheld State Payroll Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	01/31/2016			-74011279
+12	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	231300									Real Estate and Property Tax Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			-803894.83
+14	133175									WIP Obsolesence-DL/OH		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	201955									AP - VienTek Intercompany (USA)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	241330									Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	01/31/2016			-874114.25
+14	134500									MRB Outside Processing		A	Asset	TRUE	FALSE		USD	01/31/2016			67989.84
+11	271100									Long-Term Debt - True North		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	271172									Long-Term Debt ? Subordinated Debt		A	Liability	TRUE	FALSE		USD	01/31/2016			-10000000
+14	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		USD	01/31/2016			-202350.06
+11	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	201905									AP - Intercompany (TPI-TECH)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	132300									WIP-Overhead		A	Asset	TRUE	FALSE		USD	01/31/2016			317081.83
+12	261910									Debt Discount - Current Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			-254304.65
+13	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	01/31/2016			12269876.5
+13	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		USD	01/31/2016			11695886.6
+10	133125									WIP-Valuation		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	111400									AR - Other		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	161800									Computers		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	231091									Withheld Medical Insurance		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	132200									WIP-Material Overhead		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	211300									Accrued Bonus		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	01/31/2016			6064.35
+12	261900									Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	181300									Patents		A	Asset	TRUE	FALSE		USD	01/31/2016			1999999.92
+15	181400									License Agreements		A	Asset	TRUE	FALSE		USD	01/31/2016			850000
+15	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	01/31/2016			-13378342
+12	191902									Investment in Subsidiary - TPI-RI		A	Asset	TRUE	FALSE		USD	01/31/2016			5598703
+12	301000									Preferred Stock - Series A		A	Equity	TRUE	FALSE		USD	01/31/2016			-21664201
+13	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		USD	01/31/2016			636565.05
+13	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	01/31/2016			62179399.1
+14	132100									Raw Material		A	Asset	TRUE	FALSE		USD	01/31/2016			2049572.61
+11	251400									Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	141150									Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	231105									State Sales Tax Payable - RI		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		USD	01/31/2016			244613.06
+10	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	231095									Other Payroll Withholdings		A	Liability	TRUE	FALSE		USD	01/31/2016			-8193.99
+11	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	01/31/2016			-1333956
+11	201250									AP - Vendor Returns		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	241310									Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	231030									Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	231040									Withheld State Payroll Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	211400									Accrued Vacation		A	Liability	TRUE	FALSE		USD	01/31/2016			-634123.15
+14	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	01/31/2016			-1820245.7
+10	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	131500									Finished Goods		A	Asset	TRUE	FALSE		USD	01/31/2016			53486.81
+11	291825									Deferred Rent - Long Term Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	291825									Deferred Rent - Long Term Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			-492047.17
+14	251410									Customer Advance-Discount-Current Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	291110									Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	131550									Finished Goods - Obsolesence		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	201905									AP - Intercompany (TPI-TECH)		A	Liability	TRUE	FALSE		USD	01/31/2016			-10854964
+13	111955									AR - VienTek Intercompany (USA)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	101214									Cash in Bank - USD (Comerica)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	131525									Finished Goods - Valuation		A	Asset	TRUE	FALSE		USD	01/31/2016			4518
+11	101213									Cash in Bank - USD (Bank of America)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	111200									AR - Employee Advances		A	Asset	TRUE	FALSE		USD	01/31/2016			714.27
+10	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	141310									Prepaid Taxes - Property		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	221900									Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	291100									Deferred Income		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	111957									AR - VienTek Intercompany (MX)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	251980									Payroll Suspense		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	241490									Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	231080									Withheld Unemployment Insurance (CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	01/31/2016			93295.47
+14	271211									Long Term Portion - Cap Lease-VARILEASE 1		A	Liability	TRUE	FALSE		USD	01/31/2016			.2
+14	271223									Long Term Portion - Cap Lease-WINMARK 3		A	Liability	TRUE	FALSE		USD	01/31/2016			-18718.75
+14	271231									Long Term Portion - Cap Lease-WELLS FARGO 1		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	251352									Customer Deposits Not Paid Contra		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	251351									Customer Deposits Not Paid		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	251355									Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	301601									SSRPS Equity Discount ? Contra Acct		A	Equity	TRUE	FALSE		USD	01/31/2016			75739.74
+15	232200									Income Tax Payable(CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	151910									Deferred Expenses EMEA		A	Asset	TRUE	FALSE		USD	01/31/2016			649889.11
+13	161801									Computers - Licenses		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	241330									Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	01/31/2016			-98928.89
+13	261221									Current Portion - Cap Lease - WINMARK 1		A	Liability	TRUE	FALSE		USD	01/31/2016			-8230.11
+13	261223									Current Portion - Cap Lease - WINMARK 3		A	Liability	TRUE	FALSE		USD	01/31/2016			-4609.22
+10	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	251400									Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	01/31/2016			-6055851.1
+13	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	241310									Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	232105									State Income Tax Payable - RI		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	141150									Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		USD	01/31/2016			5.99
+10	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	251300									Unearned Revenue		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	231072									Withheld Employee 401k Deferral		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	132300									WIP-Overhead		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	111200									AR - Employee Advances		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		USD	01/31/2016			-4352435.1
+15	231150									State Sales Tax Payable - DE		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			-.41
+12	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	01/31/2016			16381882
+10	201300									AP - Clearing		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	181200									Trademarks		A	Asset	TRUE	FALSE		USD	01/31/2016			150000
+15	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	01/31/2016			-1021624
+14	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	161800									Computers		A	Asset	TRUE	FALSE		USD	01/31/2016			407572.87
+12	121200									Interest Receivable		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	01/31/2016			-358011.86
+14	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	132600									Intransit Inventory		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	01/31/2016			-1183644.9
+12	251990									Suspense Account		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		USD	01/31/2016			208270.4
+11	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	134600									Inventory Supplies		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	01/31/2016			75817.4
+11	181150									Accum.Amort.-Customer Relationships		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	211400									Accrued Vacation		A	Liability	TRUE	FALSE		USD	01/31/2016			-16343.72
+11	271125									Long Term Debt - Sovereign (60month)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	302000									Common Stock		A	Equity	TRUE	FALSE		USD	01/31/2016			-100
+11	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	01/31/2016			-5811079.6
+11	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	141310									Prepaid Taxes - Property		A	Asset	TRUE	FALSE		USD	01/31/2016			5471.22
+14	271130									Long Term Debt - Sovereign (revolver)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	211300									Accrued Bonus		A	Liability	TRUE	FALSE		USD	01/31/2016			-251393.08
+10	211500									Accrued Holiday		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	01/31/2016			8361602.74
+13	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		USD	01/31/2016			151569.06
+11	211300									Accrued Bonus		A	Liability	TRUE	FALSE		USD	01/31/2016			-269045.57
+12	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		USD	01/31/2016			-5456172.1
+14	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	251825									Deferred Rent - Short Term Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	111910									AR - Intercompany (TPI-OH)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	301525									Preferred Stock - Series B1		A	Equity	TRUE	FALSE		USD	01/31/2016			-25850023
+13	251990									Suspense Account		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	01/31/2016			-4033.77
+14	251810									Deferred Revenue-Current Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	141200									Prepaid Rent		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	211450									Purchased Vacation		A	Liability	TRUE	FALSE		USD	01/31/2016			-5809.89
+14	241490									Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		USD	01/31/2016			-116378.43
+12	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	261212									Current Portion - Cap Lease - VARILEASE 2		A	Liability	TRUE	FALSE		USD	01/31/2016			-862778.47
+14	261221									Current Portion - Cap Lease - WINMARK 1		A	Liability	TRUE	FALSE		USD	01/31/2016			-70753.83
+14	271212									Long Term Portion - Cap Lease-VARILEASE 2		A	Liability	TRUE	FALSE		USD	01/31/2016			-93251.42
+11	201940									AP - Intercompany (TPI-TK)		A	Liability	TRUE	FALSE		USD	01/31/2016			-611752.25
+11	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	01/31/2016			3943702.01
+12	141320									Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	01/31/2016			266151.61
+12	261171									Current Portion Long Term Debt - Highbridge		A	Liability	TRUE	FALSE		USD	01/31/2016			-1847753.9
+15	201300									AP - Clearing		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	221471									Accrued Interest Expense - Highbridge		A	Liability	TRUE	FALSE		USD	01/31/2016			-1888187.1
+11	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	01/31/2016			-1192432.8
+13	141950									Dr Acct ? Deferred Financing Fee (Current)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	301700									Cr Acct - Redeemable Preferred Share Warrants:		A	Equity	TRUE	FALSE		USD	01/31/2016			0
+14	201921									AP - Intercompany (TPI-Dafeng)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	151120									Deferred Tax Benefits - State		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	241330									Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	01/31/2016			-18465.28
+14	121400									Unbilled Revenue		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	241100									Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	251810									Deferred Revenue-Current Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	231091									Withheld Medical Insurance		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	232105									State Income Tax Payable - RI		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	171300									Accum.Depr. - Buildings		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	181450									Accum.Amort.-License Agreements		A	Asset	TRUE	FALSE		USD	01/31/2016			-850000
+15	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	01/31/2016			-3279343.7
+12	121100									Notes Receivable - Employees		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	191905									Investment in Subsidiary - TPI-TECH		A	Asset	TRUE	FALSE		USD	01/31/2016			1021634
+12	191925									Investment in Subsidiary - TPI-IA		A	Asset	TRUE	FALSE		USD	01/31/2016			6500000
+14	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			796829.57
+13	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	01/31/2016			-1124012.5
+13	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			971839.11
+13	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	01/31/2016			3589007.14
+15	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	01/31/2016			-919053.55
+13	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	01/31/2016			441117.67
+11	111400									AR - Other		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			-520712.03
+14	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	161800									Computers		A	Asset	TRUE	FALSE		USD	01/31/2016			1343939.74
+11	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	01/31/2016			-201331.91
+14	231071									Withheld Wage Garnishment		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	01/31/2016			-109.68
+11	111960									AR - On Account Payments		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	01/31/2016			38030.49
+11	134100									MRB Material		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	133100									WIP-Control		A	Asset	TRUE	FALSE		USD	01/31/2016			4674624.63
+12	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		USD	01/31/2016			-21886.79
+11	132600									Intransit Inventory		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	111957									AR - VienTek Intercompany (MX)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	121955									Note Receivable - VienTek (US)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	101100									Petty Cash		A	Asset	TRUE	FALSE		USD	01/31/2016			1500
+11	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		USD	01/31/2016			4459813.65
+11	181000									Goodwill		A	Asset	TRUE	FALSE		USD	01/31/2016			2807371.47
+11	191910									Investment in Subsidiary - TPI-OH		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	111800									AR - Clearing		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	132150									Raw Material - Obsolesence		A	Asset	TRUE	FALSE		USD	01/31/2016			-247094.11
+14	271900									Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		USD	01/31/2016			5417653.37
+12	241430									Accrued Interest Expense - Sovereign (revolver)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	231015									Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	231071									Withheld Wage Garnishment		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	132150									Raw Material - Obsolesence		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	111400									AR - Other		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	01/31/2016			-15737752
+10	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	01/31/2016			-374646.07
+15	111400									AR - Other		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	251990									Suspense Account		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+15	101100									Petty Cash		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	211450									Purchased Vacation		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	261170									Current Portion - Debt Discount (Contra)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	201941									AP - Intercompany (TPI-TK LLC)		A	Liability	TRUE	FALSE		USD	01/31/2016			22108061
+13	111941									AR - Intercompany (TPI-TK LLC)		A	Asset	TRUE	FALSE		USD	01/31/2016			17000000
+13	141320									Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	01/31/2016			4544.83
+13	171700									Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+11	251355									Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	01/31/2016			-5387128.8
+11	111112									AR - Trade Customer Deposits Not Paid		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	101910									Restricted Cash - USD		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+12	191571									Other Long Term - Highbridge		A	Asset	TRUE	FALSE		USD	01/31/2016			3984445.54
+11	191600									CIP Clearing		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	01/31/2016			292662.47
+13	171850									Accum.Depr - Licenses Computer		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+13	261222									Current Portion - Cap Lease - WINMARK 2		A	Liability	TRUE	FALSE		USD	01/31/2016			-10911.74
+14	231093									Withheld Dental Insurance		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+14	241340									Accrued Workers Comp Insurance AU		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+11	251300									Unearned Revenue		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	131500									Finished Goods		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	111980									AR - Unidentified Receipts		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	191700									Asset Clearing		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+10	261900									Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	231071									Withheld Wage Garnishment		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	231040									Withheld State Payroll Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+10	121100									Notes Receivable - Employees		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+14	251300									Unearned Revenue		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+12	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	01/31/2016			-263899.55
+15	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+15	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+13	161800									Computers		A	Asset	TRUE	FALSE		USD	01/31/2016			652871.73
+13	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+40	161900									Construction in Process		A	Asset	TRUE	FALSE		MXN	01/31/2016			40213027.1
+72	132100									Raw Material		A	Asset	TRUE	FALSE		CNY	01/31/2016			25781706
+72	241435									Accrued Interest Expense - ABC (mortgage)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		CNY	01/31/2016			-28528692
+72	191600									CIP Clearing		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	201905									AP - Intercompany (TPI-TECH)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-27276065
+72	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-6312511.5
+72	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	231270									VAT - Export Tax Reduction for Domestic Sales		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	303000									Paid In Surplus		A	Equity	TRUE	FALSE		CNY	01/31/2016			0
+72	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		CNY	01/31/2016			-1770013.8
+72	241110									Accrued Expenses - SOX		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+30	261155									Current Portion Long Term Debt - Phase 2 Loan		A	Liability	TRUE	FALSE		TRY	01/31/2016			-2356000
+40	221030									Housing Tax		A	Liability	TRUE	FALSE		MXN	01/31/2016			-614390.82
+40	302000									Common Stock		A	Equity	TRUE	FALSE		MXN	01/31/2016			-50000
+74	231085									Withheld Housing Fund(CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-343097.6
+74	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+74	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		CNY	01/31/2016			-566011
+74	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-4937107
+74	231035									Withheld Personal Income Tax(CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-113954.96
+40	161200									Installation costs		A	Asset	TRUE	FALSE		MXN	01/31/2016			17392946.5
+40	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		MXN	01/31/2016			-577894.67
+74	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		CNY	01/31/2016			-6095915
+30	132600									Intransit Inventory		A	Asset	TRUE	FALSE		TRY	01/31/2016			2411068.85
+30	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		TRY	01/31/2016			45477.45
+74	231160									Education Surtax Payable		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+74	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		CNY	01/31/2016			-38332
+40	211350									Accrued Profit Sharing		A	Liability	TRUE	FALSE		MXN	01/31/2016			-2866034.6
+74	231165									Stamp Duty Tax Payable		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+74	161950									Construction in Process-Other		A	Asset	TRUE	FALSE		CNY	01/31/2016			4028336.35
+30	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		TRY	01/31/2016			322.09
+40	294997									Accrual -seniority premium retirement		A	Liability	TRUE	FALSE		MXN	01/31/2016			-327674.25
+72	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	101265									Cash in Bank - USD Settlement Account (DFR)		A	Asset	TRUE	FALSE		CNY	01/31/2016			338.52
+30	261160									Current Portion Long Term Debt--Loan 3		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		TRY	01/31/2016			15642081
+40	201305									Sundry creditors -USD		A	Liability	TRUE	FALSE		MXN	01/31/2016			0
+30	201921									AP - Intercompany (TPI-Dafeng)		A	Liability	TRUE	FALSE		TRY	01/31/2016			-146793.55
+30	102100									Cash Equivalents (Short Term) Investment		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+74	101272									Cash in bank-RMB Settlement Account (BOC DF)		A	Asset	TRUE	FALSE		CNY	01/31/2016			365387.67
+30	303000									Paid In Surplus		A	Equity	TRUE	FALSE		TRY	01/31/2016			-1763555.9
+72	151140									Deductible VAT (TK)		A	Asset	TRUE	FALSE		CNY	01/31/2016			9048386.34
+90	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		CNY	01/31/2016			-1436545.2
+74	141903									Other Prepaid Expenses		A	Asset	TRUE	FALSE		CNY	01/31/2016			776113.54
+72	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		CNY	01/31/2016			2260372.54
+72	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		CNY	01/31/2016			-487058.98
+72	261140									Current Portion Long Term Debt - ABC (working capital)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	251350									Customer Deposit		A	Liability	TRUE	FALSE		CNY	01/31/2016			-29830293
+30	101232									Cash in Bank - USD (YKB)		A	Asset	TRUE	FALSE		TRY	01/31/2016			1010768.15
+30	141200									Prepaid Rent		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		TRY	01/31/2016			8966186.27
+30	309100									Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		TRY	01/31/2016			-170178.05
+30	231165									Stamp Duty Tax Payable		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		TRY	01/31/2016			-3540701.3
+30	101229									Cash in Bank USD (Sekerbank)		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	101234									Salary Payment (YKB)		A	Asset	TRUE	FALSE		TRY	01/31/2016			9863.35
+30	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		TRY	01/31/2016			85379.18
+30	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		TRY	01/31/2016			-13314.08
+30	134100									MRB Material		A	Asset	TRUE	FALSE		TRY	01/31/2016			11675.45
+40	131500									Finished Goods		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+40	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		MXN	01/31/2016			179847.32
+72	151900									Other Current Assets		A	Asset	TRUE	FALSE		CNY	01/31/2016			4415375.29
+72	131500									Finished Goods		A	Asset	TRUE	FALSE		CNY	01/31/2016			625271.51
+72	309100									Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		CNY	01/31/2016			5817.7
+72	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	261135									Current Portion Long Term Debt - ABC (mortgage)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	261142									Current Portion Long Term Debt - BOC (working capital)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-28000000
+72	211300									Accrued Bonus		A	Liability	TRUE	FALSE		CNY	01/31/2016			-4411623.9
+72	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	161800									Computers		A	Asset	TRUE	FALSE		CNY	01/31/2016			2611570.74
+72	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-619933.68
+72	171700									Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		CNY	01/31/2016			-366854.17
+72	111400									AR - Other		A	Asset	TRUE	FALSE		CNY	01/31/2016			13393.89
+72	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+74	231210									VAT - Input Tax		A	Liability	TRUE	FALSE		CNY	01/31/2016			7906248.68
+74	111980									AR - Unidentified Receipts		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	111100									AR - Trade		A	Asset	TRUE	FALSE		CNY	01/31/2016			25343526
+30	271166									Long Term Debt - BOC Poland		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+40	101150									Petty Cash-pesos		A	Asset	TRUE	FALSE		MXN	01/31/2016			10000
+30	141330									Prepaid Taxes - State Income		A	Asset	TRUE	FALSE		TRY	01/31/2016			13997.03
+30	101241									Cash in Bank - USD (2nd USD Account in GARANTI Bank)		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+40	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+74	231080									Withheld Unemployment Insurance (CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-3996.23
+72	271176									Long Term Debt - Haohua Microfinance		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+30	261165									Current Portion Long Term Debt - Odea		A	Liability	TRUE	FALSE		TRY	01/31/2016			-12495570
+74	231280									VAT - Overpayment Exchange		A	Liability	TRUE	FALSE		CNY	01/31/2016			-118152.54
+72	111405									AR - Other Accounts Receivable - Dafeng		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	231010									Withheld Charitable Contribution		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+74	201200									AP - Accrual		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+74	131500									Finished Goods		A	Asset	TRUE	FALSE		CNY	01/31/2016			5239153.15
+40	231093									Withheld Dental Insurance		A	Liability	TRUE	FALSE		MXN	01/31/2016			0
+74	251970									Short Term Loan (W/C)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+30	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		TRY	01/31/2016			-52775588
+72	111923									AR - Intercompany (TPI-Dafeng)		A	Asset	TRUE	FALSE		CNY	01/31/2016			102484560
+74	271140									Long Term Debt - ABC (working capital)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+40	291998									Accrual severance termination		A	Liability	TRUE	FALSE		MXN	01/31/2016			-2347010.8
+72	261176									Current Portion - Haohua Working Capital Loans		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+30	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		TRY	01/31/2016			-2416747
+40	101267									Cash in Bank - MXN Bancomer		A	Asset	TRUE	FALSE		MXN	01/31/2016			392261.73
+74	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+74	111300									AR - Tax Refunds		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	151140									Deductible VAT (TK)		A	Asset	TRUE	FALSE		CNY	01/31/2016			15980001
+72	191135									Dr Acct ? Deferred Tax Asset (LT-Portion)		A	Asset	TRUE	FALSE		CNY	01/31/2016			733778.24
+30	211901									AOB - Actuarial		A	Liability	TRUE	FALSE		TRY	01/31/2016			-442616
+30	303100									ETI - Actuarial Diff		A	Equity	TRUE	FALSE		TRY	01/31/2016			442616
+72	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		CNY	01/31/2016			1083151.19
+72	134100									MRB Material		A	Asset	TRUE	FALSE		CNY	01/31/2016			-9635.55
+30	101233									Cash in Bank - EUR (YKB)		A	Asset	TRUE	FALSE		TRY	01/31/2016			10567801.5
+30	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		TRY	01/31/2016			-32.29
+40	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+72	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-210530384
+72	201200									AP - Accrual		A	Liability	TRUE	FALSE		CNY	01/31/2016			619.58
+72	132300									WIP-Overhead		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	111300									AR - Tax Refunds		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	221900									Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	231260									VAT - Transfer from Input Tax		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	231085									Withheld Housing Fund(CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-76182.81
+72	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		CNY	01/31/2016			-3775887.7
+72	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	302300									Registered Capital (CN)		A	Equity	TRUE	FALSE		CNY	01/31/2016			-76415415
+72	261137									Current Portion Long Term Debt - BOC (mortgage)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	241442									Accrued Interest Expense - BOC (working capital)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-329945.77
+72	211130									Accrued Salaries & Wages-contract staff(CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	221030									Housing Tax		A	Liability	TRUE	FALSE		CNY	01/31/2016			-215573
+72	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+74	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	134100									MRB Material		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+40	211902									Accrued Savings Fund		A	Liability	TRUE	FALSE		MXN	01/31/2016			-399968.92
+40	211904									Accrued Grocery bonus		A	Liability	TRUE	FALSE		MXN	01/31/2016			-214086.8
+40	221020									Social security retirement - E		A	Liability	TRUE	FALSE		MXN	01/31/2016			-245756.36
+30	101242									Cash in Bank - GBP (GARANTI BANKASI Bank)		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+40	141112									Medical insurance		A	Asset	TRUE	FALSE		MXN	01/31/2016			530864.01
+74	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	181550									Accum.Amort.-Computer Software		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	221010									Social security - Employer		A	Liability	TRUE	FALSE		CNY	01/31/2016			-18897.97
+74	211300									Accrued Bonus		A	Liability	TRUE	FALSE		CNY	01/31/2016			-5421182.1
+74	191700									Asset Clearing		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		CNY	01/31/2016			60921223.2
+30	132100									Raw Material		A	Asset	TRUE	FALSE		TRY	01/31/2016			21242855.9
+40	231060									Withheld Cafeteria - empleado		A	Liability	TRUE	FALSE		MXN	01/31/2016			0
+72	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+30	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		TRY	01/31/2016			420324.79
+40	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		MXN	01/31/2016			6523692.29
+40	121130									VAT for Pedimentos		A	Asset	TRUE	FALSE		MXN	01/31/2016			961403
+30	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		TRY	01/31/2016			1811337.21
+30	111300									AR - Tax Refunds		A	Asset	TRUE	FALSE		TRY	01/31/2016			2459657.46
+30	261166									Current Portion Long Term Debt - YKB		A	Liability	TRUE	FALSE		TRY	01/31/2016			-48190345
+30	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		TRY	01/31/2016			689572.83
+30	302500									Member Interests		A	Equity	TRUE	FALSE		TRY	01/31/2016			-19096637
+72	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+40	291999									Accrual retirement		A	Liability	TRUE	FALSE		MXN	01/31/2016			-2627704.8
+30	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		TRY	01/31/2016			-375.67
+72	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+74	231250									VAT - Export Reimbursement		A	Liability	TRUE	FALSE		CNY	01/31/2016			-7856473.2
+40	141901									Deferred profit sharing		A	Asset	TRUE	FALSE		MXN	01/31/2016			816857
+90	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+74	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		CNY	01/31/2016			-15566074
+30	133125									WIP-Valuation		A	Asset	TRUE	FALSE		TRY	01/31/2016			485748
+72	132150									Raw Material - Obsolesence		A	Asset	TRUE	FALSE		CNY	01/31/2016			-636308.75
+72	161111									Land Improvements		A	Asset	TRUE	FALSE		CNY	01/31/2016			1513411
+74	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	221910									Other Payable-Union funds		A	Liability	TRUE	FALSE		CNY	01/31/2016			-109114.32
+72	101220									Cash in Bank - RMB Settlement Account (ABC Bank)		A	Asset	TRUE	FALSE		CNY	01/31/2016			25886.46
+72	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		CNY	01/31/2016			11954177.2
+72	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+30	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		TRY	01/31/2016			19443056.2
+30	101212									Sekerbank USD deposit		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	291110									Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	291400									Customer Advance - Long Term		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		TRY	01/31/2016			-343644.44
+72	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+30	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		TRY	01/31/2016			13278626.3
+40	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		MXN	01/31/2016			-447490.12
+40	134100									MRB Material		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+72	191800									Projects Clearing		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		CNY	01/31/2016			-76824594
+72	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		CNY	01/31/2016			-21000386
+72	133125									WIP-Valuation		A	Asset	TRUE	FALSE		CNY	01/31/2016			476488.23
+72	231240									VAT - Output Tax		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	181550									Accum.Amort.-Computer Software		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	171300									Accum.Depr. - Buildings		A	Asset	TRUE	FALSE		CNY	01/31/2016			-25778585
+72	231035									Withheld Personal Income Tax(CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-311903.92
+72	231075									Withheld Employee Pension (CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-50031.41
+72	231091									Withheld Medical Insurance		A	Liability	TRUE	FALSE		CNY	01/31/2016			-1890.13
+72	309000									Year-to-Date Net Income (Loss)		A	Equity	TRUE	FALSE		CNY	01/31/2016			0
+72	241440									Accrued Interest Expense - ABC (working capital)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	241437									Accrued Interest Expense - BOC (mortgage)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	141200									Prepaid Rent		A	Asset	TRUE	FALSE		CNY	01/31/2016			69850.03
+72	251970									Short Term Loan (W/C)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	231500									Business Tax Payable(CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			7714.02
+74	101300									Cash Clearing (For Oracle Cash Management)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	201100									AP - Trade		A	Liability	TRUE	FALSE		CNY	01/31/2016			-128116025
+74	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		CNY	01/31/2016			-21817684
+74	101100									Petty Cash		A	Asset	TRUE	FALSE		CNY	01/31/2016			2768.47
+74	231240									VAT - Output Tax		A	Liability	TRUE	FALSE		CNY	01/31/2016			-3474020.4
+74	251350									Customer Deposit		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+74	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		CNY	01/31/2016			-31362.5
+40	111955									AR - VienTek Intercompany (USA)		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+30	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		TRY	01/31/2016			313859.52
+40	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+40	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		MXN	01/31/2016			-1929033.9
+40	121128									VAT to be paid		A	Asset	TRUE	FALSE		MXN	01/31/2016			6852950.63
+40	201955									AP - VienTek Intercompany (USA)		A	Liability	TRUE	FALSE		MXN	01/31/2016			0
+74	221910									Other Payable-Union funds		A	Liability	TRUE	FALSE		CNY	01/31/2016			-867215.29
+30	101226									Cash in Bank - MXN (Bancomer manual)		A	Asset	TRUE	FALSE		TRY	01/31/2016			.01
+40	121132									IVA Por Acreditar		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+74	161800									Computers		A	Asset	TRUE	FALSE		CNY	01/31/2016			2064072.29
+40	101100									Petty Cash		A	Asset	TRUE	FALSE		MXN	01/31/2016			9145.3
+74	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		CNY	01/31/2016			48362392.7
+72	101260									Cash In Bank-RMB(Basis Settlement DFRC Bank)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		CNY	01/31/2016			-649680.23
+74	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		CNY	01/31/2016			210214569
+74	101271									Cash in bank-EUR in DFR		A	Asset	TRUE	FALSE		CNY	01/31/2016			3.51
+72	261143									Current Portion - BOC Working Capital Loans (Entrust)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+30	251900									Deferred Tax Liability		A	Liability	TRUE	FALSE		TRY	01/31/2016			.26
+30	309991									Retained Earnings/ (Accumulated profit)		A	Equity	TRUE	FALSE		TRY	01/31/2016			-.36
+30	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+74	101266									Cash in Bank - USD Inspection Account (DFR)		A	Asset	TRUE	FALSE		CNY	01/31/2016			1580016.88
+30	101244									Cash in Bank-USD-OdeaBank		A	Asset	TRUE	FALSE		TRY	01/31/2016			6004.76
+40	231095									Other Payroll Withholdings		A	Liability	TRUE	FALSE		MXN	01/31/2016			-232262.54
+40	121100									Notes Receivable - Employees		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+30	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		TRY	01/31/2016			540435.1
+74	191135									Dr Acct ? Deferred Tax Asset (LT-Portion)		A	Asset	TRUE	FALSE		CNY	01/31/2016			1414737.28
+30	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		TRY	01/31/2016			-1468386
+30	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		TRY	01/31/2016			961791
+74	141200									Prepaid Rent		A	Asset	TRUE	FALSE		CNY	01/31/2016			3100000
+30	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		TRY	01/31/2016			-4533573.7
+72	101930									Restricted Cash - EUR		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+30	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		TRY	01/31/2016			-3539531
+30	221010									Social security - Employer		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		TRY	01/31/2016			9255.36
+30	251950									Note Payable Short-Term LCSI		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	191600									CIP Clearing		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	181500									Computer Software		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	231220									VAT - Remitted Tax		A	Liability	TRUE	FALSE		TRY	01/31/2016			-2335358
+40	141310									Prepaid Taxes - Property		A	Asset	TRUE	FALSE		MXN	01/31/2016			847837.83
+72	151120									Deferred Tax Benefits - State		A	Asset	TRUE	FALSE		CNY	01/31/2016			1329524.3
+40	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		MXN	01/31/2016			0
+40	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		MXN	01/31/2016			0
+72	133100									WIP-Control		A	Asset	TRUE	FALSE		CNY	01/31/2016			7079358.09
+72	251990									Suspense Account		A	Liability	TRUE	FALSE		CNY	01/31/2016			-41389.64
+72	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		CNY	01/31/2016			58863574.5
+72	121300									Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		CNY	01/31/2016			436658.25
+72	231220									VAT - Remitted Tax		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	231160									Education Surtax Payable		A	Liability	TRUE	FALSE		CNY	01/31/2016			-364016.4
+72	101222									Cash in Bank - RMB Settlement Account (BOC Bank)		A	Asset	TRUE	FALSE		CNY	01/31/2016			17927647.7
+72	101223									Cash in Bank - USD Settlement Account (BOC Bank)		A	Asset	TRUE	FALSE		CNY	01/31/2016			5574191.1
+72	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	201120									AP - Employee Reimburse		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+30	241310									Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		TRY	01/31/2016			.4
+30	251100									Intercompany Clearing		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+40	251210									VAT withheld		A	Liability	TRUE	FALSE		MXN	01/31/2016			-40105.03
+40	121307									Sundry debtors -USD		A	Asset	TRUE	FALSE		MXN	01/31/2016			5651.8
+40	141118									Building insurance		A	Asset	TRUE	FALSE		MXN	01/31/2016			136681.66
+40	221010									Social security - Employer		A	Liability	TRUE	FALSE		MXN	01/31/2016			-2342205.5
+40	221070									Income tax withheld to employee		A	Liability	TRUE	FALSE		MXN	01/31/2016			-1291059.6
+40	221100									Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		MXN	01/31/2016			-475394.5
+40	101250									Cash in Bank - MXN (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+30	111800									AR - Clearing		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+74	101260									Cash In Bank-RMB(Basis Settlement DFRC Bank)		A	Asset	TRUE	FALSE		CNY	01/31/2016			3201978.02
+40	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		MXN	01/31/2016			-6633155.7
+72	161950									Construction in Process-Other		A	Asset	TRUE	FALSE		CNY	01/31/2016			2810563.2
+40	251220									VAT payable		A	Liability	TRUE	FALSE		MXN	01/31/2016			-1684.96
+74	231255									VAT - Import Review		A	Liability	TRUE	FALSE		CNY	01/31/2016			342649.75
+74	151120									Deferred Tax Benefits - State		A	Asset	TRUE	FALSE		CNY	01/31/2016			266172.13
+74	232200									Income Tax Payable(CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-770194.4
+72	161900									Construction in Process		A	Asset	TRUE	FALSE		CNY	01/31/2016			261200
+40	171700									Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		MXN	01/31/2016			-74330.55
+40	121175									Employment subsidy		A	Asset	TRUE	FALSE		MXN	01/31/2016			33808.17
+40	231071									Withheld Wage Garnishment		A	Liability	TRUE	FALSE		MXN	01/31/2016			-18484.6
+74	133900									WIP - Tooling MFG Expense		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	231260									VAT - Transfer from Input Tax		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+30	141600									Prepaid - Rebate Due		A	Asset	TRUE	FALSE		TRY	01/31/2016			206893.19
+72	111100									AR - Trade		A	Asset	TRUE	FALSE		CNY	01/31/2016			104268206
+40	241330									Accrued Health Insurance		A	Liability	TRUE	FALSE		MXN	01/31/2016			0
+30	133100									WIP-Control		A	Asset	TRUE	FALSE		TRY	01/31/2016			4563113.28
+72	201940									AP - Intercompany (TPI-TK)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-46737.8
+30	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		TRY	01/31/2016			46275317.2
+74	241100									Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		CNY	01/31/2016			-884454.26
+74	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		CNY	01/31/2016			-7575279.1
+30	111200									AR - Employee Advances		A	Asset	TRUE	FALSE		TRY	01/31/2016			41897.42
+74	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		CNY	01/31/2016			324810.9
+40	121129									VAT paid		A	Asset	TRUE	FALSE		MXN	01/31/2016			23716527.4
+74	101270									Cash in bank-GBP in DFR		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+30	291350									Cr Acct - Deferred Tax Liability (LT-Portion)		A	Liability	TRUE	FALSE		TRY	01/31/2016			.26
+74	133125									WIP-Valuation		A	Asset	TRUE	FALSE		CNY	01/31/2016			-250119.45
+40	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		MXN	01/31/2016			-89742.85
+40	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		MXN	01/31/2016			-121518.07
+40	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		MXN	01/31/2016			837708.7
+30	101245									Odea EUR		A	Asset	TRUE	FALSE		TRY	01/31/2016			591246.69
+90	309100									Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		CNY	01/31/2016			1817.15
+74	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-8298082.2
+74	132150									Raw Material - Obsolesence		A	Asset	TRUE	FALSE		CNY	01/31/2016			-495111
+74	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		CNY	01/31/2016			131659.45
+74	141400									Prepaid Duty Charges		A	Asset	TRUE	FALSE		CNY	01/31/2016			38967717.6
+74	141901									Deferred profit sharing		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+30	309000									Year-to-Date Net Income (Loss)		A	Equity	TRUE	FALSE		TRY	01/31/2016			0
+30	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	161300									Buildings		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	134600									Inventory Supplies		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	199000									Organizational Costs		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+72	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		CNY	01/31/2016			546788.87
+30	101237									Cash in Bank - EUR (GARANTI BANKASI Bank)		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+40	121118									16% IVA acreditable		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+30	201941									AP - Intercompany (TPI-TK LLC)		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+40	201200									AP - Accrual		A	Liability	TRUE	FALSE		MXN	01/31/2016			-816301.17
+30	261150									Current Portion Long Term Debt - Phase 1 Loan		A	Liability	TRUE	FALSE		TRY	01/31/2016			-13207428
+40	201100									AP - Trade		A	Liability	TRUE	FALSE		MXN	01/31/2016			-17314706
+40	132100									Raw Material		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+72	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		CNY	01/31/2016			157213563
+72	132200									WIP-Material Overhead		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	201100									AP - Trade		A	Liability	TRUE	FALSE		CNY	01/31/2016			-71889684
+72	231210									VAT - Input Tax		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	181500									Computer Software		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	201300									AP - Clearing		A	Liability	TRUE	FALSE		CNY	01/31/2016			-269525.87
+72	101221									Cash in Bank - USD Pending Account (ABC Bank)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	221010									Social security - Employer		A	Liability	TRUE	FALSE		CNY	01/31/2016			-634366.54
+72	141310									Prepaid Taxes - Property		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		CNY	01/31/2016			-192858.79
+72	309800									Surplus Reserve		A	Equity	TRUE	FALSE		CNY	01/31/2016			-4067648.7
+40	121126									11% IVA acreditable		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+30	131525									Finished Goods - Valuation		A	Asset	TRUE	FALSE		TRY	01/31/2016			47008
+72	101940									Restricted Cash - RMB		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+30	101240									Cash in Bank - TRY (2nd TRY Account in GARANTI Bank)		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+72	231255									VAT - Import Review		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+40	141114									Life insurance		A	Asset	TRUE	FALSE		MXN	01/31/2016			85202.13
+74	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	181500									Computer Software		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	231075									Withheld Employee Pension (CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-194135.77
+74	231091									Withheld Medical Insurance		A	Liability	TRUE	FALSE		CNY	01/31/2016			-101311.97
+74	201120									AP - Employee Reimburse		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+30	151140									Deductible VAT (TK)		A	Asset	TRUE	FALSE		TRY	01/31/2016			23242059.6
+40	151900									Other Current Assets		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+40	141116									Foreign vehicles insurance		A	Asset	TRUE	FALSE		MXN	01/31/2016			1148.2
+72	133900									WIP - Tooling MFG Expense		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	191921									Investment in Subsidiary - TPI-Dafeng		A	Asset	TRUE	FALSE		CNY	01/31/2016			20000000
+74	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		CNY	01/31/2016			-9570.32
+40	232320									Income Tax Payable (MX)		A	Liability	TRUE	FALSE		MXN	01/31/2016			-880049
+30	132300									WIP-Overhead		A	Asset	TRUE	FALSE		TRY	01/31/2016			1324020.33
+40	201307									Sundry creditors -MXN		A	Liability	TRUE	FALSE		MXN	01/31/2016			-475232.03
+40	261920									Current portion Debt		A	Liability	TRUE	FALSE		MXN	01/31/2016			-20218949
+30	101910									Restricted Cash - USD		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		TRY	01/31/2016			52601361
+74	131525									Finished Goods - Valuation		A	Asset	TRUE	FALSE		CNY	01/31/2016			-180414.1
+74	111400									AR - Other		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	261144									Current Portion - Jiangsu Dafeng Rural Cooperative Bank		A	Liability	TRUE	FALSE		CNY	01/31/2016			-50000000
+40	121324									Favorable Income Tax-Prior Per		A	Asset	TRUE	FALSE		MXN	01/31/2016			2061577
+40	141902									Deferred income tax		A	Asset	TRUE	FALSE		MXN	01/31/2016			1974622
+74	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		CNY	01/31/2016			2374071.12
+30	111923									AR - Intercompany (TPI-Dafeng)		A	Asset	TRUE	FALSE		TRY	01/31/2016			25741.68
+72	171200									Accum.Depr. - Land Improvements		A	Asset	TRUE	FALSE		CNY	01/31/2016			-657764.21
+72	161110									Land		A	Asset	TRUE	FALSE		CNY	01/31/2016			11460619.9
+30	211300									Accrued Bonus		A	Liability	TRUE	FALSE		TRY	01/31/2016			-1566851.8
+90	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		CNY	01/31/2016			1434728.05
+30	101100									Petty Cash		A	Asset	TRUE	FALSE		TRY	01/31/2016			12040.97
+30	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		TRY	01/31/2016			194032.93
+30	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	201200									AP - Accrual		A	Liability	TRUE	FALSE		TRY	01/31/2016			19076.36
+30	111980									AR - Unidentified Receipts		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	134500									MRB Outside Processing		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	151130									Deferred Tax Benefits - VAT		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	231210									VAT - Input Tax		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	161800									Computers		A	Asset	TRUE	FALSE		TRY	01/31/2016			622292.57
+30	181150									Accum.Amort.-Customer Relationships		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	251990									Suspense Account		A	Liability	TRUE	FALSE		TRY	01/31/2016			-.22
+30	251400									Customer Advance - Current Portion		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		TRY	01/31/2016			-220625.05
+30	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+40	161400									Leasehold Improvements		A	Asset	TRUE	FALSE		MXN	01/31/2016			23037338.5
+72	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		CNY	01/31/2016			566272.62
+72	101100									Petty Cash		A	Asset	TRUE	FALSE		CNY	01/31/2016			16195.34
+72	101218									Cash in Bank - USD Capital Account (ABC Bank)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	180500									land rights usage		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	241490									Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	271135									Long Term Debt - ABC (mortgage)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	231300									Real Estate and Property Tax Payable		A	Liability	TRUE	FALSE		CNY	01/31/2016			-58978.78
+72	211120									Accrued Salaries & Wages-Expatriates(CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-1093.16
+72	232200									Income Tax Payable(CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-2899278.8
+72	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		CNY	01/31/2016			3813676.07
+72	271137									Long Term Debt - BOC (mortgage)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	231250									VAT - Export Reimbursement		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	231280									VAT - Overpayment Exchange		A	Liability	TRUE	FALSE		CNY	01/31/2016			-3146219.6
+72	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	161700									Vehicles		A	Asset	TRUE	FALSE		CNY	01/31/2016			645140.12
+72	121956									Note Receivable - China (72 & 73)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	132100									Raw Material		A	Asset	TRUE	FALSE		CNY	01/31/2016			25666853.4
+74	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		CNY	01/31/2016			-128303.25
+40	251230									Income tax withheld from fee		A	Liability	TRUE	FALSE		MXN	01/31/2016			-562.08
+40	231062									Withheld Auto Insurance		A	Liability	TRUE	FALSE		MXN	01/31/2016			-12321.33
+30	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		TRY	01/31/2016			21122.47
+40	211400									Accrued Vacation		A	Liability	TRUE	FALSE		MXN	01/31/2016			-2311282.1
+40	121305									Sundry debtors -MXN		A	Asset	TRUE	FALSE		MXN	01/31/2016			12558.1
+72	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		CNY	01/31/2016			1738716.09
+74	211400									Accrued Vacation		A	Liability	TRUE	FALSE		CNY	01/31/2016			-757939.99
+74	161900									Construction in Process		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	121300									Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-79135705
+74	101269									Cash in bank-DKK in DFR		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		CNY	01/31/2016			70967.39
+74	231500									Business Tax Payable(CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+30	161900									Construction in Process		A	Asset	TRUE	FALSE		TRY	01/31/2016			813287.49
+74	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		CNY	01/31/2016			-47209118
+74	309100									Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		CNY	01/31/2016			442.54
+72	102100									Cash Equivalents (Short Term) Investment		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+30	131500									Finished Goods		A	Asset	TRUE	FALSE		TRY	01/31/2016			1598762.58
+74	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+40	291996									Accrual- seniority premium for termination		A	Liability	TRUE	FALSE		MXN	01/31/2016			-448790.25
+30	211400									Accrued Vacation		A	Liability	TRUE	FALSE		TRY	01/31/2016			-917285.68
+30	291999									Accrual retirement		A	Liability	TRUE	FALSE		TRY	01/31/2016			-21824.97
+72	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+30	101243									Cash in Bank-TRY-OdeaBank		A	Asset	TRUE	FALSE		TRY	01/31/2016			9396.61
+74	309800									Surplus Reserve		A	Equity	TRUE	FALSE		CNY	01/31/2016			-248974.69
+72	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		CNY	01/31/2016			1257303.84
+30	101950									Restricted Cash - TK		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	132150									Raw Material - Obsolesence		A	Asset	TRUE	FALSE		TRY	01/31/2016			-189485.74
+30	151901									Other Assets (GAAP)		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+40	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		MXN	01/31/2016			0
+72	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		CNY	01/31/2016			-925213.27
+72	101217									Cash in Bank - USD Settlement Account(ABC Bank)		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+30	201100									AP - Trade		A	Liability	TRUE	FALSE		TRY	01/31/2016			-51547705
+30	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		TRY	01/31/2016			-119.55
+30	251350									Customer Deposit		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	302300									Registered Capital (CN)		A	Equity	TRUE	FALSE		TRY	01/31/2016			-49663871
+30	221100									Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		TRY	01/31/2016			-4042384.9
+30	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		TRY	01/31/2016			-3587905.7
+30	181000									Goodwill		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		TRY	01/31/2016			-6199224.2
+72	133150									WIP Obsolesence-DM		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+30	132200									WIP-Material Overhead		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		TRY	01/31/2016			-2669.29
+30	161700									Vehicles		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	291410									Customer Advance-Discount-LongTerm Portion		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	251810									Deferred Revenue-Current Portion		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+30	101238									Cash in Bank - USD (GARANTI BANKASI Bank)		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		TRY	01/31/2016			-247112.36
+30	271165									Long Term Debt - Garanti		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+40	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		MXN	01/31/2016			19000
+72	101239									Cash in Bank - EUR (BOC Bank)		A	Asset	TRUE	FALSE		CNY	01/31/2016			215586.99
+30	141150									Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		TRY	01/31/2016			85005.25
+72	161300									Buildings		A	Asset	TRUE	FALSE		CNY	01/31/2016			89906246.2
+72	191700									Asset Clearing		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	231080									Withheld Unemployment Insurance (CN)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-3291.04
+72	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		CNY	01/31/2016			-3251223.5
+72	241100									Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		CNY	01/31/2016			-79293.4
+72	111800									AR - Clearing		A	Asset	TRUE	FALSE		CNY	01/31/2016			65724.45
+72	211906									Accrual for outsourced HR expenses		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	231165									Stamp Duty Tax Payable		A	Liability	TRUE	FALSE		CNY	01/31/2016			-5447.3
+72	131525									Finished Goods - Valuation		A	Asset	TRUE	FALSE		CNY	01/31/2016			-3945041
+72	211400									Accrued Vacation		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+74	111960									AR - On Account Payments		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	141500									Deposits - Short Term		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	133100									WIP-Control		A	Asset	TRUE	FALSE		CNY	01/31/2016			20998456.9
+30	271155									Long Term Debt - Phase 2 Loan		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+40	111946									AR - Intercompany (TPI-MX MXN)		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+40	221040									Housing Tax - Infonavit - empleado		A	Liability	TRUE	FALSE		MXN	01/31/2016			-943248.68
+40	101251									Cash in Bank - USD (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+40	211375									Accrued Christmans Bonus		A	Liability	TRUE	FALSE		MXN	01/31/2016			-448513.52
+40	201946									AP - Intercompany (TPI-MX MXN)		A	Liability	TRUE	FALSE		MXN	01/31/2016			-75489826
+74	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		CNY	01/31/2016			-102484560
+74	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		CNY	01/31/2016			-3049177.1
+74	191600									CIP Clearing		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		CNY	01/31/2016			72306.33
+74	302300									Registered Capital (CN)		A	Equity	TRUE	FALSE		CNY	01/31/2016			-20000000
+74	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		CNY	01/31/2016			50300934.9
+30	111400									AR - Other		A	Asset	TRUE	FALSE		TRY	01/31/2016			-364198.96
+40	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		MXN	01/31/2016			11358264.8
+74	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+30	231230									VAT - Tax Reduction		A	Liability	TRUE	FALSE		TRY	01/31/2016			0
+40	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		MXN	01/31/2016			0
+40	221060									Foreign Tax		A	Liability	TRUE	FALSE		MXN	01/31/2016			-14590.78
+74	241490									Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	201921									AP - Intercompany (TPI-Dafeng)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+30	221030									Housing Tax		A	Liability	TRUE	FALSE		TRY	01/31/2016			-157382.92
+40	161700									Vehicles		A	Asset	TRUE	FALSE		MXN	01/31/2016			402013.66
+40	141115									Vehicles insurance		A	Asset	TRUE	FALSE		MXN	01/31/2016			4251.44
+72	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		CNY	01/31/2016			-22167.07
+72	151901									Other Assets (GAAP)		A	Asset	TRUE	FALSE		CNY	01/31/2016			6690299.35
+72	191610									Cash Equivalents (Long Term) Investment		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	151900									Other Current Assets		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+74	241440									Accrued Interest Expense - ABC (working capital)		A	Liability	TRUE	FALSE		CNY	01/31/2016			0
+72	102200									Entrust Loan - Lend to Dafeng		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+72	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		CNY	01/31/2016			-11505661
+30	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		TRY	01/31/2016			-9552812.3
+30	101246									Cash in Bank-GBP-OdeaBank		A	Asset	TRUE	FALSE		TRY	01/31/2016			2.2
+40	101268									Cash in Bank - USD Bancomer		A	Asset	TRUE	FALSE		MXN	01/31/2016			941980.17
+40	161800									Computers		A	Asset	TRUE	FALSE		MXN	01/31/2016			515056.53
+40	251970									Short Term Loan (W/C)		A	Liability	TRUE	FALSE		MXN	01/31/2016			0
+72	151135									Deferred Tax Asset		A	Asset	TRUE	FALSE		CNY	01/31/2016			1313357.68
+74	141415									Prepaid Raw Materials		A	Asset	TRUE	FALSE		CNY	01/31/2016			5362075.03
+72	161801									Computers - Licenses		A	Asset	TRUE	FALSE		CNY	01/31/2016			0
+30	161801									Computers - Licenses		A	Asset	TRUE	FALSE		TRY	01/31/2016			129627.92
+30	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		TRY	01/31/2016			4894890.05
+30	111100									AR - Trade		A	Asset	TRUE	FALSE		TRY	01/31/2016			71236035.6
+30	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		TRY	01/31/2016			-4534936.9
+30	101227									Cash in Bank TRY (Sekerbank)		A	Asset	TRUE	FALSE		TRY	01/31/2016			13288.58
+30	101211									Sekerbank TL deposit		A	Asset	TRUE	FALSE		TRY	01/31/2016			156288
+30	101231									Cash in Bank - TKY (YKB)		A	Asset	TRUE	FALSE		TRY	01/31/2016			12733.68
+30	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		TRY	01/31/2016			-3179303.7
+30	101228									Cash in Bank Euro (Sekerbank)		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+30	251410									Customer Advance-Discount-Current Portion		A	Liability	TRUE	FALSE		TRY	01/31/2016			-1.35
+30	101236									Cash in Bank - TRY (GARANTI BANKASI Bank)		A	Asset	TRUE	FALSE		TRY	01/31/2016			21989.63
+30	101235									Cash in Bank - GBP (Sekerbank)		A	Asset	TRUE	FALSE		TRY	01/31/2016			0
+40	141509									Other deposit in Guarantee		A	Asset	TRUE	FALSE		MXN	01/31/2016			0
+40	251990									Suspense Account		A	Liability	TRUE	FALSE		MXN	01/31/2016			0
+71	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	01/31/2016			11478713.5
+71	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	01/31/2016			-2200000
+71	111910									AR - Intercompany (TPI-OH)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	201905									AP - Intercompany (TPI-TECH)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	251810									Deferred Revenue-Current Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	291110									Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			-346321.54
+71	211110									Accrued Salaries & Wages - local staff(CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	01/31/2016			7518513.8
+71	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	01/31/2016			-7475.2
+71	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	141505									Deposit in Gaurantee of Rent		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	251300									Unearned Revenue		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	134100									MRB Material		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	01/31/2016			-141713.92
+71	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	01/31/2016			94623.35
+71	231030									Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	151140									Deductible VAT (TK)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	241310									Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	01/31/2016			-425.45
+71	111930									AR - Intercompany (TPI-AZ)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	201921									AP - Intercompany (TPI-Dafeng)		A	Liability	TRUE	FALSE		USD	01/31/2016			-43741284
+71	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	01/31/2016			-4539.53
+71	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	01/31/2016			-7043094.1
+71	241300									Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	111200									AR - Employee Advances		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	201915									AP - Intercompany (TPI-CN)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	01/31/2016			7481172.06
+71	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	01/31/2016			-1565855.1
+71	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	01/31/2016			-17829.95
+71	291400									Customer Advance - Long Term		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	221900									Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	132100									Raw Material		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	251400									Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		USD	01/31/2016			-582098.43
+71	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	01/31/2016			-94623.35
+71	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	111150									AR- Trade Allowance for Uncollectible		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	111960									AR - On Account Payments		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	141110									Prepaid Insurance		A	Asset	TRUE	FALSE		USD	01/31/2016			-10
+71	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			-540353.44
+71	241200									Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	231110									State Sales Tax Payable - IA		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	161800									Computers		A	Asset	TRUE	FALSE		USD	01/31/2016			45077.23
+71	201110									AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	211300									Accrued Bonus		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	231015									Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	211900									Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	151901									Other Assets (GAAP)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		USD	01/31/2016			17829.95
+71	161300									Buildings		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	01/31/2016			-579483.99
+71	251410									Customer Advance-Discount-Current Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	251355									Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	291100									Deferred Income		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	01/31/2016			-45077.23
+71	231072									Withheld Employee 401k Deferral		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	191920									Investment in Subsidiary - Taicang		A	Asset	TRUE	FALSE		USD	01/31/2016			5715359.27
+71	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	291410									Customer Advance-Discount-LongTerm Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+71	111915									AR - Intercompany (TPI-CN)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+71	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		USD	01/31/2016			-900709
+71	111923									AR - Intercompany (TPI-Dafeng)		A	Asset	TRUE	FALSE		USD	01/31/2016			1266573.38
+71	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	01/31/2016			24808073.9
+71	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	191500									Deposits - Long Term		A	Asset	TRUE	FALSE		USD	01/31/2016			22946.74
+41	121126									11% IVA acreditable		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	111946									AR - Intercompany (TPI-MX MXN)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	161800									Computers		A	Asset	TRUE	FALSE		USD	01/31/2016			249044.5
+41	101251									Cash in Bank - USD (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	141115									Vehicles insurance		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	171700									Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		USD	01/31/2016			-41751.5
+41	133125									WIP-Valuation		A	Asset	TRUE	FALSE		USD	01/31/2016			1094607.38
+41	291110									Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+94	141901									Deferred profit sharing		A	Asset	TRUE	FALSE		USD	01/31/2016			-49653.34
+41	294997									Accrual -seniority premium retirement		A	Liability	TRUE	FALSE		USD	01/31/2016			35064.86
+41	151135									Deferred Tax Asset		A	Asset	TRUE	FALSE		USD	01/31/2016			114207
+41	191900									Other Noncurrent Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	121324									Favorable Income Tax-Prior Per		A	Asset	TRUE	FALSE		USD	01/31/2016			6310.97
+41	191850									Restricted Cash ? Long Term		A	Asset	TRUE	FALSE		USD	01/31/2016			2062856
+41	171500									Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	01/31/2016			-3379.5
+41	161600									Machinery & Equipment		A	Asset	TRUE	FALSE		USD	01/31/2016			7571968.59
+41	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	01/31/2016			-3589007.2
+41	111100									AR - Trade		A	Asset	TRUE	FALSE		USD	01/31/2016			11914456.7
+41	132400									WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	01/31/2016			47176021.5
+41	291400									Customer Advance - Long Term		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	133100									WIP-Control		A	Asset	TRUE	FALSE		USD	01/31/2016			2372366.91
+41	251400									Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	101250									Cash in Bank - MXN (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	121305									Sundry debtors -MXN		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	211904									Accrued Grocery bonus		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	221030									Housing Tax		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	261221									Current Portion - Cap Lease - WINMARK 1		A	Liability	TRUE	FALSE		USD	01/31/2016			-21976.34
+41	251800									Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	01/31/2016			-3126494.2
+94	232320									Income Tax Payable (MX)		A	Liability	TRUE	FALSE		USD	01/31/2016			2785.28
+41	141902									Deferred income tax		A	Asset	TRUE	FALSE		USD	01/31/2016			12070.76
+94	294997									Accrual -seniority premium retirement		A	Liability	TRUE	FALSE		USD	01/31/2016			-20234.58
+41	171600									Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	01/31/2016			-1509498.1
+41	261900									Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		USD	01/31/2016			-42494947
+41	251355									Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	231062									Withheld Auto Insurance		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	201940									AP - Intercompany (TPI-TK)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	201225									AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			-2254375.6
+41	191510									Noncurrent Deferred Taxes - Federal		A	Asset	TRUE	FALSE		USD	01/31/2016			2886
+41	111110									AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	251300									Unearned Revenue		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	261910									Debt Discount - Current Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			.21
+41	132500									WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	01/31/2016			28729.08
+41	101100									Petty Cash		A	Asset	TRUE	FALSE		USD	01/31/2016			75.55
+41	251350									Customer Deposit		A	Liability	TRUE	FALSE		USD	01/31/2016			-3531628.2
+41	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	01/31/2016			-22050502
+41	141850									Intercompany - Prepaid deposits		A	Asset	TRUE	FALSE		USD	01/31/2016			2159713.18
+41	121307									Sundry debtors -USD		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	132125									Raw Material - Valuation		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	01/31/2016			-3943700.4
+41	132115									Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	01/31/2016			520339.61
+41	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	201925									AP - Intercompany (TPI-IA)		A	Liability	TRUE	FALSE		USD	01/31/2016			-27906.85
+41	211100									Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	221040									Housing Tax - Infonavit - empleado		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+94	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	01/31/2016			705711.12
+41	271222									Long Term Portion - Cap Lease-WINMARK 2		A	Liability	TRUE	FALSE		USD	01/31/2016			31968.96
+41	251600									Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	01/31/2016			-1435663.3
+94	171400									Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	01/31/2016			3895.03
+41	291650									Warranty Reserve-Long Term (GAAP)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	201100									AP - Trade		A	Liability	TRUE	FALSE		USD	01/31/2016			-5122119.1
+41	141900									Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	01/31/2016			280130.74
+41	111970									AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	201946									AP - Intercompany (TPI-MX MXN)		A	Liability	TRUE	FALSE		USD	01/31/2016			-103775.99
+41	171800									Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	01/31/2016			-95215.73
+94	201945									AP - Intercompany (TPI-MX USD)		A	Liability	TRUE	FALSE		USD	01/31/2016			42494947.1
+41	211375									Accrued Christmans Bonus		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	251210									VAT withheld		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	261920									Current portion Debt		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+94	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			-273.4
+41	141901									Deferred profit sharing		A	Asset	TRUE	FALSE		USD	01/31/2016			4993.41
+41	111925									AR - Intercompany (TPI-IA)		A	Asset	TRUE	FALSE		USD	01/31/2016			202350.06
+41	161700									Vehicles		A	Asset	TRUE	FALSE		USD	01/31/2016			100203.84
+41	211300									Accrued Bonus		A	Liability	TRUE	FALSE		USD	01/31/2016			-122887.47
+41	201200									AP - Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			-181582.66
+41	251990									Suspense Account		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	132300									WIP-Overhead		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+94	201946									AP - Intercompany (TPI-MX MXN)		A	Liability	TRUE	FALSE		USD	01/31/2016			4231023.09
+41	101210									Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	111400									AR - Other		A	Asset	TRUE	FALSE		USD	01/31/2016			3775.85
+41	141112									Medical insurance		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	141118									Building insurance		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	201245									AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	01/31/2016			-597048.27
+41	211400									Accrued Vacation		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	211902									Accrued Savings Fund		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	221010									Social security - Employer		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	221070									Income tax withheld to employee		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	251970									Short Term Loan (W/C)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	131510									Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	01/31/2016			2453404.93
+41	251230									Income tax withheld from fee		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	291600									Warranty Reserve-Long Term		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	111920									AR - Intercompany (Taicang)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+94	121100									Notes Receivable - Employees		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	291500									Other Long-Term Liability		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	101252									Cash in Bank - USD (Sovereign Bank)		A	Asset	TRUE	FALSE		USD	01/31/2016			836687.55
+41	132100									Raw Material		A	Asset	TRUE	FALSE		USD	01/31/2016			6634615.33
+41	121130									VAT for Pedimentos		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	221020									Social security retirement - E		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	241330									Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	111900									AR - Intercompany (TPI-RI)		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	201920									AP - Intercompany (Taicang)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	291410									Customer Advance-Discount-LongTerm Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+94	211350									Accrued Profit Sharing		A	Liability	TRUE	FALSE		USD	01/31/2016			46873.75
+94	121324									Favorable Income Tax-Prior Per		A	Asset	TRUE	FALSE		USD	01/31/2016			-119023.35
+41	161500									Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	01/31/2016			8111
+41	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	01/31/2016			3537486.31
+41	231400									Other Taxes Payable		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	161900									Construction in Process		A	Asset	TRUE	FALSE		USD	01/31/2016			508772.03
+94	111945									AR - Intercompany (TPI-MX USD)		A	Asset	TRUE	FALSE		USD	01/31/2016			-47176022
+41	101910									Restricted Cash - USD		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	134100									MRB Material		A	Asset	TRUE	FALSE		USD	01/31/2016			352976.02
+41	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	241490									Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	101150									Petty Cash-pesos		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	121128									VAT to be paid		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	121175									Employment subsidy		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	141114									Life insurance		A	Asset	TRUE	FALSE		USD	01/31/2016			0
+41	221100									Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	232320									Income Tax Payable (MX)		A	Liability	TRUE	FALSE		USD	01/31/2016			129982
+41	271221									Long Term Portion - Cap Lease-WINMARK 1		A	Liability	TRUE	FALSE		USD	01/31/2016			-43480.92
+41	133150									WIP Obsolesence-DM		A	Asset	TRUE	FALSE		USD	01/31/2016			-60984.3
+94	141902									Deferred income tax		A	Asset	TRUE	FALSE		USD	01/31/2016			-120029.06
+41	251650									Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	01/31/2016			31264.95
+41	141600									Prepaid - Rebate Due		A	Asset	TRUE	FALSE		USD	01/31/2016			166329.66
+41	141150									Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		USD	01/31/2016			-.03
+41	271910									Debt Discount - Long-Term Portion		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+41	271900									Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+32	201930									AP - Intercompany (TPI-AZ)		A	Liability	TRUE	FALSE		USD	01/31/2016			-17000000
+32	111950									AR - Intercompany (TPI Parent)		A	Asset	TRUE	FALSE		USD	01/31/2016			-22108062
+32	191961									Investment in Partnership - Turkey		A	Asset	TRUE	FALSE		USD	01/31/2016			36494720.7
+32	181150									Accum.Amort.-Customer Relationships		A	Asset	TRUE	FALSE		USD	01/31/2016			-2327582
+32	261137									Current Portion Long Term Debt - BOC (mortgage)		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+32	303000									Paid In Surplus		A	Equity	TRUE	FALSE		USD	01/31/2016			3759432
+32	181100									Customer Relationships		A	Asset	TRUE	FALSE		USD	01/31/2016			2327582
+32	241390									Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+32	271200									Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+32	309990									Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	01/31/2016			4666462
+32	271166									Long Term Debt - BOC Poland		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+32	261200									Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+32	201900									AP - Intercompany (TPI-RI)		A	Liability	TRUE	FALSE		USD	01/31/2016			-6053252
+32	201950									AP - Intercompany (TPI Parent)		A	Liability	TRUE	FALSE		USD	01/31/2016			.27
+32	309991									Retained Earnings/ (Accumulated profit)		A	Equity	TRUE	FALSE		USD	01/31/2016			0
+32	251200									Other Current Liabilities		A	Liability	TRUE	FALSE		USD	01/31/2016			0
+32	302300									Registered Capital (CN)		A	Equity	TRUE	FALSE		USD	01/31/2016			240711
+32	111940									AR - Intercompany (TPI-TK)		A	Asset	TRUE	FALSE		USD	01/31/2016			0

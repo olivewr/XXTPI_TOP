@@ -1,0 +1,14 @@
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=azcs-p-ebsdb1.tpicomp.com)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TPIPROD)(INSTANCE_NAME=TPIPROD)(CID=(PROGRAM=sqlplus)(HOST=azcs-p-ebsapp1.tpicomp.com)(USER=spothu))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.1.0.5.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.1.0.5.0 - Production
+  Time: 13-NOV-2018 09:19:53
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused

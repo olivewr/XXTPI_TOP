@@ -1,0 +1,5 @@
+put /u01/app/TPIPROD/apps/apps_st/appl/xxtpi/12.0.0/blackline/data/Currency_Rates_07212019.txt
+put /u01/app/TPIPROD/apps/apps_st/appl/xxtpi/12.0.0/blackline/data/GL_extract_07212019.txt
+put /u01/app/TPIPROD/apps/apps_st/appl/xxtpi/12.0.0/blackline/data/SUB_AR_V5_07212019.txt
+put /u01/app/TPIPROD/apps/apps_st/appl/xxtpi/12.0.0/blackline/data/SUB_AP_extract_07212019.txt
+bye

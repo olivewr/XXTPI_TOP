@@ -1,0 +1,20 @@
+SET PAGESIZE 0
+SET LINESIZE 2048
+SET FEEDBACK OFF
+SET TRIMSPOOL ON
+SET TERMOUT OFF
+set colsep '	'
+
+SELECT             
+         r.functional_currency iso_currency_code,
+         ROUND (r.rev_rate, 2) conversion_rate,
+         r.period_end_date period_end_date, 'D' conversion_method
+    FROM gl_translation_rates_v r
+   WHERE r.period_year = to_number(to_char(sysdate,'RRRR'))
+     AND r.to_currency_code = 'USD'
+     AND r.period_name =
+                     TO_CHAR ((LAST_DAY (ADD_MONTHS (SYSDATE, -1))), 'MON-YY')
+     AND r.set_of_books_id IN ('9001', '5002', '12001')
+ORDER BY r.period_end_date, r.period_name;
+
+exit;
