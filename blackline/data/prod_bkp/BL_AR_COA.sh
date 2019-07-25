@@ -1,0 +1,199 @@
+OUTPUT_PATH=/u01/app/TPIPROD/apps/apps_st/appl/xxtpi/12.0.0/blackline/data
+SQLPLUS_PATH=/u01/app/TPIPROD/apps/tech_st/10.1.3/bin
+THE_DATE=`date +"%m%d%Y"`
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',582);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '      '"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt01"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',562);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '      '"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt02"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',624);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '      '"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt03"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',622);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '      '"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt04"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',542);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '      '"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt05"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',625);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '      '"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt06"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',103);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt07"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',162);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt08"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',164);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt09"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',166);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt10"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',168);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt11"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',170);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt12"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',183);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt13"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',184);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt14"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',282);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt15"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',342);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt16"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',382);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt17"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',383);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt18"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',422);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt19"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',481);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt20"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',442);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt21"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',585);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt22"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',668);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt23"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',690);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt24"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',709);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt25"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',728);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt26"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',748);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt27"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',768);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt28"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',848);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt29"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+echo "execute MO_GLOBAL.SET_POLICY_CONTEXT('S',808);"  >  $OUTPUT_PATH/run_BL_AR_COA.sql
+echo "set colsep '	'"                             >> $OUTPUT_PATH/run_BL_AR_COA.sql 
+echo "spool $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt30"    >> $OUTPUT_PATH/run_BL_AR_COA.sql
+cat $OUTPUT_PATH/BL_AR_COA.sql                         >> $OUTPUT_PATH/run_BL_AR_COA.sql
+$SQLPLUS_PATH/sqlplus apps/tang0@TPIPROD @$OUTPUT_PATH/run_BL_AR_COA.sql
+
+cat $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt* | grep -v Unique | grep -v rows | grep -v "\-\-\-" | sed -e 's/^$//g' > $OUTPUT_PATH/BL_AR_COA_extract_$THE_DATE.txt
+sed -i '/^$/d'              $OUTPUT_PATH/BL_AR_COA_extract_$THE_DATE.txt
+sed -i 's/  \+/ /g'         $OUTPUT_PATH/BL_AR_COA_extract_$THE_DATE.txt
+sed -i 's/ 	/	/g' $OUTPUT_PATH/BL_AR_COA_extract_$THE_DATE.txt
+sed -i 's/	 /	/g' $OUTPUT_PATH/BL_AR_COA_extract_$THE_DATE.txt
+sed -i 's/ $//g'            $OUTPUT_PATH/BL_AR_COA_extract_$THE_DATE.txt
+sort < $OUTPUT_PATH/BL_AR_COA_extract_$THE_DATE.txt > $OUTPUT_PATH/BL_AR_COA_extract_$THE_DATE.txt.tmp
+cat $OUTPUT_PATH/BL_AR_COA_extract_$THE_DATE.txt.tmp | uniq > $OUTPUT_PATH/BL_AR_COA_extract_$THE_DATE.txt
+
+rm -rf $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt0*
+rm -rf $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt1*
+rm -rf $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt2*
+rm -rf $OUTPUT_PATH/BL_AR_COA_$THE_DATE.txt3*
+rm -rf $OUTPUT_PATH/run_BL_AR_COA.sql
+rm -rf $OUTPUT_PATH/BL_AR_COA_extract_$THE_DATE.txt.tmp

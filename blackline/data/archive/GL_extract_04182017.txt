@@ -1,0 +1,1723 @@
+110	101100	000								Petty Cash		A	Asset	TRUE	FALSE		USD	03/31/2017			1500
+110	101210	000								Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	03/31/2017			651419.61
+110	101213	000								Cash in Bank - USD (Bank of America)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	101214	000								Cash in Bank - USD (Comerica)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	101300	000								Cash Clearing		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	101910	000								Restricted Cash - USD		A	Asset	TRUE	FALSE		USD	03/31/2017			81.98
+110	111100	000								AR - Trade		A	Asset	TRUE	FALSE		USD	03/31/2017			1268540.72
+110	111110	000								AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111150	000								AR- Trade Allowance for Uncollectible		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111200	000								AR - Employee Advances		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111400	000								AR - Other		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111800	000								AR - Clearing		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111900	000								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111900	100								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111900	110								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111900	120								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			6255851.15
+110	111900	130								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			211118.36
+110	111900	140								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			5610
+110	111900	150								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111900	160								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			951565.57
+110	111900	300								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			1197686.1
+110	111900	320								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			6053252
+110	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			2518798.87
+110	111900	710								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			24042.51
+110	111900	720								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111900	740								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111960	000								AR - On Account Payments		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	111980	000								AR - Unidentified Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	131500	000								Finished Goods		A	Asset	TRUE	FALSE		USD	03/31/2017			44970.86
+110	131510	000								Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	132100	000								Raw Material		A	Asset	TRUE	FALSE		USD	03/31/2017			624333.75
+110	132115	000								Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	03/31/2017			43955.32
+110	132125	000								Raw Material - Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	132150	000								Raw Material - Obsolescence		A	Asset	TRUE	FALSE		USD	03/31/2017			-56219.92
+110	132300	000								WIP-Overhead		A	Asset	TRUE	FALSE		USD	03/31/2017			73445.49
+110	132400	000								WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	132500	000								WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	132600	000								Intransit Inventory		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	133100	000								WIP-Control		A	Asset	TRUE	FALSE		USD	03/31/2017			1993639.2
+110	133125	000								WIP-Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	133150	000								WIP Obsolescence		A	Asset	TRUE	FALSE		USD	03/31/2017			-725471.99
+110	134100	000								MRB Material		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	141110	000								Prepaid Insurance		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	141200	000								Prepaid Rent		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	141310	000								Prepaid Taxes - Property		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	141320	000								Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	141600	000								Prepaid - Rebate Due		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	141800	000								Intercompany Clearing Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			54837.33
+110	141903	000								Other Prepaid Expenses		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	151110	000								Deferred Tax Benefits - Federal		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	151500	000								Deposits - Short Term		A	Asset	TRUE	FALSE		USD	03/31/2017			125493.09
+110	161400	000								Leasehold Improvements		A	Asset	TRUE	FALSE		USD	03/31/2017			1028930.21
+110	161500	000								Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	03/31/2017			93968.79
+110	161600	000								Machinery & Equipment		A	Asset	TRUE	FALSE		USD	03/31/2017			4722892.68
+110	161700	000								Vehicles		A	Asset	TRUE	FALSE		USD	03/31/2017			61968.08
+110	161800	000								Computers		A	Asset	TRUE	FALSE		USD	03/31/2017			1359579.74
+110	161900	000								Construction in Process		A	Asset	TRUE	FALSE		USD	03/31/2017			791322.18
+110	171400	000								Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	03/31/2017			-661875.97
+110	171500	000								Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	03/31/2017			-75817.4
+110	171600	000								Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	03/31/2017			-3475763.73
+110	171700	000								Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		USD	03/31/2017			-50137.73
+110	171800	000								Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	03/31/2017			-1346838.16
+110	181000	000								Goodwill		A	Asset	TRUE	FALSE		USD	03/31/2017			2807371.47
+110	181100	000								Customer Relationships		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	181150	000								Accum.Amort.-Customer Relationships		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	191500	000								Deposits - Long Term		A	Asset	TRUE	FALSE		USD	03/31/2017			13368.57
+110	191510	000								Noncurrent Deferred Taxes - Federal		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	191600	000								CIP Clearing		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	191910	000								Investment in Subsidiary - TPI-OH		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	191955	000								Investment in Partnership - VienTek LLC		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	191960	000								Investment in Partnership - Armored Chariots, LLC		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	191961	000								Investment in Partnership - Turkey		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+110	201100	000								AP - Trade		A	Liability	TRUE	FALSE		USD	03/31/2017			-1976285.27
+110	201110	000								AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	03/31/2017			611752.25
+110	201115	000								AP - Credit Card Reimburse		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	201120	000								AP - Employee Reimburse		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-415777.25
+110	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-206815.83
+110	201250	000								AP - Vendor Returns		A	Liability	TRUE	FALSE		USD	03/31/2017			-1199.04
+110	201300	000								AP - Clearing		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	201900	000								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	201900	100								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-6567640.64
+110	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-529438.63
+110	201900	140								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-2970.28
+110	201900	150								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	201900	160								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-3107839.95
+110	201900	300								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-747026.32
+110	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	201900	710								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	201900	720								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	03/31/2017			-364926.1
+110	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		USD	03/31/2017			-159565.51
+110	211400	000								Accrued Vacation		A	Liability	TRUE	FALSE		USD	03/31/2017			-46910.37
+110	211450	000								Purchased Vacation		A	Liability	TRUE	FALSE		USD	03/31/2017			-15372.09
+110	211900	000								Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	03/31/2017			-18841.78
+110	231015	000								Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	231020	000								Misc W/H ? TAP		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	231030	000								Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	231040	000								Withheld State Payroll Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	231050	000								Withheld Local Payroll Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	231071	000								Withheld Wage Garnishment		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	231072	000								Withheld Employee 401k Deferral		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	231073	000								Loan 401k		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	231500	000								Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	232105	000								State Sales Tax Payable - RI		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	232400	000								Other Taxes Payable		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	232602	000								Federal Income Tax Payable		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	232605	000								State Income Tax Payable - RI		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	232640	000								State Income Tax Payable - SC		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	241100	000								Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	241200	000								Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	241300	000								Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	03/31/2017			-24313.78
+110	241310	000								Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	241330	000								Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	03/31/2017			-423548.09
+110	241340	000								Accrued Workers Comp Insurance AU		A	Liability	TRUE	FALSE		USD	03/31/2017			-454246.22
+110	241390	000								Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	241425	000								Accrued Interest Expense - Sovereign (60month)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	241490	000								Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	251100	000								Intercompany Clearing Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			-72838.48
+110	251100	160								Intercompany Clearing Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			72838.48
+110	251200	000								Other Current Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			-22993.49
+110	251300	000								Unearned Revenue		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	251350	000								Customer Deposit		A	Liability	TRUE	FALSE		USD	03/31/2017			-451829.88
+110	251351	000								Customer Deposits Not Paid		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	251352	000								Customer Deposits Not Paid Contra		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	251355	000								Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	251355	410								Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	03/31/2017			-668349.23
+110	251400	000								Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	251600	000								Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	03/31/2017			-1576088.65
+110	251650	000								Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	251800	000								Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	251810	000								Deferred Revenue-Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	251825	000								Deferred Rent - Short Term Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	251990	000								Suspense Account		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	261200	000								Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	261221	000								Current Portion - Cap Lease - WINMARK 1		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	261222	000								Current Portion - Cap Lease - WINMARK 2		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	261223	000								Current Portion - Cap Lease - WINMARK 3		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	261900	000								Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	271100	000								Long-Term Debt - True North		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	271125	000								Long Term Debt - Sovereign (60month)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	271200	000								Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	271900	000								Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	291100	000								Deferred Income		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	291110	000								Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	291400	000								Customer Advance - Non-Current		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	291500	000								Other Non-Current Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	291600	000								Warranty Reserve-Non-Current		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	291700	000								Distributions from joint venture in excess of investment		A	Liability	TRUE	FALSE		USD	03/31/2017			-1841837.93
+110	291825	000								Deferred Rent - Non-Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+110	301130	000								Senior Redeemable Preferred Stock		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+110	301200	000								Common Stock		A	Equity	TRUE	FALSE		USD	03/31/2017			-100
+110	302100	000								Paid In Surplus		A	Equity	TRUE	FALSE		USD	03/31/2017			-5598703
+110	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			-3615226.26
+120	101210	000								Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	03/31/2017			697211.14
+120	101280	000								Cash in Bank (Wells Fargo)		A	Asset	TRUE	FALSE		USD	03/31/2017			67488620.89
+120	101400	000								Investments - Short Term		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	101910	000								Restricted Cash - USD		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	111100	000								AR - Trade		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	111110	000								AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	111300	000								AR - Tax Refunds		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	111400	000								AR - Other		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	111900	100								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	111900	110								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			6567640.64
+120	111900	120								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	111900	130								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			127543065.13
+120	111900	140								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			22145000
+120	111900	150								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-5169039.75
+120	111900	300								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	111900	320								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			.73
+120	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			13505002
+120	111900	470								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			7410468
+120	111900	490								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			2324850
+120	111900	710								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-11558118.61
+120	111900	720								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	121300	000								Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	132115	000								Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	141110	000								Prepaid Insurance		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	141310	000								Prepaid Taxes - Property		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	141320	000								Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	03/31/2017			242765
+120	141330	000								Prepaid Taxes - State Income		A	Asset	TRUE	FALSE		USD	03/31/2017			223479
+120	141800	000								Intercompany Clearing Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			15000
+120	151120	000								Deferred Tax Benefits - State		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	151500	000								Deposits - Short Term		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	151910	000								Deferred Expenses		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	151920	000								Deferred Expenses IPO		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	191500	000								Deposits - Long Term		A	Asset	TRUE	FALSE		USD	03/31/2017			1187500
+120	191510	000								Noncurrent Deferred Taxes - Federal		A	Asset	TRUE	FALSE		USD	03/31/2017			1.03
+120	191520	000								Noncurrent Deferred Taxes - State		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	191571	000								Deferred Financing Fees - Highbridge		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	191572	000								Deferred Financing Fees - Subordinated Debt		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	191900	000								Other Noncurrent Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	191902	000								Investment in Subsidiary - TPI-RI		A	Asset	TRUE	FALSE		USD	03/31/2017			5598703
+120	191905	000								Investment in Subsidiary - TPI-TECH		A	Asset	TRUE	FALSE		USD	03/31/2017			1021634
+120	191915	000								Investment in Subsidiary - TPI-CN		A	Asset	TRUE	FALSE		USD	03/31/2017			2200000
+120	191925	000								Investment in Subsidiary - TPI-IA		A	Asset	TRUE	FALSE		USD	03/31/2017			6500000
+120	191955	000								Investment in Partnership - VienTek LLC		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+120	191961	000								Investment in Partnership - Turkey		A	Asset	TRUE	FALSE		USD	03/31/2017			5450000
+120	201100	000								AP - Trade		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	201110	000								AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-12500.42
+120	201900	100								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-6255851.1
+120	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-15742296.79
+120	201900	140								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	201900	150								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-10854963.75
+120	201900	320								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			22108061
+120	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-2168335.45
+120	201900	710								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-12223964.02
+120	201900	720								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	211900	000								Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	232602	000								Federal Income Tax Payable		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	232605	000								State Income Tax Payable - RI		A	Liability	TRUE	FALSE		USD	03/31/2017			-.3
+120	232610	000								State Income Tax Payable - IA		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	232620	000								State Income Tax Payable - AZ		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	232700	000								Income Tax Payable(CN)		A	Liability	TRUE	FALSE		USD	03/31/2017			-452272
+120	241100	000								Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	241110	000								Accrued Expenses - SOX		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	241200	000								Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	241300	000								Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	241310	000								Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	241330	000								Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	03/31/2017			30
+120	241390	000								Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	241430	000								Accrued Interest Expense - Sovereign (revolver)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	241471	000								Accrued Interest Expense - Highbridge		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	241490	000								Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	251100	000								Intercompany Clearing Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	251200	000								Other Current Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	251350	000								Customer Deposit		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	251990	000								Suspense Account		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	261130	000								Current Portion Long Term Debt - Sovereign (revolver)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	261170	000								Current Portion - Debt Discount (Contra)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	261171	000								Current Portion Long Term Debt - Highbridge		A	Liability	TRUE	FALSE		USD	03/31/2017			-2812500
+120	261175	000								Dr Acct - Term Loan Debt Discount (Contra)(Current)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	261177	000								Short Term Debt - Highbridge Revolver Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			-2820168.44
+120	261900	000								Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	261910	000								Debt Discount - Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	261911	000								Debt Issuance Cost ? Highbridge Revolver Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	271170	000								Long-Term Debt - Hercules		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	271171	000								Long-Term Debt - Highbridge		A	Liability	TRUE	FALSE		USD	03/31/2017			-71250000
+120	271172	000								Long-Term Debt ? Subordinated Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	271900	000								Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+120	271910	000								Debt Discount - Long-Term Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			-93750
+120	271911	000								Debt Issuance Costs - Long-Term Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			2240669.81
+120	291350	000								Deferred Tax Liability - Non-Current		A	Liability	TRUE	FALSE		USD	03/31/2017			-51339.62
+120	301110	000								Preferred Stock - Series A		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+120	301115	000								Preferred Stock - Series B		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+120	301120	000								Preferred Stock - Series B1		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+120	301125	000								Preferred Stock - Series C		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+120	301130	000								Senior Redeemable Preferred Stock		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+120	301135	000								SSRPS Equity Discount ? Contra Acct		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+120	301140	000								Super Senior Redeemable Preferred Stock		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+120	301145	000								Cr Acct - Redeemable Preferred Share Warrants:		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+120	301200	000								Common Stock		A	Equity	TRUE	FALSE		USD	03/31/2017			-337378.63
+120	302100	000								Paid In Surplus		A	Equity	TRUE	FALSE		USD	03/31/2017			-289689696.09
+120	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			135333717.23
+130	101100	000								Petty Cash		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	101210	000								Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	101300	000								Cash Clearing		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	101910	000								Restricted Cash - USD		A	Asset	TRUE	FALSE		USD	03/31/2017			11216.36
+130	111100	000								AR - Trade		A	Asset	TRUE	FALSE		USD	03/31/2017			10088974.06
+130	111110	000								AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	03/31/2017			-10088974.06
+130	111200	000								AR - Employee Advances		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	111400	000								AR - Other		A	Asset	TRUE	FALSE		USD	03/31/2017			250610.15
+130	111900	000								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	111900	100								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	111900	110								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			529438.63
+130	111900	120								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-107686768.19
+130	111900	130								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	111900	140								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			9119869.64
+130	111900	150								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	111900	300								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-2297573.99
+130	111900	320								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			17000000
+130	111900	350								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			115500
+130	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			465193.68
+130	111900	430								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			2263.41
+130	111900	470								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			1082242.91
+130	111900	490								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			1533586.18
+130	111900	710								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-1461240.84
+130	111900	720								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			121124.76
+130	111900	740								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-.01
+130	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	111980	000								AR - Unidentified Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	141110	000								Prepaid Insurance		A	Asset	TRUE	FALSE		USD	03/31/2017			608634.82
+130	141150	000								Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	141150	140								Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	141200	000								Prepaid Rent		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	141320	000								Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	141700	000								Prepaid - Pre-IPO Related Activities		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	141800	000								Intercompany Clearing Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			996599.41
+130	141901	000								Deferred profit sharing		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	141903	000								Other Prepaid Expenses		A	Asset	TRUE	FALSE		USD	03/31/2017			262010.09
+130	141950	000								Dr Acct ? Deferred Financing Fee (Current)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	151110	000								Deferred Tax Benefits - Federal		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	151500	000								Deposits - Short Term		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	151910	000								Deferred Expenses		A	Asset	TRUE	FALSE		USD	03/31/2017			-128950
+130	161400	000								Leasehold Improvements		A	Asset	TRUE	FALSE		USD	03/31/2017			1054438.22
+130	161500	000								Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	03/31/2017			371384.74
+130	161600	000								Machinery & Equipment		A	Asset	TRUE	FALSE		USD	03/31/2017			163247.7
+130	161800	000								Computers		A	Asset	TRUE	FALSE		USD	03/31/2017			5020760.15
+130	161801	000								Computers - Licenses		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	161900	000								Construction in Process		A	Asset	TRUE	FALSE		USD	03/31/2017			555550.39
+130	171400	000								Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	03/31/2017			-89229.95
+130	171500	000								Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	03/31/2017			-72319.68
+130	171600	000								Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	03/31/2017			-24150.63
+130	171700	000								Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	171800	000								Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	03/31/2017			-822735.93
+130	171850	000								Accum.Depr - Licenses Computer		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	191500	000								Deposits - Long Term		A	Asset	TRUE	FALSE		USD	03/31/2017			145000
+130	191520	000								Noncurrent Deferred Taxes - State		A	Asset	TRUE	FALSE		USD	03/31/2017			50
+130	191900	000								Other Noncurrent Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+130	201100	000								AP - Trade		A	Liability	TRUE	FALSE		USD	03/31/2017			-2064067.06
+130	201110	000								AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	03/31/2017			20798.25
+130	201115	000								AP - Credit Card Reimburse		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-2
+130	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-945071.42
+130	201300	000								AP - Clearing		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-211118.36
+130	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-4114000
+130	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	201900	140								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-1330427.89
+130	201900	300								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-1181653
+130	201900	350								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-26913.33
+130	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-13379.17
+130	201900	710								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	201900	720								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	03/31/2017			-272380.68
+130	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		USD	03/31/2017			-758071.18
+130	211370	000								Short Term - Accrued Compensation		A	Liability	TRUE	FALSE		USD	03/31/2017			-62571.01
+130	211400	000								Accrued Vacation		A	Liability	TRUE	FALSE		USD	03/31/2017			4327
+130	211450	000								Purchased Vacation		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	211500	000								Accrued Holiday		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	211900	000								Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	231015	000								Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	231030	000								Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	231040	000								Withheld State Payroll Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	231050	000								Withheld Local Payroll Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	231071	000								Withheld Wage Garnishment		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	231072	000								Withheld Employee 401k Deferral		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	231073	000								Loan 401k		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	231095	000								Other Payroll Withholdings		A	Liability	TRUE	FALSE		USD	03/31/2017			-112984.44
+130	231305	000								Payroll Deduction Tax Withheld - Federal		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	231450	000								Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		USD	03/31/2017			-180968.1
+130	231500	000								Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	232120	000								State Sales Tax Payable - AZ		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	232400	000								Other Taxes Payable		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	232605	000								State Income Tax Payable - RI		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	241100	000								Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		USD	03/31/2017			-543830.01
+130	241110	000								Accrued Expenses - SOX		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	241200	000								Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	03/31/2017			-510441.49
+130	241300	000								Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	03/31/2017			-30973.85
+130	241310	000								Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			-7096.66
+130	241330	000								Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	03/31/2017			-865000
+130	241340	000								Accrued Workers Comp Insurance AU		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	241345	000								Accrued Workers Comp Insurance AIG		A	Liability	TRUE	FALSE		USD	03/31/2017			-2406800
+130	241390	000								Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	251100	000								Intercompany Clearing Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	251200	000								Other Current Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	251350	000								Customer Deposit		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	251355	000								Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	251825	000								Deferred Rent - Short Term Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	251980	000								Payroll Suspense		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	251990	000								Suspense Account		A	Liability	TRUE	FALSE		USD	03/31/2017			-45554.2
+130	261200	000								Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	261221	000								Current Portion - Cap Lease - WINMARK 1		A	Liability	TRUE	FALSE		USD	03/31/2017			-2954.98
+130	261222	000								Current Portion - Cap Lease - WINMARK 2		A	Liability	TRUE	FALSE		USD	03/31/2017			-7954.9
+130	261223	000								Current Portion - Cap Lease - WINMARK 3		A	Liability	TRUE	FALSE		USD	03/31/2017			-4990.12
+130	271200	000								Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	271221	000								Long Term Portion - Cap Lease-WINMARK 1		A	Liability	TRUE	FALSE		USD	03/31/2017			-.25
+130	271222	000								Long Term Portion - Cap Lease-WINMARK 2		A	Liability	TRUE	FALSE		USD	03/31/2017			.28
+130	271223	000								Long Term Portion - Cap Lease-WINMARK 3		A	Liability	TRUE	FALSE		USD	03/31/2017			-3071.63
+130	291500	000								Other Non-Current Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	291825	000								Deferred Rent - Non-Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			-842524.45
+130	291901	000								Accrued Compensation - Non Current		A	Liability	TRUE	FALSE		USD	03/31/2017			-45808.06
+130	291950	000								Deferred Stock Compensation		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+130	301145	000								Cr Acct - Redeemable Preferred Share Warrants:		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+130	302100	000								Paid In Surplus		A	Equity	TRUE	FALSE		USD	03/31/2017			-4011914.76
+130	302200	000								APIC - Stock Option Offset		A	Equity	TRUE	FALSE		USD	03/31/2017			-11500816.67
+130	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			94995096.08
+140	101100	000								Petty Cash		A	Asset	TRUE	FALSE		USD	03/31/2017			971.29
+140	101210	000								Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	03/31/2017			1520737.65
+140	101214	000								Cash in Bank - USD (Comerica)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	101300	000								Cash Clearing		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	111100	000								AR - Trade		A	Asset	TRUE	FALSE		USD	03/31/2017			9666687.67
+140	111110	000								AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	111200	000								AR - Employee Advances		A	Asset	TRUE	FALSE		USD	03/31/2017			-.01
+140	111400	000								AR - Other		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	111900	000								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	111900	100								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	111900	110								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			2970.28
+140	111900	120								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	111900	130								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			1330427.9
+140	111900	300								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			3964.06
+140	111900	710								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	111900	720								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			20681.72
+140	111900	740								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	121300	000								Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		USD	03/31/2017			451972.03
+140	121400	000								Unbilled Revenue		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	131500	000								Finished Goods		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	131510	000								Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	03/31/2017			1377189.84
+140	131515	000								Finished Goods (GAAP) - Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			88545
+140	131525	000								Finished Goods - Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	131530	000								Inventory Reserve ? NRV ? FG		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	131540	000								Inventory Reserve ? NRV ? B&H		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	131550	000								Finished Goods - Obsolescence		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	132100	000								Raw Material		A	Asset	TRUE	FALSE		USD	03/31/2017			2167929.16
+140	132115	000								Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	03/31/2017			325673.1
+140	132125	000								Raw Material - Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	132150	000								Raw Material - Obsolescence		A	Asset	TRUE	FALSE		USD	03/31/2017			-93385.46
+140	132300	000								WIP-Overhead		A	Asset	TRUE	FALSE		USD	03/31/2017			461954.08
+140	132400	000								WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	03/31/2017			518758.56
+140	132500	000								WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	03/31/2017			65267.04
+140	132600	000								Intransit Inventory		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	133100	000								WIP-Control		A	Asset	TRUE	FALSE		USD	03/31/2017			1016302.15
+140	133125	000								WIP-Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			154954
+140	133150	000								WIP Obsolescence		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	134100	000								MRB Material		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	134500	000								MRB Outside Processing		A	Asset	TRUE	FALSE		USD	03/31/2017			6819.85
+140	134600	000								Inventory Supplies		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	141110	000								Prepaid Insurance		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	141150	000								Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	141150	130								Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	141200	000								Prepaid Rent		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	141310	000								Prepaid Taxes - Property		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	141600	000								Prepaid - Rebate Due		A	Asset	TRUE	FALSE		USD	03/31/2017			.01
+140	141800	000								Intercompany Clearing Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	141850	000								Prepaid - Intercompany Deposits		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			317539.48
+140	151500	000								Deposits - Short Term		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	151900	000								Other Current Assets - Miscellaneous		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	161400	000								Leasehold Improvements		A	Asset	TRUE	FALSE		USD	03/31/2017			5474010.45
+140	161500	000								Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	03/31/2017			4148474.46
+140	161600	000								Machinery & Equipment		A	Asset	TRUE	FALSE		USD	03/31/2017			12107192.51
+140	161700	000								Vehicles		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+140	161800	000								Computers		A	Asset	TRUE	FALSE		USD	03/31/2017			428974.88
+140	161900	000								Construction in Process		A	Asset	TRUE	FALSE		USD	03/31/2017			-.05
+140	171400	000								Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	03/31/2017			-2464388.12
+140	171500	000								Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	03/31/2017			-1948330.42
+140	171600	000								Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	03/31/2017			-8734872.66
+140	171800	000								Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	03/31/2017			-384842.93
+140	191850	000								Restricted Cash ? Long Term		A	Asset	TRUE	FALSE		USD	03/31/2017			475000
+140	201100	000								AP - Trade		A	Liability	TRUE	FALSE		USD	03/31/2017			-9379917.1
+140	201110	000								AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	201115	000								AP - Credit Card Reimburse		A	Liability	TRUE	FALSE		USD	03/31/2017			-340837.3
+140	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-194824.5
+140	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-237796.4
+140	201900	000								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	201900	100								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-5610
+140	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-22145000
+140	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-9119869.14
+140	201900	300								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-229058.98
+140	201900	470								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	201900	710								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	201900	720								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	201900	740								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	03/31/2017			-1860074.53
+140	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		USD	03/31/2017			-77594
+140	211400	000								Accrued Vacation		A	Liability	TRUE	FALSE		USD	03/31/2017			-841936.3
+140	211450	000								Purchased Vacation		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	211500	000								Accrued Holiday		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	211900	000								Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	231010	000								Withheld Charitable Contribution		A	Liability	TRUE	FALSE		USD	03/31/2017			-1401
+140	231015	000								Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	231020	000								Misc W/H ? TAP		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	231030	000								Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	231040	000								Withheld State Payroll Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	231071	000								Withheld Wage Garnishment		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	231080	000								Withheld Unemployment Insurance		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	231091	000								Withheld Medical Insurance		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	231093	000								Withheld Dental Insurance		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	231095	000								Other Payroll Withholdings		A	Liability	TRUE	FALSE		USD	03/31/2017			-15602.76
+140	231300	000								Housing Tax		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	231450	000								Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	232110	000								State Sales Tax Payable - IA		A	Liability	TRUE	FALSE		USD	03/31/2017			-24462.54
+140	232300	000								Real Estate and Property Tax Payable		A	Liability	TRUE	FALSE		USD	03/31/2017			-684196
+140	241200	000								Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	03/31/2017			-168692.97
+140	241300	000								Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	241310	000								Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	241330	000								Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	03/31/2017			-666.16
+140	241340	000								Accrued Workers Comp Insurance AU		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	241345	000								Accrued Workers Comp Insurance AIG		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	241390	000								Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	03/31/2017			-446460.18
+140	241490	000								Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	251100	000								Intercompany Clearing Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	251200	000								Other Current Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	251300	000								Unearned Revenue		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	251350	000								Customer Deposit		A	Liability	TRUE	FALSE		USD	03/31/2017			-7175
+140	251400	000								Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	251410	000								Customer Advance-Discount-Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	251600	000								Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	03/31/2017			-2548708.2
+140	251650	000								Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	03/31/2017			15806.76
+140	251800	000								Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	03/31/2017			-1580676
+140	251810	000								Deferred Revenue-Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	251900	000								Deferred Tax Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	251990	000								Suspense Account		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	261200	000								Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	261211	000								Current Portion - Cap Lease - VARILEASE 1		A	Liability	TRUE	FALSE		USD	03/31/2017			.01
+140	261212	000								Current Portion - Cap Lease - VARILEASE 2		A	Liability	TRUE	FALSE		USD	03/31/2017			-727801.54
+140	261213	000								Current Portion - Cap Lease - VARILEASE 3		A	Liability	TRUE	FALSE		USD	03/31/2017			-498209.84
+140	261221	000								Current Portion - Cap Lease - WINMARK 1		A	Liability	TRUE	FALSE		USD	03/31/2017			-18981.4
+140	261222	000								Current Portion - Cap Lease - WINMARK 2		A	Liability	TRUE	FALSE		USD	03/31/2017			-8063.48
+140	261223	000								Current Portion - Cap Lease - WINMARK 3		A	Liability	TRUE	FALSE		USD	03/31/2017			-10494.44
+140	261231	000								Current Portion - Cap Lease - WELLS FARGO 1		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	261232	000								Current Portion - Cap Lease-WELLS FARGO 2		A	Liability	TRUE	FALSE		USD	03/31/2017			-10658.12
+140	261900	000								Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	271130	000								Long Term Debt - Sovereign (revolver)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	271200	000								Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	271211	000								Long Term Portion - Cap Lease-VARILEASE 1		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	271212	000								Long Term Portion - Cap Lease-VARILEASE 2		A	Liability	TRUE	FALSE		USD	03/31/2017			-.01
+140	271213	000								Long Term Portion - Cap Lease-VARILEASE 3		A	Liability	TRUE	FALSE		USD	03/31/2017			-146276.81
+140	271221	000								Long Term Portion - Cap Lease-WINMARK 1		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	271222	000								Long Term Portion - Cap Lease-WINMARK 2		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	271223	000								Long Term Portion - Cap Lease-WINMARK 3		A	Liability	TRUE	FALSE		USD	03/31/2017			-6563.54
+140	271231	000								Long Term Portion - Cap Lease-WELLS FARGO 1		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	271232	000								Long Term Portion - Cap Lease-WELLS FARGO 2		A	Liability	TRUE	FALSE		USD	03/31/2017			-.01
+140	271900	000								Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	291100	000								Deferred Income		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	291110	000								Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	291400	000								Customer Advance - Non-Current		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	291410	000								Customer Advance-Discount-LongTerm Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	291500	000								Other Non-Current Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			-146627.46
+140	291510	000								Other L/T Liabilities - Deferred Gain On Capex Buyback		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	291600	000								Warranty Reserve-Non-Current		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+140	291825	000								Deferred Rent - Non-Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			-129347.98
+140	302100	000								Paid In Surplus		A	Equity	TRUE	FALSE		USD	03/31/2017			-6500000
+140	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			29851659.33
+150	101100	000								Petty Cash		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	101210	000								Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	111100	000								AR - Trade		A	Asset	TRUE	FALSE		USD	03/31/2017			1150062.1
+150	111110	000								AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	03/31/2017			-1150062.1
+150	111150	000								AR- Trade Allowance for Uncollectible		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	111300	000								AR - Tax Refunds		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	111400	000								AR - Other		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	111900	110								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	111900	120								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			16024003.22
+150	111900	150								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	111900	710								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	111900	720								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			6191700.43
+150	111900	740								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			3507381.9
+150	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	141110	000								Prepaid Insurance		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	181000	000								Goodwill		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	181200	000								Trademarks		A	Asset	TRUE	FALSE		USD	03/31/2017			150000
+150	181300	000								Patents		A	Asset	TRUE	FALSE		USD	03/31/2017			1999999.92
+150	181350	000								Accum.Amort.-Patents		A	Asset	TRUE	FALSE		USD	03/31/2017			-1923075.05
+150	181400	000								License Agreements		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	181450	000								Accum.Amort.-License Agreements		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+150	201100	000								AP - Trade		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	201110	000								AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	201300	000								AP - Clearing		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	201900	140								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	201900	150								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	211900	000								Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	232150	000								State Sales Tax Payable - DE		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	232700	000								Income Tax Payable(CN)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	241200	000								Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	241300	000								Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	251100	000								Intercompany Clearing Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+150	251800	000								Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	03/31/2017			-687028.73
+150	301200	000								Common Stock		A	Equity	TRUE	FALSE		USD	03/31/2017			-10
+150	302100	000								Paid In Surplus		A	Equity	TRUE	FALSE		USD	03/31/2017			-1021624
+150	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			-22515496.62
+160	101210	000								Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+160	111100	000								AR - Trade		A	Asset	TRUE	FALSE		USD	03/31/2017			1489904.18
+160	111400	000								AR - Other		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+160	111900	110								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			3107839.95
+160	131500	000								Finished Goods		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+160	132100	000								Raw Material		A	Asset	TRUE	FALSE		USD	03/31/2017			372934.48
+160	132115	000								Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+160	132125	000								Raw Material - Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			-12569.87
+160	132150	000								Raw Material - Obsolescence		A	Asset	TRUE	FALSE		USD	03/31/2017			-1681.5
+160	132300	000								WIP-Overhead		A	Asset	TRUE	FALSE		USD	03/31/2017			43364.55
+160	132400	000								WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	03/31/2017			13573.58
+160	133100	000								WIP-Control		A	Asset	TRUE	FALSE		USD	03/31/2017			-14793.31
+160	133125	000								WIP-Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			-5271.06
+160	134100	000								MRB Material		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+160	141800	000								Intercompany Clearing Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+160	161900	000								Construction in Process		A	Asset	TRUE	FALSE		USD	03/31/2017			219302.39
+160	201100	000								AP - Trade		A	Liability	TRUE	FALSE		USD	03/31/2017			-190331.29
+160	201115	000								AP - Credit Card Reimburse		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+160	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-481645.63
+160	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+160	201300	000								AP - Clearing		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+160	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-951565.57
+160	251100	000								Intercompany Clearing Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+160	251200	000								Other Current Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+160	251600	000								Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+160	251990	000								Suspense Account		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+160	291600	000								Warranty Reserve-Non-Current		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+160	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			-2831123.56
+200	101210	000								Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	03/31/2017			-66.43
+200	111100	000								AR - Trade		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+200	111400	000								AR - Other		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+200	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+200	132100	000								Raw Material		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+200	133100	000								WIP-Control		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+200	134100	000								MRB Material		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+200	141320	000								Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	03/31/2017			500
+200	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			500
+200	201100	000								AP - Trade		A	Liability	TRUE	FALSE		USD	03/31/2017			-15023
+200	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+200	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+200	201300	000								AP - Clearing		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+200	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+200	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	03/31/2017			-58400
+200	232105	000								State Sales Tax Payable - RI		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+200	241200	000								Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+200	251200	000								Other Current Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+200	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			71905.95
+300	101100	000								Petty Cash		A	Asset	TRUE	FALSE		TRY	03/31/2017			43952.7
+300	101210	000								Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101212	000								Sekerbank USD deposit		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101226	000								Cash in Bank - MXN (Bancomer manual)		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101227	000								Cash in Bank TRY (Sekerbank)		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101228	000								Cash in Bank Euro (Sekerbank)		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101229	000								Cash in Bank USD (Sekerbank)		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101230	000								Cash in Bank - EUR		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101231	000								Cash in Bank - TKY (YKB)		A	Asset	TRUE	FALSE		TRY	03/31/2017			79713.57
+300	101232	000								Cash in Bank - USD (YKB)		A	Asset	TRUE	FALSE		TRY	03/31/2017			39295.28
+300	101233	000								Cash in Bank - EUR (YKB)		A	Asset	TRUE	FALSE		TRY	03/31/2017			2893145.18
+300	101234	000								Salary Payment (YKB)		A	Asset	TRUE	FALSE		TRY	03/31/2017			65691.08
+300	101235	000								Cash in Bank - GBP (Sekerbank)		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101236	000								Cash in Bank - TRY (GARANTI BANKASI Bank)		A	Asset	TRUE	FALSE		TRY	03/31/2017			24592.99
+300	101237	000								Cash in Bank - EUR (GARANTI BANKASI Bank)		A	Asset	TRUE	FALSE		TRY	03/31/2017			17737.08
+300	101238	000								Cash in Bank - USD (GARANTI BANKASI Bank)		A	Asset	TRUE	FALSE		TRY	03/31/2017			3620.08
+300	101240	000								Cash in Bank - TRY (2nd TRY Account in GARANTI Bank)		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101242	000								Cash in Bank - GBP (GARANTI BANKASI Bank)		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101243	000								Cash in Bank-TRY-OdeaBank		A	Asset	TRUE	FALSE		TRY	03/31/2017			28203.1
+300	101244	000								Cash in Bank-USD-OdeaBank		A	Asset	TRUE	FALSE		TRY	03/31/2017			5272.91
+300	101245	000								Odea EUR		A	Asset	TRUE	FALSE		TRY	03/31/2017			90642.78
+300	101246	000								Cash in Bank-GBP-OdeaBank		A	Asset	TRUE	FALSE		TRY	03/31/2017			2.35
+300	101247	000								Cash in Bank - MXN (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		TRY	03/31/2017			1936285.63
+300	101250	000								Cash in Bank - MXN (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101300	000								Cash Clearing		A	Asset	TRUE	FALSE		TRY	03/31/2017			.01
+300	101910	000								Restricted Cash - USD		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101950	000								Restricted Cash - TK		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	101960	000								Sekerbank TL deposit		A	Asset	TRUE	FALSE		TRY	03/31/2017			156288
+300	102100	000								Cash Equivalents (Short Term) Investment		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	111100	000								AR - Trade		A	Asset	TRUE	FALSE		TRY	03/31/2017			76380301.08
+300	111110	000								AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	111150	000								AR- Trade Allowance for Uncollectible		A	Asset	TRUE	FALSE		TRY	03/31/2017			-1854618.4
+300	111200	000								AR - Employee Advances		A	Asset	TRUE	FALSE		TRY	03/31/2017			84005.66
+300	111300	000								AR - Tax Refunds		A	Asset	TRUE	FALSE		TRY	03/31/2017			276967.26
+300	111400	000								AR - Other		A	Asset	TRUE	FALSE		TRY	03/31/2017			158703.23
+300	111800	000								AR - Clearing		A	Asset	TRUE	FALSE		TRY	03/31/2017			202.06
+300	111900	110								AR - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			2718129.93
+300	111900	130								AR - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			13764844.43
+300	111900	140								AR - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	111900	300								AR - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	111900	350								AR - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			39893.22
+300	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			395.81
+300	111900	720								AR - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			182575.12
+300	111900	740								AR - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		TRY	03/31/2017			-119.71
+300	111980	000								AR - Unidentified Receipts		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	131500	000								Finished Goods		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	131510	000								Finished Goods (GAAP)		A	Asset	TRUE	FALSE		TRY	03/31/2017			87316005.13
+300	131515	000								Finished Goods (GAAP) - Valuation		A	Asset	TRUE	FALSE		TRY	03/31/2017			-875249.87
+300	131525	000								Finished Goods - Valuation		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	131550	000								Finished Goods - Obsolescence		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	132100	000								Raw Material		A	Asset	TRUE	FALSE		TRY	03/31/2017			15212174.81
+300	132115	000								Raw Material - In Transit		A	Asset	TRUE	FALSE		TRY	03/31/2017			185265.37
+300	132125	000								Raw Material - Valuation		A	Asset	TRUE	FALSE		TRY	03/31/2017			835938
+300	132150	000								Raw Material - Obsolescence		A	Asset	TRUE	FALSE		TRY	03/31/2017			-189485.74
+300	132300	000								WIP-Overhead		A	Asset	TRUE	FALSE		TRY	03/31/2017			2166821.84
+300	132400	000								WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		TRY	03/31/2017			1129369.55
+300	132500	000								WIP-Outside Processing		A	Asset	TRUE	FALSE		TRY	03/31/2017			94627.98
+300	132600	000								Intransit Inventory		A	Asset	TRUE	FALSE		TRY	03/31/2017			4321290.01
+300	133100	000								WIP-Control		A	Asset	TRUE	FALSE		TRY	03/31/2017			8779360.02
+300	133125	000								WIP-Valuation		A	Asset	TRUE	FALSE		TRY	03/31/2017			-166386
+300	133150	000								WIP Obsolescence		A	Asset	TRUE	FALSE		TRY	03/31/2017			-1639338.24
+300	134100	000								MRB Material		A	Asset	TRUE	FALSE		TRY	03/31/2017			-4123.49
+300	134500	000								MRB Outside Processing		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	134600	000								Inventory Supplies		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	141110	000								Prepaid Insurance		A	Asset	TRUE	FALSE		TRY	03/31/2017			161796.94
+300	141150	000								Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	141150	720								Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			186214.46
+300	141200	000								Prepaid Rent		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	141330	000								Prepaid Taxes - State Income		A	Asset	TRUE	FALSE		TRY	03/31/2017			2972327.38
+300	141600	000								Prepaid - Rebate Due		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		TRY	03/31/2017			2785817.85
+300	151140	000								Deductible VAT		A	Asset	TRUE	FALSE		TRY	03/31/2017			8335541.5
+300	151500	000								Deposits - Short Term		A	Asset	TRUE	FALSE		TRY	03/31/2017			1345491.06
+300	151901	000								Other Assets (GAAP)		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	161300	000								Buildings		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	161400	000								Leasehold Improvements		A	Asset	TRUE	FALSE		TRY	03/31/2017			19287323.19
+300	161500	000								Furniture & Fixtures		A	Asset	TRUE	FALSE		TRY	03/31/2017			9727985.01
+300	161600	000								Machinery & Equipment		A	Asset	TRUE	FALSE		TRY	03/31/2017			24534640.32
+300	161700	000								Vehicles		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	161800	000								Computers		A	Asset	TRUE	FALSE		TRY	03/31/2017			875007.8
+300	161801	000								Computers - Licenses		A	Asset	TRUE	FALSE		TRY	03/31/2017			226234.17
+300	161900	000								Construction in Process		A	Asset	TRUE	FALSE		TRY	03/31/2017			-.57
+300	171400	000								Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		TRY	03/31/2017			-5388767.81
+300	171500	000								Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		TRY	03/31/2017			-5394479.97
+300	171600	000								Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		TRY	03/31/2017			-9945198.79
+300	171800	000								Accum.Depr. - Computers		A	Asset	TRUE	FALSE		TRY	03/31/2017			-652546.31
+300	181000	000								Goodwill		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	181150	000								Accum.Amort.-Customer Relationships		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	181500	000								Computer Software		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	191600	000								CIP Clearing		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+300	201100	000								AP - Trade		A	Liability	TRUE	FALSE		TRY	03/31/2017			-37643024
+300	201110	000								AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	201120	000								AP - Employee Reimburse		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		TRY	03/31/2017			-4853572.16
+300	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		TRY	03/31/2017			-131604.84
+300	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			-4354625.9
+300	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			-1039729.95
+300	201900	140								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	201900	320								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	201900	350								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	201900	710								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	201900	720								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			-62875.01
+300	201900	740								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			-.08
+300	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		TRY	03/31/2017			-68414.61
+300	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		TRY	03/31/2017			-2148159.88
+300	211400	000								Accrued Vacation		A	Liability	TRUE	FALSE		TRY	03/31/2017			-1229843.83
+300	211900	000								Accrued Other Benefits		A	Liability	TRUE	FALSE		TRY	03/31/2017			-3301681.62
+300	211901	000								AOB - Actuarial		A	Liability	TRUE	FALSE		TRY	03/31/2017			-441988.82
+300	231200	000								Social security - Employer		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	231300	000								Housing Tax		A	Liability	TRUE	FALSE		TRY	03/31/2017			-109708.6
+300	231450	000								Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		TRY	03/31/2017			-2196658.46
+300	232165	000								Stamp Duty Tax Payable		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	232210	000								VAT - Input Tax		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	232220	000								VAT - Remitted Tax		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	232230	000								VAT - Tax Reduction		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	232400	000								Other Taxes Payable		A	Liability	TRUE	FALSE		TRY	03/31/2017			-4730180
+300	241200	000								Accrued Legal Fees		A	Liability	TRUE	FALSE		TRY	03/31/2017			-379338.99
+300	241310	000								Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	241390	000								Accrued Expenses-Other		A	Liability	TRUE	FALSE		TRY	03/31/2017			-1848103.29
+300	251100	000								Intercompany Clearing Liability		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	251200	000								Other Current Liabilities		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	251350	000								Customer Deposit		A	Liability	TRUE	FALSE		TRY	03/31/2017			-49647.15
+300	251355	000								Intercompany - Customer deposits		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	251400	000								Customer Advance - Current Portion		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	251410	000								Customer Advance-Discount-Current Portion		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	251600	000								Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		TRY	03/31/2017			-19911964.8
+300	251650	000								Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		TRY	03/31/2017			1140472.97
+300	251800	000								Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		TRY	03/31/2017			-110090460.33
+300	251810	000								Deferred Revenue-Current Portion		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	251900	000								Deferred Tax Liability		A	Liability	TRUE	FALSE		TRY	03/31/2017			.26
+300	251990	000								Suspense Account		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	261150	000								Current Portion Long Term Debt - Phase 1 Loan		A	Liability	TRUE	FALSE		TRY	03/31/2017			-8989090
+300	261155	000								Current Portion Long Term Debt - Phase 2 Loan		A	Liability	TRUE	FALSE		TRY	03/31/2017			-9770750
+300	261160	000								Current Portion Long Term Debt--Loan 3		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	261165	000								Current Portion Long Term Debt - Odea		A	Liability	TRUE	FALSE		TRY	03/31/2017			-.98
+300	261166	000								Current Portion Long Term Debt - YKB		A	Liability	TRUE	FALSE		TRY	03/31/2017			-22360799.46
+300	261200	000								Current Portion - Capital Leases		A	Liability	TRUE	FALSE		TRY	03/31/2017			-1832366.59
+300	271155	000								Long Term Debt - Phase 2 Loan		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	271165	000								Long Term Debt - Garanti		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	271166	000								Long Term Debt - BOC Poland		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	271200	000								Capital Lease Obligations		A	Liability	TRUE	FALSE		TRY	03/31/2017			-3620180.76
+300	291110	000								Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	291350	000								Deferred Tax Liability - Non-Current		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	291400	000								Customer Advance - Non-Current		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	291410	000								Customer Advance-Discount-LongTerm Portion		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	291500	000								Other Non-Current Liability		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	291600	000								Warranty Reserve-Non-Current		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	291650	000								Warranty Reserve-Long Term (GAAP)		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+300	291999	000								Accrual retirement		A	Liability	TRUE	FALSE		TRY	03/31/2017			-21824.97
+300	302100	000								Paid In Surplus		A	Equity	TRUE	FALSE		TRY	03/31/2017			-1763555.91
+300	302300	000								Registered Capital (CN)		A	Equity	TRUE	FALSE		TRY	03/31/2017			-49663870.96
+300	302500	000								Member Interests		A	Equity	TRUE	FALSE		TRY	03/31/2017			-19096636.64
+300	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		TRY	03/31/2017			47761860.97
+300	304100	000								Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		TRY	03/31/2017			5590569.67
+300	304300	000								ETI - Actuarial Diff		A	Equity	TRUE	FALSE		TRY	03/31/2017			456171.93
+300	309000	000								Year-to-Date Net Income (Loss)		A	Equity	TRUE	FALSE		TRY	03/31/2017			0
+300	309991	000								Non-Controlling Interest		A	Equity	TRUE	FALSE		TRY	03/31/2017			-.36
+320	111900	120								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-22108062
+320	111900	300								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+320	181100	000								Customer Relationships		A	Asset	TRUE	FALSE		USD	03/31/2017			2327582
+320	181150	000								Accum.Amort.-Customer Relationships		A	Asset	TRUE	FALSE		USD	03/31/2017			-2327582
+320	191961	000								Investment in Partnership - Turkey		A	Asset	TRUE	FALSE		USD	03/31/2017			36494720.73
+320	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-6053252
+320	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			.27
+320	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-17000000
+320	241390	000								Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+320	251200	000								Other Current Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+320	261137	000								Current Portion Long Term Debt - BOC (mortgage)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+320	261200	000								Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+320	271166	000								Long Term Debt - BOC Poland		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+320	271200	000								Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+320	302100	000								Paid In Surplus		A	Equity	TRUE	FALSE		USD	03/31/2017			3759432
+320	302300	000								Registered Capital (CN)		A	Equity	TRUE	FALSE		USD	03/31/2017			240711
+320	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			4666450
+320	309991	000								Non-Controlling Interest		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+350	101100	000								Petty Cash		A	Asset	TRUE	FALSE		TRY	03/31/2017			34624.32
+350	101230	000								Cash in Bank - EUR		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	101231	000								Cash in Bank - TKY (YKB)		A	Asset	TRUE	FALSE		TRY	03/31/2017			21015.56
+350	101232	000								Cash in Bank - USD (YKB)		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	101233	000								Cash in Bank - EUR (YKB)		A	Asset	TRUE	FALSE		TRY	03/31/2017			74.57
+350	101243	000								Cash in Bank-TRY-OdeaBank		A	Asset	TRUE	FALSE		TRY	03/31/2017			65710.64
+350	101244	000								Cash in Bank-USD-OdeaBank		A	Asset	TRUE	FALSE		TRY	03/31/2017			15600.53
+350	101245	000								Odea EUR		A	Asset	TRUE	FALSE		TRY	03/31/2017			1502941.77
+350	101246	000								Cash in Bank-GBP-OdeaBank		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	101274	000								Cash in Bank - USD Bancomer(0105074444)		A	Asset	TRUE	FALSE		TRY	03/31/2017			73.83
+350	101275	000								Cash in Bank - USD Santander		A	Asset	TRUE	FALSE		TRY	03/31/2017			2310.18
+350	101300	000								Cash Clearing		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	101950	000								Restricted Cash - TK		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	111100	000								AR - Trade		A	Asset	TRUE	FALSE		TRY	03/31/2017			31617480.36
+350	111200	000								AR - Employee Advances		A	Asset	TRUE	FALSE		TRY	03/31/2017			21602
+350	111400	000								AR - Other		A	Asset	TRUE	FALSE		TRY	03/31/2017			208806.24
+350	111900	130								AR - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			97926.84
+350	111900	300								AR - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	111900	350								AR - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	111900	720								AR - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	111980	000								AR - Unidentified Receipts		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	131500	000								Finished Goods		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	131510	000								Finished Goods (GAAP)		A	Asset	TRUE	FALSE		TRY	03/31/2017			19407575.76
+350	132100	000								Raw Material		A	Asset	TRUE	FALSE		TRY	03/31/2017			10361112.71
+350	132115	000								Raw Material - In Transit		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	132125	000								Raw Material - Valuation		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	132150	000								Raw Material - Obsolescence		A	Asset	TRUE	FALSE		TRY	03/31/2017			-54631.13
+350	132300	000								WIP-Overhead		A	Asset	TRUE	FALSE		TRY	03/31/2017			7301862.63
+350	132400	000								WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		TRY	03/31/2017			578482.37
+350	132500	000								WIP-Outside Processing		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	132600	000								Intransit Inventory		A	Asset	TRUE	FALSE		TRY	03/31/2017			2283609.37
+350	133100	000								WIP-Control		A	Asset	TRUE	FALSE		TRY	03/31/2017			5878377.05
+350	133125	000								WIP-Valuation		A	Asset	TRUE	FALSE		TRY	03/31/2017			-327901
+350	133150	000								WIP Obsolescence		A	Asset	TRUE	FALSE		TRY	03/31/2017			-888363
+350	133175	000								WIP Obsolesence-DL/OH		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	134100	000								MRB Material		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	141110	000								Prepaid Insurance		A	Asset	TRUE	FALSE		TRY	03/31/2017			121726.46
+350	141112	000								Medical insurance		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	141150	000								Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	141330	000								Prepaid Taxes - State Income		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	141600	000								Prepaid - Rebate Due		A	Asset	TRUE	FALSE		TRY	03/31/2017			735713.28
+350	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		TRY	03/31/2017			1904297.13
+350	151140	000								Deductible VAT		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	151500	000								Deposits - Short Term		A	Asset	TRUE	FALSE		TRY	03/31/2017			92788.03
+350	161400	000								Leasehold Improvements		A	Asset	TRUE	FALSE		TRY	03/31/2017			893468.17
+350	161500	000								Furniture & Fixtures		A	Asset	TRUE	FALSE		TRY	03/31/2017			158020.53
+350	161600	000								Machinery & Equipment		A	Asset	TRUE	FALSE		TRY	03/31/2017			39933383.18
+350	161800	000								Computers		A	Asset	TRUE	FALSE		TRY	03/31/2017			327634.52
+350	161801	000								Computers - Licenses		A	Asset	TRUE	FALSE		TRY	03/31/2017			114483.83
+350	161900	000								Construction in Process		A	Asset	TRUE	FALSE		TRY	03/31/2017			9770749.98
+350	171400	000								Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		TRY	03/31/2017			-22734.35
+350	171500	000								Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		TRY	03/31/2017			-5305.93
+350	171600	000								Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		TRY	03/31/2017			-925486.79
+350	171800	000								Accum.Depr. - Computers		A	Asset	TRUE	FALSE		TRY	03/31/2017			-45935.55
+350	181500	000								Computer Software		A	Asset	TRUE	FALSE		TRY	03/31/2017			0
+350	191700	000								Asset Clearing		A	Asset	TRUE	FALSE		TRY	03/31/2017			-.25
+350	201100	000								AP - Trade		A	Liability	TRUE	FALSE		TRY	03/31/2017			-20225893.76
+350	201120	000								AP - Employee Reimburse		A	Liability	TRUE	FALSE		TRY	03/31/2017			-252.5
+350	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		TRY	03/31/2017			-2662980.52
+350	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		TRY	03/31/2017			-364.38
+350	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+350	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			-420258.3
+350	201900	300								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			-39891.17
+350	201900	370								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			-822483.52
+350	201900	720								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			-17560663.17
+350	201900	740								AP - Intercompany		A	Liability	TRUE	FALSE		TRY	03/31/2017			-7277.2
+350	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		TRY	03/31/2017			-374455.9
+350	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		TRY	03/31/2017			-1446024.14
+350	211900	000								Accrued Other Benefits		A	Liability	TRUE	FALSE		TRY	03/31/2017			-541040
+350	231300	000								Housing Tax		A	Liability	TRUE	FALSE		TRY	03/31/2017			-27389.44
+350	231450	000								Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		TRY	03/31/2017			-1574349.83
+350	232220	000								VAT - Remitted Tax		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+350	241200	000								Accrued Legal Fees		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+350	251350	000								Customer Deposit		A	Liability	TRUE	FALSE		TRY	03/31/2017			-441.84
+350	251600	000								Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		TRY	03/31/2017			-1253037.23
+350	251800	000								Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		TRY	03/31/2017			-19407575.76
+350	251990	000								Suspense Account		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+350	261155	000								Current Portion Long Term Debt - Phase 2 Loan		A	Liability	TRUE	FALSE		TRY	03/31/2017			-6897000.07
+350	261165	000								Current Portion Long Term Debt - Odea		A	Liability	TRUE	FALSE		TRY	03/31/2017			-28168467.25
+350	271155	000								Long Term Debt - Phase 2 Loan		A	Liability	TRUE	FALSE		TRY	03/31/2017			-51727499.93
+350	291600	000								Warranty Reserve-Non-Current		A	Liability	TRUE	FALSE		TRY	03/31/2017			0
+350	302300	000								Registered Capital (CN)		A	Equity	TRUE	FALSE		TRY	03/31/2017			-15500000
+350	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		TRY	03/31/2017			31295564.01
+350	304100	000								Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		TRY	03/31/2017			2388244.65
+370	111900	350								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			226043.95
+370	191961	000								Investment in Partnership - Turkey		A	Asset	TRUE	FALSE		USD	03/31/2017			-226043.95
+370	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+400	101100	000								Petty Cash		A	Asset	TRUE	FALSE		MXN	03/31/2017			19353.95
+400	101250	000								Cash in Bank - MXN (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+400	101251	000								Cash in bank-DKK in DFR		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+400	101267	000								Cash in Bank - MXN Bancomer		A	Asset	TRUE	FALSE		MXN	03/31/2017			8318622.81
+400	101268	000								Cash in Bank - USD Bancomer		A	Asset	TRUE	FALSE		MXN	03/31/2017			607906.29
+400	111900	000								AR - Intercompany		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+400	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+400	111900	470								AR - Intercompany		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+400	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+400	121175	000								Employment subsidy		A	Asset	TRUE	FALSE		MXN	03/31/2017			4195.26
+400	121300	000								Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		MXN	03/31/2017			2358683.11
+400	131500	000								Finished Goods		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+400	132100	000								Raw Material		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+400	134100	000								MRB Material		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+400	141112	000								Medical insurance		A	Asset	TRUE	FALSE		MXN	03/31/2017			342587.97
+400	141114	000								Life insurance		A	Asset	TRUE	FALSE		MXN	03/31/2017			140734.26
+400	141115	000								Vehicles insurance		A	Asset	TRUE	FALSE		MXN	03/31/2017			26369.4
+400	141116	000								Foreign vehicles insurance		A	Asset	TRUE	FALSE		MXN	03/31/2017			69741.55
+400	141118	000								Building insurance		A	Asset	TRUE	FALSE		MXN	03/31/2017			165041.94
+400	141310	000								Prepaid Taxes - Property		A	Asset	TRUE	FALSE		MXN	03/31/2017			936110.25
+400	141509	000								Other deposit in Guarantee		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+400	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		MXN	03/31/2017			619681.41
+400	141901	000								Deferred profit sharing		A	Asset	TRUE	FALSE		MXN	03/31/2017			2082410
+400	141902	000								Deferred income tax		A	Asset	TRUE	FALSE		MXN	03/31/2017			6951810
+400	151140	000								Deductible VAT		A	Asset	TRUE	FALSE		MXN	03/31/2017			15622287.52
+400	151900	000								Other Current Assets - Miscellaneous		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+400	161200	000								Installation costs		A	Asset	TRUE	FALSE		MXN	03/31/2017			25763079.98
+400	161400	000								Leasehold Improvements		A	Asset	TRUE	FALSE		MXN	03/31/2017			56191928.03
+400	161500	000								Furniture & Fixtures		A	Asset	TRUE	FALSE		MXN	03/31/2017			3318609.53
+400	161600	000								Machinery & Equipment		A	Asset	TRUE	FALSE		MXN	03/31/2017			20261764.95
+400	161700	000								Vehicles		A	Asset	TRUE	FALSE		MXN	03/31/2017			778335.25
+400	161800	000								Computers		A	Asset	TRUE	FALSE		MXN	03/31/2017			3927645.76
+400	161900	000								Construction in Process		A	Asset	TRUE	FALSE		MXN	03/31/2017			2280474.12
+400	171400	000								Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		MXN	03/31/2017			-18694550.22
+400	171500	000								Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		MXN	03/31/2017			-373859.99
+400	171600	000								Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		MXN	03/31/2017			-2575629.73
+400	171700	000								Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		MXN	03/31/2017			-217637.2
+400	171800	000								Accum.Depr. - Computers		A	Asset	TRUE	FALSE		MXN	03/31/2017			-895476.93
+400	191500	000								Deposits - Long Term		A	Asset	TRUE	FALSE		MXN	03/31/2017			7834677.15
+400	191900	000								Other Noncurrent Assets		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+400	201100	000								AP - Trade		A	Liability	TRUE	FALSE		MXN	03/31/2017			-20199069.72
+400	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		MXN	03/31/2017			-3060772.08
+400	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		MXN	03/31/2017			736.03
+400	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	201305	000								Sundry creditors -USD		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	201307	000								Sundry creditors -MXN		A	Liability	TRUE	FALSE		MXN	03/31/2017			-52473.91
+400	201900	000								AP - Intercompany		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		MXN	03/31/2017			-54301851.39
+400	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		MXN	03/31/2017			-2911518.61
+400	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1898467.3
+400	211350	000								Accrued Profit Sharing		A	Liability	TRUE	FALSE		MXN	03/31/2017			-5693768.59
+400	211400	000								Accrued Vacation		A	Liability	TRUE	FALSE		MXN	03/31/2017			-3662190.61
+400	211902	000								Accrued Savings Fund		A	Liability	TRUE	FALSE		MXN	03/31/2017			-188688.72
+400	231062	000								Withheld Auto Insurance		A	Liability	TRUE	FALSE		MXN	03/31/2017			-4834.2
+400	231071	000								Withheld Wage Garnishment		A	Liability	TRUE	FALSE		MXN	03/31/2017			1502.94
+400	231093	000								Withheld Dental Insurance		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	231095	000								Other Payroll Withholdings		A	Liability	TRUE	FALSE		MXN	03/31/2017			77697.86
+400	231200	000								Social security - Employer		A	Liability	TRUE	FALSE		MXN	03/31/2017			-2096031.15
+400	231250	000								Social security retirement - E		A	Liability	TRUE	FALSE		MXN	03/31/2017			-224827.49
+400	231300	000								Housing Tax		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1170296.24
+400	231350	000								Foreign Tax		A	Liability	TRUE	FALSE		MXN	03/31/2017			463544.42
+400	231400	000								Income tax withheld to employee		A	Liability	TRUE	FALSE		MXN	03/31/2017			-378465.89
+400	231450	000								Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		MXN	03/31/2017			-286976.28
+400	232400	000								Other Taxes Payable		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	232720	000								Income Tax Payable (MX)		A	Liability	TRUE	FALSE		MXN	03/31/2017			-2508105
+400	241330	000								Accrued Health Insurance		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	251210	000								VAT withheld		A	Liability	TRUE	FALSE		MXN	03/31/2017			-190296.05
+400	251230	000								Income tax withheld from fee		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	251600	000								Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	251900	000								Deferred Tax Liability		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	251990	000								Suspense Account		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	261900	000								Current Portion - Other Debt		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	261920	000								Current portion Debt		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1049793.77
+400	261970	000								Short Term Loan (W/C)		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	271900	000								Other Long-Term Debt		A	Liability	TRUE	FALSE		MXN	03/31/2017			-612189.84
+400	291600	000								Warranty Reserve-Non-Current		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	291996	000								Accrual- seniority premium for termination		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1556046.23
+400	291997	000								Accrual -seniority premium retirement		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	291998	000								Accrual severance termination		A	Liability	TRUE	FALSE		MXN	03/31/2017			-18163193.92
+400	291999	000								Accrual retirement		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+400	301200	000								Common Stock		A	Equity	TRUE	FALSE		MXN	03/31/2017			-50000
+400	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		MXN	03/31/2017			-10544359.5
+400	304200	000								Other Comprehensive Income		A	Equity	TRUE	FALSE		MXN	03/31/2017			7846024.71
+400	309210	000								Retained Earning		A	Equity	TRUE	FALSE		MXN	03/31/2017			202682
+410	101100	000								Petty Cash		A	Asset	TRUE	FALSE		USD	03/31/2017			377.8
+410	101210	000								Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	101250	000								Cash in Bank - MXN (SANTANDER S.A Bank)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	101251	000								Cash in bank-DKK in DFR		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	101252	000								Cash in bank-GBP in DFR		A	Asset	TRUE	FALSE		USD	03/31/2017			3036759.89
+410	101910	000								Restricted Cash - USD		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	111100	000								AR - Trade		A	Asset	TRUE	FALSE		USD	03/31/2017			7373953.8
+410	111110	000								AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	111400	000								AR - Other		A	Asset	TRUE	FALSE		USD	03/31/2017			6436.09
+410	111900	110								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	111900	120								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	111900	130								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			181714.62
+410	111900	140								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			229058.98
+410	111900	400								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			3406444.4
+410	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			5673564.95
+410	111900	470								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			10016182.59
+410	111900	490								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			9379312.13
+410	111900	720								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			6750
+410	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			11761.1
+410	111980	000								AR - Unidentified Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	121175	000								Employment subsidy		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	121300	000								Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		USD	03/31/2017			-.1
+410	131500	000								Finished Goods		A	Asset	TRUE	FALSE		USD	03/31/2017			536653.93
+410	131510	000								Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	03/31/2017			595234.15
+410	131515	000								Finished Goods (GAAP) - Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			722
+410	131525	000								Finished Goods - Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			4220
+410	132100	000								Raw Material		A	Asset	TRUE	FALSE		USD	03/31/2017			4223437.35
+410	132115	000								Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	132125	000								Raw Material - Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	132150	000								Raw Material - Obsolescence		A	Asset	TRUE	FALSE		USD	03/31/2017			-80957.04
+410	132300	000								WIP-Overhead		A	Asset	TRUE	FALSE		USD	03/31/2017			111970.96
+410	132400	000								WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	03/31/2017			46968.66
+410	132500	000								WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	03/31/2017			28060.65
+410	133100	000								WIP-Control		A	Asset	TRUE	FALSE		USD	03/31/2017			2327133.07
+410	133125	000								WIP-Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			12659.01
+410	133150	000								WIP Obsolescence		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	134100	000								MRB Material		A	Asset	TRUE	FALSE		USD	03/31/2017			25989.71
+410	141112	000								Medical insurance		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	141114	000								Life insurance		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	141115	000								Vehicles insurance		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	141118	000								Building insurance		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	141150	000								Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	141150	130								Prepaid Allocated Costs - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-.03
+410	141320	000								Prepaid Taxes - Federal Income		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	141330	000								Prepaid Taxes - State Income		A	Asset	TRUE	FALSE		USD	03/31/2017			-.02
+410	141600	000								Prepaid - Rebate Due		A	Asset	TRUE	FALSE		USD	03/31/2017			28469.12
+410	141850	000								Prepaid - Intercompany Deposits		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	141850	110								Prepaid - Intercompany Deposits		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			177535.47
+410	141901	000								Deferred profit sharing		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	141902	000								Deferred income tax		A	Asset	TRUE	FALSE		USD	03/31/2017			-.24
+410	151135	000								Deferred Tax Asset		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	151140	000								Deductible VAT		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	161200	000								Installation costs		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	161500	000								Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	03/31/2017			20963.28
+410	161600	000								Machinery & Equipment		A	Asset	TRUE	FALSE		USD	03/31/2017			9561410.03
+410	161700	000								Vehicles		A	Asset	TRUE	FALSE		USD	03/31/2017			148046.91
+410	161800	000								Computers		A	Asset	TRUE	FALSE		USD	03/31/2017			307388.16
+410	161900	000								Construction in Process		A	Asset	TRUE	FALSE		USD	03/31/2017			192318.07
+410	171400	000								Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	171500	000								Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	03/31/2017			-6858.95
+410	171600	000								Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	03/31/2017			-3403156.22
+410	171700	000								Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		USD	03/31/2017			-70834.77
+410	171800	000								Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	03/31/2017			-210588.15
+410	191500	000								Deposits - Long Term		A	Asset	TRUE	FALSE		USD	03/31/2017			22946.74
+410	191510	000								Noncurrent Deferred Taxes - Federal		A	Asset	TRUE	FALSE		USD	03/31/2017			.13
+410	191850	000								Restricted Cash ? Long Term		A	Asset	TRUE	FALSE		USD	03/31/2017			2062856
+410	191900	000								Other Noncurrent Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+410	201100	000								AP - Trade		A	Liability	TRUE	FALSE		USD	03/31/2017			-12799502.75
+410	201120	000								AP - Employee Reimburse		A	Liability	TRUE	FALSE		USD	03/31/2017			-9271
+410	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-96905.81
+410	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-1594893.26
+410	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-199682.35
+410	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-.1
+410	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-13505002
+410	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-465193.64
+410	201900	140								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-3964.06
+410	201900	300								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	201900	400								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-5321213.7
+410	201900	470								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-69896.16
+410	201900	490								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-1037.4
+410	201900	720								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-3882755.65
+410	201900	740								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		USD	03/31/2017			-57959.65
+410	211350	000								Accrued Profit Sharing		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	211400	000								Accrued Vacation		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	211902	000								Accrued Savings Fund		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	231062	000								Withheld Auto Insurance		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	231200	000								Social security - Employer		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	231250	000								Social security retirement - E		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	231300	000								Housing Tax		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	231400	000								Income tax withheld to employee		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	231450	000								Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	232400	000								Other Taxes Payable		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	232720	000								Income Tax Payable (MX)		A	Liability	TRUE	FALSE		USD	03/31/2017			.25
+410	241330	000								Accrued Health Insurance		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	241390	000								Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	241490	000								Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	251210	000								VAT withheld		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	251230	000								Income tax withheld from fee		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	251300	000								Unearned Revenue		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	251350	000								Customer Deposit		A	Liability	TRUE	FALSE		USD	03/31/2017			-.8
+410	251355	000								Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	251400	000								Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	251600	000								Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	03/31/2017			-2799624.41
+410	251650	000								Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	03/31/2017			7736.35
+410	251800	000								Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	03/31/2017			-773634.95
+410	251825	000								Deferred Rent - Short Term Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			-92099.6
+410	251900	000								Deferred Tax Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	251990	000								Suspense Account		A	Liability	TRUE	FALSE		USD	03/31/2017			10154.74
+410	261200	000								Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	261221	000								Current Portion - Cap Lease - WINMARK 1		A	Liability	TRUE	FALSE		USD	03/31/2017			15123.48
+410	261900	000								Current Portion - Other Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	261910	000								Debt Discount - Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			.21
+410	261920	000								Current portion Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	261970	000								Short Term Loan (W/C)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	271200	000								Capital Lease Obligations		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	271221	000								Long Term Portion - Cap Lease-WINMARK 1		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	271222	000								Long Term Portion - Cap Lease-WINMARK 2		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	271900	000								Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	271910	000								Debt Discount - Long-Term Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	291110	000								Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	291400	000								Customer Advance - Non-Current		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	291410	000								Customer Advance-Discount-LongTerm Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	291500	000								Other Non-Current Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	291600	000								Warranty Reserve-Non-Current		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	291650	000								Warranty Reserve-Long Term (GAAP)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+410	291997	000								Accrual -seniority premium retirement		A	Liability	TRUE	FALSE		USD	03/31/2017			58440
+410	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			-9027325.57
+410	304100	000								Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+430	101100	000								Petty Cash		A	Asset	TRUE	FALSE		MXN	03/31/2017			20689.95
+430	101273	000								Cash in Bank - MXN Bancomer (0105073022)		A	Asset	TRUE	FALSE		MXN	03/31/2017			2314323.32
+430	101274	000								Cash in Bank - USD Bancomer(0105074444)		A	Asset	TRUE	FALSE		MXN	03/31/2017			952309.75
+430	101300	000								Cash Clearing		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+430	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+430	111900	470								AR - Intercompany		A	Asset	TRUE	FALSE		MXN	03/31/2017			.01
+430	121175	000								Employment subsidy		A	Asset	TRUE	FALSE		MXN	03/31/2017			52464.39
+430	121300	000								Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+430	132100	000								Raw Material		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+430	134100	000								MRB Material		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+430	141310	000								Prepaid Taxes - Property		A	Asset	TRUE	FALSE		MXN	03/31/2017			1163195.23
+430	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		MXN	03/31/2017			8523.44
+430	151140	000								Deductible VAT		A	Asset	TRUE	FALSE		MXN	03/31/2017			17350262.7
+430	161200	000								Installation costs		A	Asset	TRUE	FALSE		MXN	03/31/2017			10823273.34
+430	161400	000								Leasehold Improvements		A	Asset	TRUE	FALSE		MXN	03/31/2017			15961191.45
+430	161500	000								Furniture & Fixtures		A	Asset	TRUE	FALSE		MXN	03/31/2017			595794.88
+430	161800	000								Computers		A	Asset	TRUE	FALSE		MXN	03/31/2017			604365.03
+430	161900	000								Construction in Process		A	Asset	TRUE	FALSE		MXN	03/31/2017			31969145.13
+430	171400	000								Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		MXN	03/31/2017			-178106.9
+430	171500	000								Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		MXN	03/31/2017			-4965.01
+430	171800	000								Accum.Depr. - Computers		A	Asset	TRUE	FALSE		MXN	03/31/2017			-7554.56
+430	191500	000								Deposits - Long Term		A	Asset	TRUE	FALSE		MXN	03/31/2017			8175146.48
+430	201100	000								AP - Trade		A	Liability	TRUE	FALSE		MXN	03/31/2017			-11241466.77
+430	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1155898.92
+430	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		MXN	03/31/2017			-987145.84
+430	201305	000								Sundry creditors -USD		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+430	201307	000								Sundry creditors -MXN		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1972.8
+430	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		MXN	03/31/2017			-460807.63
+430	201900	470								AP - Intercompany		A	Liability	TRUE	FALSE		MXN	03/31/2017			-58913482.76
+430	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1638159.77
+430	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		MXN	03/31/2017			-810404.05
+430	211350	000								Accrued Profit Sharing		A	Liability	TRUE	FALSE		MXN	03/31/2017			-386927.7
+430	211400	000								Accrued Vacation		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1521750.24
+430	211902	000								Accrued Savings Fund		A	Liability	TRUE	FALSE		MXN	03/31/2017			-101995.15
+430	231062	000								Withheld Auto Insurance		A	Liability	TRUE	FALSE		MXN	03/31/2017			-2526.18
+430	231071	000								Withheld Wage Garnishment		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1503.06
+430	231095	000								Other Payroll Withholdings		A	Liability	TRUE	FALSE		MXN	03/31/2017			-286013.81
+430	231200	000								Social security - Employer		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1486475.87
+430	231250	000								Social security retirement - E		A	Liability	TRUE	FALSE		MXN	03/31/2017			-165658.15
+430	231300	000								Housing Tax		A	Liability	TRUE	FALSE		MXN	03/31/2017			-868169.65
+430	231350	000								Foreign Tax		A	Liability	TRUE	FALSE		MXN	03/31/2017			-502049.97
+430	231400	000								Income tax withheld to employee		A	Liability	TRUE	FALSE		MXN	03/31/2017			-2613904.57
+430	231450	000								Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		MXN	03/31/2017			-596008.23
+430	232400	000								Other Taxes Payable		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+430	232720	000								Income Tax Payable (MX)		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1206577
+430	241330	000								Accrued Health Insurance		A	Liability	TRUE	FALSE		MXN	03/31/2017			-153635.6
+430	251210	000								VAT withheld		A	Liability	TRUE	FALSE		MXN	03/31/2017			-21786.04
+430	251230	000								Income tax withheld from fee		A	Liability	TRUE	FALSE		MXN	03/31/2017			-330
+430	251990	000								Suspense Account		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+430	291996	000								Accrual- seniority premium for termination		A	Liability	TRUE	FALSE		MXN	03/31/2017			-39484.38
+430	291998	000								Accrual severance termination		A	Liability	TRUE	FALSE		MXN	03/31/2017			-259814.97
+430	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		MXN	03/31/2017			2759718.01
+430	304200	000								Other Comprehensive Income		A	Equity	TRUE	FALSE		MXN	03/31/2017			-43676.97
+440	101267	000								Cash in Bank - MXN Bancomer		A	Asset	TRUE	FALSE		MXN	03/31/2017			353463.87
+440	101268	000								Cash in Bank - USD Bancomer		A	Asset	TRUE	FALSE		MXN	03/31/2017			2572626.04
+440	111100	000								AR - Trade		A	Asset	TRUE	FALSE		MXN	03/31/2017			276175
+440	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		MXN	03/31/2017			2020407.67
+440	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+440	111980	000								AR - Unidentified Receipts		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+440	131500	000								Finished Goods		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+440	151140	000								Deductible VAT		A	Asset	TRUE	FALSE		MXN	03/31/2017			217525.43
+440	201100	000								AP - Trade		A	Liability	TRUE	FALSE		MXN	03/31/2017			-395109.03
+440	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		MXN	03/31/2017			-4311983.87
+440	232400	000								Other Taxes Payable		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+440	251210	000								VAT withheld		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+440	301200	000								Common Stock		A	Equity	TRUE	FALSE		MXN	03/31/2017			-50000
+440	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		MXN	03/31/2017			-854230.27
+460	101273	000								Cash in Bank - MXN Bancomer (0105073022)		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+460	101274	000								Cash in Bank - USD Bancomer(0105074444)		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+460	101281	000								Cash in Bank - MXN Bancomer(0107692080)		A	Asset	TRUE	FALSE		MXN	03/31/2017			3006205.52
+460	101282	000								Cash in Bank - USD Bancomer(0107692250)		A	Asset	TRUE	FALSE		MXN	03/31/2017			159001.06
+460	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+460	111900	490								AR - Intercompany		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+460	121175	000								Employment subsidy		A	Asset	TRUE	FALSE		MXN	03/31/2017			32285.53
+460	121300	000								Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		MXN	03/31/2017			3984.78
+460	134100	000								MRB Material		A	Asset	TRUE	FALSE		MXN	03/31/2017			0
+460	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		MXN	03/31/2017			3000
+460	151140	000								Deductible VAT		A	Asset	TRUE	FALSE		MXN	03/31/2017			9547569.69
+460	161900	000								Construction in Process		A	Asset	TRUE	FALSE		MXN	03/31/2017			53233621.67
+460	191500	000								Deposits - Long Term		A	Asset	TRUE	FALSE		MXN	03/31/2017			3000
+460	201100	000								AP - Trade		A	Liability	TRUE	FALSE		MXN	03/31/2017			-5407804.62
+460	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		MXN	03/31/2017			-2247397.15
+460	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		MXN	03/31/2017			-218703.02
+460	201307	000								Sundry creditors -MXN		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+460	201900	490								AP - Intercompany		A	Liability	TRUE	FALSE		MXN	03/31/2017			-49962551.16
+460	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		MXN	03/31/2017			-583229.34
+460	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		MXN	03/31/2017			-290379.66
+460	211350	000								Accrued Profit Sharing		A	Liability	TRUE	FALSE		MXN	03/31/2017			-34481.79
+460	211400	000								Accrued Vacation		A	Liability	TRUE	FALSE		MXN	03/31/2017			-321550.7
+460	211902	000								Accrued Savings Fund		A	Liability	TRUE	FALSE		MXN	03/31/2017			-33062.36
+460	231062	000								Withheld Auto Insurance		A	Liability	TRUE	FALSE		MXN	03/31/2017			-836.64
+460	231071	000								Withheld Wage Garnishment		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+460	231095	000								Other Payroll Withholdings		A	Liability	TRUE	FALSE		MXN	03/31/2017			-50767.41
+460	231200	000								Social security - Employer		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1487599.7
+460	231250	000								Social security retirement - E		A	Liability	TRUE	FALSE		MXN	03/31/2017			-165765.97
+460	231300	000								Housing Tax		A	Liability	TRUE	FALSE		MXN	03/31/2017			-906529.92
+460	231350	000								Foreign Tax		A	Liability	TRUE	FALSE		MXN	03/31/2017			-210940.2
+460	231400	000								Income tax withheld to employee		A	Liability	TRUE	FALSE		MXN	03/31/2017			-1084571.55
+460	231450	000								Payroll Tax Employer Contribution - Federal		A	Liability	TRUE	FALSE		MXN	03/31/2017			-328027.71
+460	232720	000								Income Tax Payable (MX)		A	Liability	TRUE	FALSE		MXN	03/31/2017			-543912
+460	241330	000								Accrued Health Insurance		A	Liability	TRUE	FALSE		MXN	03/31/2017			-64747.71
+460	251210	000								VAT withheld		A	Liability	TRUE	FALSE		MXN	03/31/2017			-4132.38
+460	251990	000								Suspense Account		A	Liability	TRUE	FALSE		MXN	03/31/2017			0
+460	291996	000								Accrual- seniority premium for termination		A	Liability	TRUE	FALSE		MXN	03/31/2017			-5272.41
+460	291998	000								Accrual severance termination		A	Liability	TRUE	FALSE		MXN	03/31/2017			-34693.38
+460	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		MXN	03/31/2017			291846.23
+460	304200	000								Other Comprehensive Income		A	Equity	TRUE	FALSE		MXN	03/31/2017			-5832.24
+470	101275	000								Cash in Bank - USD Santander		A	Asset	TRUE	FALSE		USD	03/31/2017			2095657.08
+470	111100	000								AR - Trade		A	Asset	TRUE	FALSE		USD	03/31/2017			1661279.04
+470	111900	130								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-120293
+470	111900	140								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			71796.08
+470	111900	430								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			1424439.34
+470	111900	470								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			4290314.07
+470	111900	490								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			1126720.22
+470	111900	720								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			134376.05
+470	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	111980	000								AR - Unidentified Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	131500	000								Finished Goods		A	Asset	TRUE	FALSE		USD	03/31/2017			.15
+470	131510	000								Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	03/31/2017			95825.96
+470	131515	000								Finished Goods (GAAP) - Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	131525	000								Finished Goods - Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			42368
+470	131530	000								Inventory Reserve ? NRV ? FG		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	131540	000								Inventory Reserve ? NRV ? B&H		A	Asset	TRUE	FALSE		USD	03/31/2017			-28731
+470	132100	000								Raw Material		A	Asset	TRUE	FALSE		USD	03/31/2017			1465763.97
+470	132115	000								Raw Material - In Transit		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	132150	000								Raw Material - Obsolescence		A	Asset	TRUE	FALSE		USD	03/31/2017			-4318.72
+470	132300	000								WIP-Overhead		A	Asset	TRUE	FALSE		USD	03/31/2017			95610.22
+470	132400	000								WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	03/31/2017			34566.18
+470	132500	000								WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	133100	000								WIP-Control		A	Asset	TRUE	FALSE		USD	03/31/2017			726151.33
+470	133125	000								WIP-Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			81822
+470	134100	000								MRB Material		A	Asset	TRUE	FALSE		USD	03/31/2017			1110869.22
+470	134530	000								Inventory Reserve ? NRV ? WIP		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	141600	000								Prepaid - Rebate Due		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	141850	000								Prepaid - Intercompany Deposits		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	141850	110								Prepaid - Intercompany Deposits		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			559525.77
+470	151140	000								Deductible VAT		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	151500	000								Deposits - Short Term		A	Asset	TRUE	FALSE		USD	03/31/2017			1116318
+470	161400	000								Leasehold Improvements		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	161600	000								Machinery & Equipment		A	Asset	TRUE	FALSE		USD	03/31/2017			8937841.53
+470	161800	000								Computers		A	Asset	TRUE	FALSE		USD	03/31/2017			238589.91
+470	161900	000								Construction in Process		A	Asset	TRUE	FALSE		USD	03/31/2017			1300698.2
+470	171600	000								Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	03/31/2017			-471481.61
+470	171800	000								Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	03/31/2017			-14353.44
+470	191850	000								Restricted Cash ? Long Term		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+470	201100	000								AP - Trade		A	Liability	TRUE	FALSE		USD	03/31/2017			-2841046.95
+470	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-169946.43
+470	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-529364.45
+470	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-1500
+470	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+470	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-5410468
+470	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-964213.32
+470	201900	300								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+470	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-10016708.97
+470	201900	430								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+470	201900	470								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-2542394.82
+470	201900	490								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-2517642.81
+470	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		USD	03/31/2017			-45953.66
+470	232400	000								Other Taxes Payable		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+470	251300	000								Unearned Revenue		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+470	251350	000								Customer Deposit		A	Liability	TRUE	FALSE		USD	03/31/2017			-720497.62
+470	251600	000								Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	03/31/2017			-85752.3
+470	251650	000								Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	03/31/2017			1094.63
+470	251800	000								Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	03/31/2017			-109463
+470	251825	000								Deferred Rent - Short Term Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			-115345.9
+470	261200	000								Current Portion - Capital Leases		A	Liability	TRUE	FALSE		USD	03/31/2017			-28040.76
+470	261213	000								Current Portion - Cap Lease - VARILEASE 3		A	Liability	TRUE	FALSE		USD	03/31/2017			-3102372.88
+470	271213	000								Long Term Portion - Cap Lease-VARILEASE 3		A	Liability	TRUE	FALSE		USD	03/31/2017			-4407455.28
+470	271900	000								Other Long-Term Debt		A	Liability	TRUE	FALSE		USD	03/31/2017			-42054.54
+470	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			4691028.93
+490	101252	000								Cash in bank-GBP in DFR		A	Asset	TRUE	FALSE		USD	03/31/2017			229699.77
+490	111100	000								AR - Trade		A	Asset	TRUE	FALSE		USD	03/31/2017			1563779.59
+490	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			1851037.4
+490	111900	460								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			1023380.99
+490	111900	470								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			2537936.9
+490	111900	490								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			2425725.55
+490	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+490	132100	000								Raw Material		A	Asset	TRUE	FALSE		USD	03/31/2017			332538.51
+490	132300	000								WIP-Overhead		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+490	132400	000								WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		USD	03/31/2017			448.26
+490	132500	000								WIP-Outside Processing		A	Asset	TRUE	FALSE		USD	03/31/2017			1148.46
+490	133100	000								WIP-Control		A	Asset	TRUE	FALSE		USD	03/31/2017			18019.46
+490	134100	000								MRB Material		A	Asset	TRUE	FALSE		USD	03/31/2017			405393.14
+490	141850	000								Prepaid - Intercompany Deposits		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+490	141850	110								Prepaid - Intercompany Deposits		A	Asset	TRUE	FALSE		USD	03/31/2017			668293.3
+490	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			36562.07
+490	151140	000								Deductible VAT		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+490	151500	000								Deposits - Short Term		A	Asset	TRUE	FALSE		USD	03/31/2017			894208.48
+490	161500	000								Furniture & Fixtures		A	Asset	TRUE	FALSE		USD	03/31/2017			15830.05
+490	161600	000								Machinery & Equipment		A	Asset	TRUE	FALSE		USD	03/31/2017			3297810.15
+490	161900	000								Construction in Process		A	Asset	TRUE	FALSE		USD	03/31/2017			4332897.53
+490	171500	000								Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		USD	03/31/2017			-263.83
+490	171600	000								Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	03/31/2017			-39271.42
+490	181500	000								Computer Software		A	Asset	TRUE	FALSE		USD	03/31/2017			10283.34
+490	181550	000								Accum.Amort.-Computer Software		A	Asset	TRUE	FALSE		USD	03/31/2017			-171.39
+490	191850	000								Restricted Cash ? Long Term		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+490	201100	000								AP - Trade		A	Liability	TRUE	FALSE		USD	03/31/2017			-318245.22
+490	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-567257.29
+490	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-106536.38
+490	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-2519109.6
+490	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-1864500
+490	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-1993936.18
+490	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-11229312.14
+490	201900	470								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-1147014.01
+490	201900	490								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-778440.89
+490	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		USD	03/31/2017			-34716.09
+490	232400	000								Other Taxes Payable		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+490	251350	000								Customer Deposit		A	Liability	TRUE	FALSE		USD	03/31/2017			-666957.49
+490	251825	000								Deferred Rent - Short Term Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			-18184.12
+490	251990	000								Suspense Account		A	Liability	TRUE	FALSE		USD	03/31/2017			12663.37
+490	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			256166.53
+710	101210	000								Cash in Bank - USD (Sovereign)		A	Asset	TRUE	FALSE		USD	03/31/2017			22043852.25
+710	111100	000								AR - Trade		A	Asset	TRUE	FALSE		USD	03/31/2017			30008176.46
+710	111110	000								AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	111150	000								AR- Trade Allowance for Uncollectible		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	111200	000								AR - Employee Advances		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	111900	100								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	111900	110								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	111900	120								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			24455136.08
+710	111900	130								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-267000
+710	111900	140								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	111900	710								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	111900	720								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			243695.79
+710	111900	740								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			1634499
+710	111960	000								AR - On Account Payments		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	111980	000								AR - Unidentified Receipts		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	131510	000								Finished Goods (GAAP)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	131515	000								Finished Goods (GAAP) - Valuation		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	132100	000								Raw Material		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	134100	000								MRB Material		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	141110	000								Prepaid Insurance		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	141505	000								Deposit in Gaurantee of Rent		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	151140	000								Deductible VAT		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	151901	000								Other Assets (GAAP)		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	161300	000								Buildings		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	161600	000								Machinery & Equipment		A	Asset	TRUE	FALSE		USD	03/31/2017			17829.95
+710	161800	000								Computers		A	Asset	TRUE	FALSE		USD	03/31/2017			45077.23
+710	161900	000								Construction in Process		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	171600	000								Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		USD	03/31/2017			-17829.95
+710	171800	000								Accum.Depr. - Computers		A	Asset	TRUE	FALSE		USD	03/31/2017			-45077.23
+710	191500	000								Deposits - Long Term		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+710	191920	000								Investment in Subsidiary - Taicang		A	Asset	TRUE	FALSE		USD	03/31/2017			5715359.27
+710	201100	000								AP - Trade		A	Liability	TRUE	FALSE		USD	03/31/2017			-71202.49
+710	201110	000								AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			-54729.71
+710	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-24042.51
+710	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			1351946.55
+710	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-295240.41
+710	201900	140								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	201900	150								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	201900	710								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	201900	720								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	201900	740								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-31778555.62
+710	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		USD	03/31/2017			-29124
+710	211370	000								Short Term - Accrued Compensation		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	211900	000								Accrued Other Benefits		A	Liability	TRUE	FALSE		USD	03/31/2017			3255
+710	231015	000								Withheld FICA Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	231030	000								Withheld Federal Payroll Taxes		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	231072	000								Withheld Employee 401k Deferral		A	Liability	TRUE	FALSE		USD	03/31/2017			-36.46
+710	231500	000								Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	232110	000								State Sales Tax Payable - IA		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	232400	000								Other Taxes Payable		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	241100	000								Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	241200	000								Accrued Legal Fees		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	241300	000								Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	241310	000								Accrued Employer Payroll Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	241390	000								Accrued Expenses-Other		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	251200	000								Other Current Liabilities		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	251300	000								Unearned Revenue		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	251350	000								Customer Deposit		A	Liability	TRUE	FALSE		USD	03/31/2017			-579484.01
+710	251355	000								Intercompany - Customer deposits		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	251400	000								Customer Advance - Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	251410	000								Customer Advance-Discount-Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	251600	000								Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		USD	03/31/2017			-5561124.74
+710	251650	000								Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	251800	000								Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	251810	000								Deferred Revenue-Current Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	291100	000								Deferred Income		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	291110	000								Deferred Revenue-LongTerm Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	291400	000								Customer Advance - Non-Current		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	291410	000								Customer Advance-Discount-LongTerm Portion		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	291500	000								Other Non-Current Liability		A	Liability	TRUE	FALSE		USD	03/31/2017			-1247030.54
+710	291600	000								Warranty Reserve-Non-Current		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	291901	000								Accrued Compensation - Non Current		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+710	302100	000								Paid In Surplus		A	Equity	TRUE	FALSE		USD	03/31/2017			-2200000
+710	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			-36637754.4
+720	101100	000								Petty Cash		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	101217	000								Cash in Bank - USD Settlement Account(ABC Bank)		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	101218	000								Cash in Bank - USD Capital Account (ABC Bank)		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	101219	000								Cash in Bank - CNY Warranty Account (BOC Bank)		A	Asset	TRUE	FALSE		CNY	03/31/2017			2750000
+720	101220	000								Cash in Bank - RMB Settlement Account (ABC Bank)		A	Asset	TRUE	FALSE		CNY	03/31/2017			88752.46
+720	101221	000								Cash in Bank - USD Pending Account (ABC Bank)		A	Asset	TRUE	FALSE		CNY	03/31/2017			15053415.76
+720	101222	000								Cash in Bank - RMB Settlement Account (BOC Bank)		A	Asset	TRUE	FALSE		CNY	03/31/2017			10424257.01
+720	101223	000								Cash in Bank - USD Settlement Account (BOC Bank)		A	Asset	TRUE	FALSE		CNY	03/31/2017			6797749.48
+720	101239	000								Cash in Bank - EUR (BOC Bank)		A	Asset	TRUE	FALSE		CNY	03/31/2017			40380.68
+720	101260	000								Cash in bank - RMB (Basis Settlement DFRC Bank)		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	101272	000								Cash in bank-RMB Settlement Account (BOC DF)		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	101276	000								Cash in bank - RMB Settlement Account (CCB TC)		A	Asset	TRUE	FALSE		CNY	03/31/2017			35106.39
+720	101277	000								Cash in bank - USD Settlement Account (CCB TC)		A	Asset	TRUE	FALSE		CNY	03/31/2017			58802338.85
+720	101279	000								Cash in bank - China Citic Bank - Credit Card		A	Asset	TRUE	FALSE		CNY	03/31/2017			400.45
+720	101300	000								Cash Clearing		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	101930	000								Restricted Cash - EUR		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	101940	000								Restricted Cash - RMB		A	Asset	TRUE	FALSE		CNY	03/31/2017			3300000
+720	102100	000								Cash Equivalents (Short Term) Investment		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	102200	000								Entrust Loan - Lend to Dafeng		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	111100	000								AR - Trade		A	Asset	TRUE	FALSE		CNY	03/31/2017			31784332.77
+720	111110	000								AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	111150	000								AR- Trade Allowance for Uncollectible		A	Asset	TRUE	FALSE		CNY	03/31/2017			-337469.83
+720	111300	000								AR - Tax Refunds		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	111400	000								AR - Other		A	Asset	TRUE	FALSE		CNY	03/31/2017			7670.87
+720	111800	000								AR - Clearing		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	111900	110								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	111900	120								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	111900	130								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	111900	140								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	111900	300								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			119219.91
+720	111900	350								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			33297500
+720	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			26788296
+720	111900	710								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			14296453.03
+720	111900	740								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			50392893.5
+720	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	111980	000								AR - Unidentified Receipts		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	121300	000								Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		CNY	03/31/2017			1145469.03
+720	121400	000								Unbilled Revenue		A	Asset	TRUE	FALSE		CNY	03/31/2017			10905838.54
+720	131500	000								Finished Goods		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	131510	000								Finished Goods (GAAP)		A	Asset	TRUE	FALSE		CNY	03/31/2017			151771125.94
+720	131515	000								Finished Goods (GAAP) - Valuation		A	Asset	TRUE	FALSE		CNY	03/31/2017			-4763139
+720	131520	000								Finished Goods - Prior Year Bill & Hold		A	Asset	TRUE	FALSE		CNY	03/31/2017			-1962445.02
+720	131525	000								Finished Goods - Valuation		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	132100	000								Raw Material		A	Asset	TRUE	FALSE		CNY	03/31/2017			18845474.07
+720	132115	000								Raw Material - In Transit		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	132125	000								Raw Material - Valuation		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	132150	000								Raw Material - Obsolescence		A	Asset	TRUE	FALSE		CNY	03/31/2017			-473133.69
+720	132300	000								WIP-Overhead		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	132400	000								WIP-Resource(Direct Labor)		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	132500	000								WIP-Outside Processing		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	132600	000								Intransit Inventory		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	133100	000								WIP-Control		A	Asset	TRUE	FALSE		CNY	03/31/2017			41826723.55
+720	133125	000								WIP-Valuation		A	Asset	TRUE	FALSE		CNY	03/31/2017			-1702764
+720	133150	000								WIP Obsolescence		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	133900	000								WIP - Tooling MFG Expense		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	134100	000								MRB Material		A	Asset	TRUE	FALSE		CNY	03/31/2017			369958.26
+720	141110	000								Prepaid Insurance		A	Asset	TRUE	FALSE		CNY	03/31/2017			162571.12
+720	141200	000								Prepaid Rent		A	Asset	TRUE	FALSE		CNY	03/31/2017			96400
+720	141310	000								Prepaid Taxes - Property		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	141509	000								Other deposit in Guarantee		A	Asset	TRUE	FALSE		CNY	03/31/2017			1292988.18
+720	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		CNY	03/31/2017			388205.14
+720	151120	000								Deferred Tax Benefits - State		A	Asset	TRUE	FALSE		CNY	03/31/2017			1.6
+720	151135	000								Deferred Tax Asset		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	151140	000								Deductible VAT		A	Asset	TRUE	FALSE		CNY	03/31/2017			4753372.21
+720	151500	000								Deposits - Short Term		A	Asset	TRUE	FALSE		CNY	03/31/2017			25774567.93
+720	151900	000								Other Current Assets - Miscellaneous		A	Asset	TRUE	FALSE		CNY	03/31/2017			3224210.52
+720	151901	000								Other Assets (GAAP)		A	Asset	TRUE	FALSE		CNY	03/31/2017			4740017.3
+720	161110	000								Land		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	161111	000								Land Improvements		A	Asset	TRUE	FALSE		CNY	03/31/2017			1513411
+720	161300	000								Buildings		A	Asset	TRUE	FALSE		CNY	03/31/2017			92249942.32
+720	161400	000								Leasehold Improvements		A	Asset	TRUE	FALSE		CNY	03/31/2017			2316858.22
+720	161500	000								Furniture & Fixtures		A	Asset	TRUE	FALSE		CNY	03/31/2017			1492462.29
+720	161600	000								Machinery & Equipment		A	Asset	TRUE	FALSE		CNY	03/31/2017			61728273.96
+720	161700	000								Vehicles		A	Asset	TRUE	FALSE		CNY	03/31/2017			645140.12
+720	161800	000								Computers		A	Asset	TRUE	FALSE		CNY	03/31/2017			2652904.76
+720	161801	000								Computers - Licenses		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	161900	000								Construction in Process		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	161950	000								Construction in Process-Other		A	Asset	TRUE	FALSE		CNY	03/31/2017			1055520
+720	171200	000								Accum.Depr. - Land Improvements		A	Asset	TRUE	FALSE		CNY	03/31/2017			-711568.59
+720	171300	000								Accum.Depr. - Buildings		A	Asset	TRUE	FALSE		CNY	03/31/2017			-31227775.37
+720	171400	000								Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		CNY	03/31/2017			-1340593.45
+720	171500	000								Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		CNY	03/31/2017			-739794.71
+720	171600	000								Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		CNY	03/31/2017			-33644242.61
+720	171700	000								Accum.Depr. - Vehicles		A	Asset	TRUE	FALSE		CNY	03/31/2017			-492714.04
+720	171800	000								Accum.Depr. - Computers		A	Asset	TRUE	FALSE		CNY	03/31/2017			-2152574.32
+720	180500	000								land rights usage		A	Asset	TRUE	FALSE		CNY	03/31/2017			11365319.97
+720	181500	000								Computer Software		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	181550	000								Accum.Amort.-Computer Software		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	191135	000								Noncurrent Deferred Taxes - Foreign		A	Asset	TRUE	FALSE		CNY	03/31/2017			11969595.9
+720	191500	000								Deposits - Long Term		A	Asset	TRUE	FALSE		CNY	03/31/2017			1031490
+720	191600	000								CIP Clearing		A	Asset	TRUE	FALSE		CNY	03/31/2017			261200
+720	191610	000								Cash Equivalents (Long Term) Investment		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	191700	000								Asset Clearing		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	191800	000								Projects Clearing		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	191900	000								Other Noncurrent Assets		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+720	191921	000								Investment in Subsidiary - TPI-Dafeng		A	Asset	TRUE	FALSE		CNY	03/31/2017			20000000
+720	201100	000								AP - Trade		A	Liability	TRUE	FALSE		CNY	03/31/2017			-58790452.08
+720	201110	000								AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	201120	000								AP - Employee Reimburse		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		CNY	03/31/2017			-18270213.78
+720	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		CNY	03/31/2017			-4391424.44
+720	201300	000								AP - Clearing		A	Liability	TRUE	FALSE		CNY	03/31/2017			-269525.87
+720	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			-835676.06
+720	201900	140								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			-142689.39
+720	201900	150								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			-42718397.48
+720	201900	300								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			-346188.25
+720	201900	350								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			-46570.28
+720	201900	470								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			-927100.68
+720	201900	710								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			-15900087.74
+720	201900	740								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			-175455.07
+720	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		CNY	03/31/2017			-7651766.09
+720	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		CNY	03/31/2017			-2603627.79
+720	211400	000								Accrued Vacation		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	211906	000								Accrual for outsourced HR expenses		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	231035	000								Withheld Personal Income Tax		A	Liability	TRUE	FALSE		CNY	03/31/2017			-313861.49
+720	231075	000								Withheld Employee Pension		A	Liability	TRUE	FALSE		CNY	03/31/2017			-346955.71
+720	231080	000								Withheld Unemployment Insurance		A	Liability	TRUE	FALSE		CNY	03/31/2017			-21449.43
+720	231085	000								Withheld Housing Fund		A	Liability	TRUE	FALSE		CNY	03/31/2017			-444129.9
+720	231091	000								Withheld Medical Insurance		A	Liability	TRUE	FALSE		CNY	03/31/2017			-87547.94
+720	231200	000								Social security - Employer		A	Liability	TRUE	FALSE		CNY	03/31/2017			-1227209.19
+720	231300	000								Housing Tax		A	Liability	TRUE	FALSE		CNY	03/31/2017			-410402.5
+720	231500	000								Other Payroll Taxes Payable		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	231550	000								Other Payable-Union funds		A	Liability	TRUE	FALSE		CNY	03/31/2017			-125140.65
+720	232160	000								Education Surtax Payable		A	Liability	TRUE	FALSE		CNY	03/31/2017			685729.34
+720	232165	000								Stamp Duty Tax Payable		A	Liability	TRUE	FALSE		CNY	03/31/2017			-14185.2
+720	232210	000								VAT - Input Tax		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	232220	000								VAT - Remitted Tax		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	232240	000								VAT - Output Tax		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	232250	000								VAT - Export Reimbursement		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	232255	000								VAT - Import Review		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	232260	000								VAT - Transfer from Input Tax		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	232270	000								VAT - Export Tax Reduction for Domestic Sales		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	232280	000								VAT - Overpayment Exchange		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	232300	000								Real Estate and Property Tax Payable		A	Liability	TRUE	FALSE		CNY	03/31/2017			-180674.11
+720	232400	000								Other Taxes Payable		A	Liability	TRUE	FALSE		CNY	03/31/2017			-66500.01
+720	232500	000								Business Tax Payable(CN)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	232700	000								Income Tax Payable(CN)		A	Liability	TRUE	FALSE		CNY	03/31/2017			-2015973.78
+720	241100	000								Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		CNY	03/31/2017			-424901.6
+720	241110	000								Accrued Expenses - SOX		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	241200	000								Accrued Legal Fees		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	241300	000								Accrued Savings Fund/401(k) Contribution - Employer		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	241390	000								Accrued Expenses-Other		A	Liability	TRUE	FALSE		CNY	03/31/2017			-13575441.56
+720	241435	000								Accrued Interest Expense - ABC (mortgage)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	241437	000								Accrued Interest Expense - BOC (mortgage)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	241440	000								Accrued Interest Expense - ABC (working capital)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	241442	000								Accrued Interest Expense - BOC (working capital)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	241490	000								Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	251200	000								Other Current Liabilities		A	Liability	TRUE	FALSE		CNY	03/31/2017			-1343715.2
+720	251230	000								Income tax withheld from fee		A	Liability	TRUE	FALSE		CNY	03/31/2017			-12239791.69
+720	251350	000								Customer Deposit		A	Liability	TRUE	FALSE		CNY	03/31/2017			-25981275.64
+720	251600	000								Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		CNY	03/31/2017			-16942206.33
+720	251650	000								Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		CNY	03/31/2017			1698469.8
+720	251800	000								Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		CNY	03/31/2017			-194933645.82
+720	251990	000								Suspense Account		A	Liability	TRUE	FALSE		CNY	03/31/2017			-4200
+720	261135	000								Current Portion Long Term Debt - ABC (mortgage)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	261137	000								Current Portion Long Term Debt - BOC (mortgage)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	261140	000								Current Portion Long Term Debt - ABC (working capital)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	261142	000								Current Portion Long Term Debt - BOC (working capital)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	261143	000								Current Portion - BOC Working Capital Loans (Entrust)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	261176	000								Current Portion - Haohua Working Capital Loans		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	261970	000								Short Term Loan (W/C)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	271135	000								Long Term Debt - ABC (mortgage)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	271137	000								Long Term Debt - BOC (mortgage)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	271176	000								Long Term Debt - Haohua Microfinance		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	291500	000								Other Non-Current Liability		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	291600	000								Warranty Reserve-Non-Current		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+720	302100	000								Paid In Surplus		A	Equity	TRUE	FALSE		CNY	03/31/2017			0
+720	302300	000								Registered Capital (CN)		A	Equity	TRUE	FALSE		CNY	03/31/2017			-76415415
+720	303800	000								Surplus Reserve		A	Equity	TRUE	FALSE		CNY	03/31/2017			-20706681.55
+720	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		CNY	03/31/2017			-133951668.31
+720	304100	000								Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		CNY	03/31/2017			56496.07
+720	309000	000								Year-to-Date Net Income (Loss)		A	Equity	TRUE	FALSE		CNY	03/31/2017			0
+740	101100	000								Petty Cash		A	Asset	TRUE	FALSE		CNY	03/31/2017			9865.02
+740	101260	000								Cash in bank - RMB (Basis Settlement DFRC Bank)		A	Asset	TRUE	FALSE		CNY	03/31/2017			3872108.33
+740	101265	000								Cash in bank- USD Settlement Account (DFR) Wells		A	Asset	TRUE	FALSE		CNY	03/31/2017			4586089.66
+740	101266	000								Cash in Bank - MXN Bancomer(0107692080) Inspection Acct.		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	101269	000								Cash in bank-DKK in DFR		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	101271	000								Cash in bank-EUR in DFR		A	Asset	TRUE	FALSE		CNY	03/31/2017			4.94
+740	101272	000								Cash in bank-RMB Settlement Account (BOC DF)		A	Asset	TRUE	FALSE		CNY	03/31/2017			8993.72
+740	101276	000								Cash in bank - RMB Settlement Account (CCB TC)		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	101300	000								Cash Clearing		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	101940	000								Restricted Cash - RMB		A	Asset	TRUE	FALSE		CNY	03/31/2017			10000000
+740	111100	000								AR - Trade		A	Asset	TRUE	FALSE		CNY	03/31/2017			45799237.71
+740	111110	000								AR - Intercompany Contra Account		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	111300	000								AR - Tax Refunds		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	111400	000								AR - Other		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	111900	140								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	111900	300								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	111900	350								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			161180.2
+740	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	111900	710								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			219249783.5
+740	111900	720								AR - Intercompany		A	Asset	TRUE	FALSE		CNY	03/31/2017			175455.07
+740	111960	000								AR - On Account Payments		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	111970	000								AR- Unapplied Receipts		A	Asset	TRUE	FALSE		CNY	03/31/2017			-41395.8
+740	111980	000								AR - Unidentified Receipts		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	121300	000								Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		CNY	03/31/2017			3097453.4
+740	131500	000								Finished Goods		A	Asset	TRUE	FALSE		CNY	03/31/2017			6205928.38
+740	131510	000								Finished Goods (GAAP)		A	Asset	TRUE	FALSE		CNY	03/31/2017			115293527.55
+740	131515	000								Finished Goods (GAAP) - Valuation		A	Asset	TRUE	FALSE		CNY	03/31/2017			-1968830.13
+740	131525	000								Finished Goods - Valuation		A	Asset	TRUE	FALSE		CNY	03/31/2017			-291749.07
+740	132100	000								Raw Material		A	Asset	TRUE	FALSE		CNY	03/31/2017			37761238.88
+740	132115	000								Raw Material - In Transit		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	132125	000								Raw Material - Valuation		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	132150	000								Raw Material - Obsolescence		A	Asset	TRUE	FALSE		CNY	03/31/2017			-5279.41
+740	133100	000								WIP-Control		A	Asset	TRUE	FALSE		CNY	03/31/2017			22171692.94
+740	133125	000								WIP-Valuation		A	Asset	TRUE	FALSE		CNY	03/31/2017			-406826.61
+740	133900	000								WIP - Tooling MFG Expense		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	134100	000								MRB Material		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	141200	000								Prepaid Rent		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	141400	000								Prepaid Duty Charges		A	Asset	TRUE	FALSE		CNY	03/31/2017			1721542.16
+740	141415	000								Prepaid Raw Materials		A	Asset	TRUE	FALSE		CNY	03/31/2017			3871733.45
+740	141509	000								Other deposit in Guarantee		A	Asset	TRUE	FALSE		CNY	03/31/2017			16813410.04
+740	141900	000								Other Prepaid Assets		A	Asset	TRUE	FALSE		CNY	03/31/2017			3433404.74
+740	141901	000								Deferred profit sharing		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	141903	000								Other Prepaid Expenses		A	Asset	TRUE	FALSE		CNY	03/31/2017			1674967.32
+740	151120	000								Deferred Tax Benefits - State		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	151140	000								Deductible VAT		A	Asset	TRUE	FALSE		CNY	03/31/2017			9375241.84
+740	151500	000								Deposits - Short Term		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	151900	000								Other Current Assets - Miscellaneous		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	161500	000								Furniture & Fixtures		A	Asset	TRUE	FALSE		CNY	03/31/2017			59269962.84
+740	161600	000								Machinery & Equipment		A	Asset	TRUE	FALSE		CNY	03/31/2017			57105587.23
+740	161800	000								Computers		A	Asset	TRUE	FALSE		CNY	03/31/2017			3180328.49
+740	161900	000								Construction in Process		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	161950	000								Construction in Process-Other		A	Asset	TRUE	FALSE		CNY	03/31/2017			11841388.66
+740	171500	000								Accum.Depr. - Furniture & Fixt		A	Asset	TRUE	FALSE		CNY	03/31/2017			-15469253.68
+740	171600	000								Accum.Depr. - Machinery & Equi		A	Asset	TRUE	FALSE		CNY	03/31/2017			-18168017.43
+740	171800	000								Accum.Depr. - Computers		A	Asset	TRUE	FALSE		CNY	03/31/2017			-1637178.99
+740	181500	000								Computer Software		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	181550	000								Accum.Amort.-Computer Software		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	191135	000								Noncurrent Deferred Taxes - Foreign		A	Asset	TRUE	FALSE		CNY	03/31/2017			18964773.79
+740	191500	000								Deposits - Long Term		A	Asset	TRUE	FALSE		CNY	03/31/2017			2000000
+740	191600	000								CIP Clearing		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	191700	000								Asset Clearing		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	191900	000								Other Noncurrent Assets		A	Asset	TRUE	FALSE		CNY	03/31/2017			0
+740	201100	000								AP - Trade		A	Liability	TRUE	FALSE		CNY	03/31/2017			-149880318.79
+740	201110	000								AP - Intercompany Contra Account		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	201120	000								AP - Employee Reimburse		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	201225	000								AP - Inventory Accrual		A	Liability	TRUE	FALSE		CNY	03/31/2017			-18730577.03
+740	201245	000								AP - Expense Accrual		A	Liability	TRUE	FALSE		CNY	03/31/2017			-5515771.09
+740	201900	110								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	201900	120								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	201900	130								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	201900	140								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	201900	150								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			-24198479.95
+740	201900	300								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	201900	710								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			-11276898.95
+740	201900	720								AP - Intercompany		A	Liability	TRUE	FALSE		CNY	03/31/2017			-50392893.5
+740	211100	000								Accrued Salaries & Wages		A	Liability	TRUE	FALSE		CNY	03/31/2017			-1327186.32
+740	211300	000								Accrued Bonus		A	Liability	TRUE	FALSE		CNY	03/31/2017			-1381694.3
+740	211400	000								Accrued Vacation		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	231010	000								Withheld Charitable Contribution		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	231035	000								Withheld Personal Income Tax		A	Liability	TRUE	FALSE		CNY	03/31/2017			-241585.31
+740	231075	000								Withheld Employee Pension		A	Liability	TRUE	FALSE		CNY	03/31/2017			-222185.52
+740	231080	000								Withheld Unemployment Insurance		A	Liability	TRUE	FALSE		CNY	03/31/2017			-41865.25
+740	231085	000								Withheld Housing Fund		A	Liability	TRUE	FALSE		CNY	03/31/2017			6744.8
+740	231091	000								Withheld Medical Insurance		A	Liability	TRUE	FALSE		CNY	03/31/2017			-114465.09
+740	231200	000								Social security - Employer		A	Liability	TRUE	FALSE		CNY	03/31/2017			-60045.6
+740	231550	000								Other Payable-Union funds		A	Liability	TRUE	FALSE		CNY	03/31/2017			-943825.15
+740	232160	000								Education Surtax Payable		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	232165	000								Stamp Duty Tax Payable		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	232210	000								VAT - Input Tax		A	Liability	TRUE	FALSE		CNY	03/31/2017			33434807.03
+740	232220	000								VAT - Remitted Tax		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	232240	000								VAT - Output Tax		A	Liability	TRUE	FALSE		CNY	03/31/2017			-6519416.93
+740	232250	000								VAT - Export Reimbursement		A	Liability	TRUE	FALSE		CNY	03/31/2017			-25561363
+740	232255	000								VAT - Import Review		A	Liability	TRUE	FALSE		CNY	03/31/2017			265261.57
+740	232260	000								VAT - Transfer from Input Tax		A	Liability	TRUE	FALSE		CNY	03/31/2017			-213588.84
+740	232280	000								VAT - Overpayment Exchange		A	Liability	TRUE	FALSE		CNY	03/31/2017			-1140438.26
+740	232400	000								Other Taxes Payable		A	Liability	TRUE	FALSE		CNY	03/31/2017			-2740186.04
+740	232500	000								Business Tax Payable(CN)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	232640	000								State Income Tax Payable - SC		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	232700	000								Income Tax Payable(CN)		A	Liability	TRUE	FALSE		CNY	03/31/2017			-23688290.19
+740	241100	000								Accrued Audit & Tax Fees		A	Liability	TRUE	FALSE		CNY	03/31/2017			-606743.31
+740	241200	000								Accrued Legal Fees		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	241390	000								Accrued Expenses-Other		A	Liability	TRUE	FALSE		CNY	03/31/2017			-5397116.77
+740	241440	000								Accrued Interest Expense - ABC (working capital)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	241490	000								Accrued Interest Expense - Other		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	251200	000								Other Current Liabilities		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	251350	000								Customer Deposit		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	251600	000								Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		CNY	03/31/2017			-12621103.29
+740	251650	000								Warranty Reserve-Short Term (GAAP)		A	Liability	TRUE	FALSE		CNY	03/31/2017			4762736.44
+740	251800	000								Deferred Revenue (GAAP)		A	Liability	TRUE	FALSE		CNY	03/31/2017			-158757881.19
+740	261144	000								Current Portion - Jiangsu Dafeng Rural Cooperative Bank		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	261970	000								Short Term Loan (W/C)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	271140	000								Long Term Debt - ABC (working capital)		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	291350	000								Deferred Tax Liability - Non-Current		A	Liability	TRUE	FALSE		CNY	03/31/2017			.03
+740	291600	000								Warranty Reserve-Non-Current		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+740	302300	000								Registered Capital (CN)		A	Equity	TRUE	FALSE		CNY	03/31/2017			-20000000
+740	303800	000								Surplus Reserve		A	Equity	TRUE	FALSE		CNY	03/31/2017			-10000000
+740	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		CNY	03/31/2017			-62072983.26
+740	304100	000								Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		CNY	03/31/2017			251.04
+900	251600	000								Warranty Reserve-Short Term		A	Liability	TRUE	FALSE		CNY	03/31/2017			1434728.05
+900	291600	000								Warranty Reserve-Non-Current		A	Liability	TRUE	FALSE		CNY	03/31/2017			0
+900	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		CNY	03/31/2017			-1436545.2
+900	304100	000								Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		CNY	03/31/2017			1817.15
+940	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-5226826.84
+940	121300	000								Other Miscellaneous Receivables		A	Asset	TRUE	FALSE		USD	03/31/2017			-99765.82
+940	141901	000								Deferred profit sharing		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+940	141902	000								Deferred income tax		A	Asset	TRUE	FALSE		USD	03/31/2017			-319672.72
+940	171400	000								Accum.Depr. - Leasehold Improvement		A	Asset	TRUE	FALSE		USD	03/31/2017			0
+940	191510	000								Noncurrent Deferred Taxes - Federal		A	Asset	TRUE	FALSE		USD	03/31/2017			671419.75
+940	201200	000								AP - Accrual		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+940	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			4493558.2
+940	211350	000								Accrued Profit Sharing		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+940	232720	000								Income Tax Payable (MX)		A	Liability	TRUE	FALSE		USD	03/31/2017			49064.62
+940	291997	000								Accrual -seniority premium retirement		A	Liability	TRUE	FALSE		USD	03/31/2017			0
+940	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			518244.46
+940	304100	000								Cumulative Translation Adjustment		A	Equity	TRUE	FALSE		USD	03/31/2017			-86021.65
+950	111900	410								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			22300.47
+950	111900	470								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-5714753.64
+950	201900	410								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			-101.83
+950	201900	470								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			5692555
+950	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			0
+960	111900	460								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-1023380.99
+960	111900	490								AR - Intercompany		A	Asset	TRUE	FALSE		USD	03/31/2017			-2815732.61
+960	201900	490								AP - Intercompany		A	Liability	TRUE	FALSE		USD	03/31/2017			3839113.6
+960	303990	000								Retained Earnings/ (Accumulated Deficit)		A	Equity	TRUE	FALSE		USD	03/31/2017			0
