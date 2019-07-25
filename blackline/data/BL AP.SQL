@@ -35,4 +35,4 @@ GROUP BY gl_combos.SEGMENT1,
   gl_combos.SEGMENT5
 ORDER BY gl_combos.SEGMENT1 desc,
   gl_combos.SEGMENT3,
-  gl_combos.SEGMENT5;
+  gl_combos.SEGMENT5;--changed by Wagner
